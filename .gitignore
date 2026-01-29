@@ -1,0 +1,17 @@
+*.ba2
+*.bak
+*.bat
+*.bin
+*.cdx
+*.dll
+*.bk2
+*.esm
+*.swf
+*.sst
+*.jpg
+*.exe
+*.png
+**/__folder_managed_by_vortex
+*.vortex_backup
+strings/**
+*.btd

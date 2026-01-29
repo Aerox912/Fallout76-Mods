@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mod Readme</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: #333;
+            color: #ddd;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #444;
+            padding: 25px;
+            border-radius: 8px;
+        }
+        a {
+            color: #6caddf;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        pre, code {
+            background-color: #2a2a2a;
+            border: 1px solid #555;
+            border-radius: 4px;
+            padding: 10px;
+            font-family: 'Courier New', Courier, monospace;
+            white-space: pre-wrap; /* Allows wrapping for long lines */
+            word-wrap: break-word;
+        }
+        code {
+             padding: 2px 5px;
+        }
+        blockquote {
+            border-left: 4px solid #f1c232;
+            padding-left: 15px;
+            margin-left: 0;
+            font-style: italic;
+            background-color: #4a4a4a;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #555;
+            border-radius: 4px;
+        }
+        .text-center {
+            text-align: center;
+        }
+        .text-left {
+            text-align: left;
+        }
+        .size-6 { font-size: 2.5em; }
+        .size-4 { font-size: 1.25em; }
+        .size-2 { font-size: 0.85em; }
+        ol {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <div class="text-center">
+            <p><strong style="color:#ffe599;"><span class="size-6">Not working as expected?</span></strong></p>
+        </div>
+
+        <div class="text-center">
+            <pre>Keep your mouse circle on the fish symbol, you'll get it to work.</pre>
+            <p><strong><span class="size-2">Suggestion by <a href="https://www.nexusmods.com/users/1063902" target="_blank" rel="noopener noreferrer">@pottman</a> , thank you!</span></strong></p>
+        </div>
+        
+        <div class="text-center">
+            <p><span class="size-6"><strong><span style="color:#6aa84f">Easy Installation Guide</span></strong></span></p>
+            <p><span class="size-4">Welcome! Let's get this mod working in just a couple of simple steps.</span></p>
+        </div>
+        
+        <hr>
+
+        <div class="text-center">
+            <p><span class="size-6"><strong><span style="color:#3d85c6">Step 1: Find Your Fallout 76 Folder</span></strong></span></p>
+        </div>
+        
+        <p>First, we need to navigate to your user documents folder for Fallout 76.</p>
+        <p><strong>The Easiest Way:</strong></p>
+        <ol>
+            <li>Press the <strong>WINDOWS Key + R Key</strong> at the same time to open the "Run" window.</li>
+            <li>Copy and paste the following path into the box:</li>
+        </ol>
+        <pre>%userprofile%/Documents/My Games/Fallout 76/</pre>
+        <div class="text-center">
+            <img src="https://f76.online/external/img/betterfishinginstall1.png" alt="Run dialog box">
+        </div>
+        <ol start="3">
+            <li>Press OK. A folder should open containing files like <strong>Fallout76.ini</strong> and <strong>Project76.ini</strong>.</li>
+        </ol>
+        
+        <blockquote>
+            <p><strong>Heads Up!</strong> The files we are looking for end in <strong>.ini</strong>, not .txt. You can open and edit them with the standard Notepad app.</p>
+        </blockquote>
+
+        <hr>
+
+        <div class="text-center">
+            <p><span class="size-6"><strong><span style="color:#f1c232">Step 2: Add the Magic Lines</span></strong></span></p>
+        </div>
+        
+        <p>Now we'll edit the configuration file to activate the mod.</p>
+        <ol>
+            <li>Look for a file named <strong>Fallout76Custom.ini</strong> or <strong>Project76Custom.ini</strong>.</li>
+            <li>If you <u>don't</u> have this file, no problem! Right-click inside the folder, select <strong>New -&gt; Text Document</strong>, and name it <strong>Fallout76Custom.ini</strong>. (Make sure to change the ending from .txt to .ini!)</li>
+            <li>Open the file and paste the following lines inside:</li>
+        </ol>
+        <pre>
+[Archive]
+sResourceIndexFileList=BetterFishing.ba2
+bInvalidateOlderFiles=1
+sResourceDataDirsFinal=
+</pre>
+        <hr>
+
+        <div class="text-center">
+            <p><span class="size-6"><span style="color:#6aa84f"><strong>You're all set!</strong></span></span></p>
+            <p><span class="size-4"><strong>Just save the file, close it, and you're good to go. Happy fishing!</strong></span></p>
+        </div>
+
+        <div class="text-left">
+            <p><strong><span style="color:#e69138">Need some help?</span></strong></p>
+            <p>Feel free to send me a friend request or a message on Discord!</p>
+            <p><strong>Discord ID:</strong></p>
+            <pre>_owlyyy</pre>
+        </div>
+
+    </div>
+</body>
+</html>

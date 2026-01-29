@@ -1,0 +1,57 @@
+{
+  "x": -149,
+  "y": 990,
+  "width": 234,
+  "height": 14,
+
+  "alpha": 1,
+  "backgroundAlpha": 0.2,
+
+  "framePadding": 2,
+  "frameThickness": 1,
+  "frameColor": "000000",
+
+  "barPadding": 0,
+  "barColor": "82FF8A",
+  "backgroundColor": "000000",
+
+  "showPercent": true,
+  "shadow": true,
+  "font": "$MAIN_Font",
+  "textSize": 14,
+
+  "levelPosition": "top",
+  "levelOffsetX": -10,
+  "levelOffsetY": 15,
+
+  "percentPosition": "right",
+  "percentOffsetX": 2,
+  "percentOffsetY": 5,
+
+  "fillBorderThickness": 1,
+  "fillBorderColor": "258A2C",
+
+  "HUDModesState": "Hidden",
+  "HUDModes": [
+    "MapMenu",
+    "TerminalMode",
+    "Pipboy",
+    "ContainerMode",
+    "PauseMode",
+    "SelfieMode",
+    "SitWaitMode",
+    "NoHud",
+    "WorkshopMode",
+    "CampPlacement",
+    "InspectMode",
+    "PauseMode",
+    "PerksMode",
+    "VATS",
+    "VATSPlayback",
+    "DeathRespawnMode",
+    "SelfieMode",
+    "DialogueMode",
+    "LegendaryPerksMode",
+    "PowerArmor"
+  ]
+}

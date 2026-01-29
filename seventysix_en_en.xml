@@ -1,0 +1,3089 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="03BC9C">
+      <EDID>MTR06_ExamSubterminal05</EDID>
+      <REC id="2" idMax="2">TERM:ITXT</REC>
+      <Source>1 pt. Purified Water, 2 Ash Rose, 2 Blight, 2 Soot Flower</Source>
+      <Dest>(X) 1 pt. Purified Water, 2 Ash Rose, 2 Blight, 2 Soot Flower</Dest>
+    </String>
+    <String List="0" sID="03BE35">
+      <EDID>MTR05_ExamSubterminal03</EDID>
+      <REC id="0" idMax="2">TERM:ITXT</REC>
+      <Source>Dig up dirt on the politician to lower their price</Source>
+      <Dest>(X) Dig up dirt on the politician to lower their price</Dest>
+    </String>
+    <String List="0" sID="03BEB4">
+      <EDID>EN02_IntelRoomExamsSubTerminal05</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>AGI 9+] Stuff the Ballot Box</Source>
+      <Dest>(+3) AGI 9+] Stuff the Ballot Box</Dest>
+    </String>
+    <String List="0" sID="03BEB6">
+      <EDID>EN02_IntelRoomExamsSubTerminal05</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>CHR 9+] Unleash Rousing Speech</Source>
+      <Dest>(+4) CHR 9+] Unleash Rousing Speech</Dest>
+    </String>
+    <String List="0" sID="03BEE3">
+      <EDID>EN02_IntelRoomExamsSubTerminal04a</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>General Constantine Chase</Source>
+      <Dest>(+2) General Constantine Chase</Dest>
+    </String>
+    <String List="0" sID="03BEF8">
+      <EDID>EN02_IntelRoomExamsSubTerminal02</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Andrew Jackson</Source>
+      <Dest>(+0) Andrew Jackson</Dest>
+    </String>
+    <String List="0" sID="03BEFA">
+      <EDID>EN02_IntelRoomExamsSubTerminal02</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Ulysses S. Grant</Source>
+      <Dest>(+2) Ulysses S. Grant</Dest>
+    </String>
+    <String List="0" sID="03BEFC">
+      <EDID>EN02_IntelRoomExamsSubTerminal02</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Chester A. Arthur</Source>
+      <Dest>(+0) Chester A. Arthur</Dest>
+    </String>
+    <String List="0" sID="03BEFE">
+      <EDID>EN02_IntelRoomExamsSubTerminal02</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Abraham Lincoln</Source>
+      <Dest>(+0) Abraham Lincoln</Dest>
+    </String>
+    <String List="0" sID="03C0FF">
+      <EDID>MTR06_ExamSubterminal02</EDID>
+      <REC id="1" idMax="2">TERM:ITXT</REC>
+      <Source>A water-soaked rag</Source>
+      <Dest>(X) A water-soaked rag</Dest>
+    </String>
+    <String List="0" sID="03C1C1">
+      <EDID>MTR05_ExamSubterminal05</EDID>
+      <REC id="0" idMax="2">TERM:ITXT</REC>
+      <Source>Turn over the details to Hornwright&apos;s top-notch corporate intelligence team</Source>
+      <Dest>(X) Turn over the details to Hornwright&apos;s top-notch corporate intelligence team</Dest>
+    </String>
+    <String List="0" sID="03C1FD">
+      <EDID>EN02_IntelRoomExamsSubTerminal01</EDID>
+      <REC id="0" idMax="5">TERM:ITXT</REC>
+      <Source>Business Owner / Executive</Source>
+      <Dest>(+2) Business Owner / Executive</Dest>
+    </String>
+    <String List="0" sID="03C1FF">
+      <EDID>EN02_IntelRoomExamsSubTerminal01</EDID>
+      <REC id="1" idMax="5">TERM:ITXT</REC>
+      <Source>Lawyer</Source>
+      <Dest>(+1) Lawyer</Dest>
+    </String>
+    <String List="0" sID="03C201">
+      <EDID>EN02_IntelRoomExamsSubTerminal01</EDID>
+      <REC id="2" idMax="5">TERM:ITXT</REC>
+      <Source>Military / Law Enforcement</Source>
+      <Dest>(+0) Military / Law Enforcement</Dest>
+    </String>
+    <String List="0" sID="03C203">
+      <EDID>EN02_IntelRoomExamsSubTerminal01</EDID>
+      <REC id="3" idMax="5">TERM:ITXT</REC>
+      <Source>Doctor / Scientist</Source>
+      <Dest>(+2) Doctor / Scientist</Dest>
+    </String>
+    <String List="0" sID="03C205">
+      <EDID>EN02_IntelRoomExamsSubTerminal01</EDID>
+      <REC id="4" idMax="5">TERM:ITXT</REC>
+      <Source>Agriculture / Food Services</Source>
+      <Dest>(+0) Agriculture / Food Services</Dest>
+    </String>
+    <String List="0" sID="03C207">
+      <EDID>EN02_IntelRoomExamsSubTerminal01</EDID>
+      <REC id="5" idMax="5">TERM:ITXT</REC>
+      <Source>Other</Source>
+      <Dest>(+0) Other</Dest>
+    </String>
+    <String List="0" sID="03C3A2">
+      <EDID>MTR05_ExamSubterminal04</EDID>
+      <REC id="1" idMax="2">TERM:ITXT</REC>
+      <Source>Offer them lucrative jobs to get them to reveal their identities</Source>
+      <Dest>(X) Offer them lucrative jobs to get them to reveal their identities</Dest>
+    </String>
+    <String List="0" sID="03C3F3">
+      <EDID>MTR06_ExamSubterminal04</EDID>
+      <REC id="1" idMax="2">TERM:ITXT</REC>
+      <Source>Retreat immediately</Source>
+      <Dest>(X) Retreat immediately</Dest>
+    </String>
+    <String List="0" sID="03C7C6">
+      <EDID>EN02_IntelRoomExamsSubTerminal04</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Salad Fork</Source>
+      <Dest>(+0) Salad Fork</Dest>
+    </String>
+    <String List="0" sID="03C7C8">
+      <EDID>EN02_IntelRoomExamsSubTerminal04</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Dinner Fork</Source>
+      <Dest>(+0) Dinner Fork</Dest>
+    </String>
+    <String List="0" sID="03C7CA">
+      <EDID>EN02_IntelRoomExamsSubTerminal04</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Oyster Fork</Source>
+      <Dest>(+2) Oyster Fork</Dest>
+    </String>
+    <String List="0" sID="03C7CC">
+      <EDID>EN02_IntelRoomExamsSubTerminal04</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Fish Fork</Source>
+      <Dest>(+0) Fish Fork</Dest>
+    </String>
+    <String List="0" sID="03C838">
+      <EDID>EN02_IntelRoomExamsSubTerminal03</EDID>
+      <REC id="0" idMax="4">TERM:ITXT</REC>
+      <Source>St. Thomas Aquinas</Source>
+      <Dest>(+1) St. Thomas Aquinas</Dest>
+    </String>
+    <String List="0" sID="03C83A">
+      <EDID>EN02_IntelRoomExamsSubTerminal03</EDID>
+      <REC id="1" idMax="4">TERM:ITXT</REC>
+      <Source>Adam Smith</Source>
+      <Dest>(+3) Adam Smith</Dest>
+    </String>
+    <String List="0" sID="03C83C">
+      <EDID>EN02_IntelRoomExamsSubTerminal03</EDID>
+      <REC id="2" idMax="4">TERM:ITXT</REC>
+      <Source>John Stuart Mill</Source>
+      <Dest>(+2) John Stuart Mill</Dest>
+    </String>
+    <String List="0" sID="03CB5F">
+      <EDID>MTR06_ExamSubterminal01</EDID>
+      <REC id="2" idMax="2">TERM:ITXT</REC>
+      <Source>Evacuate as quickly as possible</Source>
+      <Dest>(X) Evacuate as quickly as possible</Dest>
+    </String>
+    <String List="0" sID="03CFDF">
+      <EDID>MTR06_ExamSubterminal03</EDID>
+      <REC id="0" idMax="2">TERM:ITXT</REC>
+      <Source>Gently bind the burn with clean bandages</Source>
+      <Dest>(X) Gently bind the burn with clean bandages</Dest>
+    </String>
+    <String List="0" sID="03D334">
+      <EDID>MTR05_ExamSubterminal02</EDID>
+      <REC id="1" idMax="2">TERM:ITXT</REC>
+      <Source>Blackmail them into providing more information</Source>
+      <Dest>(X) Blackmail them into providing more information</Dest>
+    </String>
+    <String List="0" sID="03D706">
+      <EDID>MTR06_ExamSubterminal06</EDID>
+      <REC id="1" idMax="2">TERM:ITXT</REC>
+      <Source>Fall back and engage from a distance with firearms</Source>
+      <Dest>(X) Fall back and engage from a distance with firearms</Dest>
+    </String>
+    <String List="0" sID="03D714">
+      <EDID>MTR05_ExamSubterminal01</EDID>
+      <REC id="1" idMax="2">TERM:ITXT</REC>
+      <Source>Blame the incident on agitators in the local unions</Source>
+      <Dest>(X) Blame the incident on agitators in the local unions</Dest>
+    </String>
+    <String List="0" sID="03D853">
+      <EDID>MTR06_ExamSubterminal07</EDID>
+      <REC id="2" idMax="2">TERM:ITXT</REC>
+      <Source>End his life as mercifully as possible</Source>
+      <Dest>(X) End his life as mercifully as possible</Dest>
+    </String>
+    <String List="0" sID="045136">
+      <EDID>EN02_IntelRoomExamsSubTerminal03</EDID>
+      <REC id="4" idMax="4">TERM:ITXT</REC>
+      <Source>Elvis Presley</Source>
+      <Dest>(+1) Elvis Presley</Dest>
+    </String>
+    <String List="0" sID="0499BC">
+      <EDID>P01C_BadgeTerminal_Medic_Q01</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Treat her with Addictol</Source>
+      <Dest>(X) Treat her with Addictol</Dest>
+    </String>
+    <String List="0" sID="0499CF">
+      <EDID>P01C_BadgeTerminal_Medic_Q02</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Stop worrying, as nuclear power is 100% safe and effective</Source>
+      <Dest>(X) Stop worrying, as nuclear power is 100% safe and effective</Dest>
+    </String>
+    <String List="0" sID="0499DB">
+      <EDID>P01C_BadgeTerminal_Medic_Q00</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Call an ambulance!</Source>
+      <Dest>(X) Call an ambulance!</Dest>
+    </String>
+    <String List="0" sID="049CAD">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q00</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>... - - - . . .</Source>
+      <Dest>(X) ... - - - . . .</Dest>
+    </String>
+    <String List="0" sID="049CB7">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q01</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Report it to the authorities immediately!</Source>
+      <Dest>(X) Report it to the authorities immediately!</Dest>
+    </String>
+    <String List="0" sID="049E41">
+      <EDID>P01C_BadgeTerminal_Hunter_Q13</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>American black bear</Source>
+      <Dest>(X) American black bear</Dest>
+    </String>
+    <String List="0" sID="049E4F">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q08</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Cryptanalysis</Source>
+      <Dest>(X) Cryptanalysis</Dest>
+    </String>
+    <String List="0" sID="049E59">
+      <EDID>P01C_BadgeTerminal_Medic_Q08</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Astrologist</Source>
+      <Dest>(X) Astrologist</Dest>
+    </String>
+    <String List="0" sID="049E65">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q02</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>XII LC QEB XYLSB</Source>
+      <Dest>(X) XII LC QEB XYLSB</Dest>
+    </String>
+    <String List="0" sID="049E6D">
+      <EDID>P01C_BadgeTerminal_Hunter_Q05</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>The passenger pigeon</Source>
+      <Dest>(X) The passenger pigeon</Dest>
+    </String>
+    <String List="0" sID="049E79">
+      <EDID>P01C_BadgeTerminal_Electrician_Q17</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Soldering</Source>
+      <Dest>(X) Soldering</Dest>
+    </String>
+    <String List="0" sID="049E7F">
+      <EDID>P01C_BadgeTerminal_Medic_Q18</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Hydrophobia</Source>
+      <Dest>(X) Hydrophobia</Dest>
+    </String>
+    <String List="0" sID="049E87">
+      <EDID>P01C_BadgeTerminal_Medic_Q13</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Asclepius</Source>
+      <Dest>(X) Asclepius</Dest>
+    </String>
+    <String List="0" sID="049E97">
+      <EDID>P01C_BadgeTerminal_Hunter_Q19</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>A ramrod</Source>
+      <Dest>(X) A ramrod</Dest>
+    </String>
+    <String List="0" sID="049E9D">
+      <EDID>P01C_BadgeTerminal_Medic_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Humerus</Source>
+      <Dest>(X) Humerus</Dest>
+    </String>
+    <String List="0" sID="049EA5">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q09</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Navajo</Source>
+      <Dest>(X) Navajo</Dest>
+    </String>
+    <String List="0" sID="049EB3">
+      <EDID>P01C_BadgeTerminal_Electrician_Q09</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Ampere</Source>
+      <Dest>(X) Ampere</Dest>
+    </String>
+    <String List="0" sID="049EBD">
+      <EDID>P01C_BadgeTerminal_Hunter_Q08</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Shotgun</Source>
+      <Dest>(X) Shotgun</Dest>
+    </String>
+    <String List="0" sID="049EC3">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q07</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>A closed fist with thumb over middle finger</Source>
+      <Dest>(X) A closed fist with thumb over middle finger</Dest>
+    </String>
+    <String List="0" sID="049ED3">
+      <EDID>P01C_BadgeTerminal_Medic_Q12</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Let her family decide</Source>
+      <Dest>(X) Let her family decide</Dest>
+    </String>
+    <String List="0" sID="049EDB">
+      <EDID>P01C_BadgeTerminal_Hunter_Q02</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A deer</Source>
+      <Dest>(X) A deer</Dest>
+    </String>
+    <String List="0" sID="049EE1">
+      <EDID>P01C_BadgeTerminal_Electrician_Q15</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Benjamin Franklin</Source>
+      <Dest>(X) Benjamin Franklin</Dest>
+    </String>
+    <String List="0" sID="049EED">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Computing all possible solutions sequentially</Source>
+      <Dest>(X) Computing all possible solutions sequentially</Dest>
+    </String>
+    <String List="0" sID="049EF7">
+      <EDID>P01C_BadgeTerminal_Electrician_Q16</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>At least 500 volts</Source>
+      <Dest>(X) At least 500 volts</Dest>
+    </String>
+    <String List="0" sID="049F07">
+      <EDID>P01C_BadgeTerminal_Electrician_Q11</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A multimeter</Source>
+      <Dest>(X) A multimeter</Dest>
+    </String>
+    <String List="0" sID="049F0D">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q13</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Unencrypted information</Source>
+      <Dest>(X) Unencrypted information</Dest>
+    </String>
+    <String List="0" sID="049F19">
+      <EDID>P01C_BadgeTerminal_Medic_Q04</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Shell Shock</Source>
+      <Dest>(X) Shell Shock</Dest>
+    </String>
+    <String List="0" sID="049F27">
+      <EDID>P01C_BadgeTerminal_Electrician_Q07</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Teflon</Source>
+      <Dest>(X) Teflon</Dest>
+    </String>
+    <String List="0" sID="049F2B">
+      <EDID>P01C_BadgeTerminal_Electrician_Q12</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Unplug it</Source>
+      <Dest>(X) Unplug it</Dest>
+    </String>
+    <String List="0" sID="049F3C">
+      <EDID>P01C_BadgeTerminal_Electrician_Q03</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Gaffer</Source>
+      <Dest>(X) Gaffer</Dest>
+    </String>
+    <String List="0" sID="049F44">
+      <EDID>P01C_BadgeTerminal_Medic_Q19</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>My designated Vault-Tec vault</Source>
+      <Dest>(X) My designated Vault-Tec vault</Dest>
+    </String>
+    <String List="0" sID="049F57">
+      <EDID>P01C_BadgeTerminal_Hunter_Q18</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Maintained his firearm properly</Source>
+      <Dest>(X) Maintained his firearm properly</Dest>
+    </String>
+    <String List="0" sID="049F63">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q17</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>The Vigenere cipher</Source>
+      <Dest>(X) The Vigenere cipher</Dest>
+    </String>
+    <String List="0" sID="049F67">
+      <EDID>P01C_BadgeTerminal_Hunter_Q16</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>A leg-hold trap</Source>
+      <Dest>(X) A leg-hold trap</Dest>
+    </String>
+    <String List="0" sID="049F77">
+      <EDID>P01C_BadgeTerminal_Medic_Q09</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Black lung</Source>
+      <Dest>(X) Black lung</Dest>
+    </String>
+    <String List="0" sID="049F81">
+      <EDID>P01C_BadgeTerminal_Hunter_Q17</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Shank</Source>
+      <Dest>(X) Shank</Dest>
+    </String>
+    <String List="0" sID="049F87">
+      <EDID>P01C_BadgeTerminal_Medic_Q10</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Rectus femoris</Source>
+      <Dest>(X) Rectus femoris</Dest>
+    </String>
+    <String List="0" sID="049F93">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q06</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>The same key</Source>
+      <Dest>(X) The same key</Dest>
+    </String>
+    <String List="0" sID="049F9F">
+      <EDID>P01C_BadgeTerminal_Hunter_Q01</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A snare</Source>
+      <Dest>(X) A snare</Dest>
+    </String>
+    <String List="0" sID="049FA5">
+      <EDID>P01C_BadgeTerminal_Hunter_Q10</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>A red fox</Source>
+      <Dest>(X) A red fox</Dest>
+    </String>
+    <String List="0" sID="049FB3">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q10</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>You</Source>
+      <Dest>(X) You</Dest>
+    </String>
+    <String List="0" sID="049FB9">
+      <EDID>P01C_BadgeTerminal_Hunter_Q12</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Decoys</Source>
+      <Dest>(X) Decoys</Dest>
+    </String>
+    <String List="0" sID="049FC3">
+      <EDID>P01C_BadgeTerminal_Medic_Q07</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>A few inches above the wound</Source>
+      <Dest>(X) A few inches above the wound</Dest>
+    </String>
+    <String List="0" sID="049FD3">
+      <EDID>P01C_BadgeTerminal_Hunter_Q07</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Bloodhound</Source>
+      <Dest>(X) Bloodhound</Dest>
+    </String>
+    <String List="0" sID="049FDD">
+      <EDID>P01C_BadgeTerminal_Electrician_Q01</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="049FE3">
+      <EDID>P01C_BadgeTerminal_Electrician_Q13</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Copper</Source>
+      <Dest>(X) Copper</Dest>
+    </String>
+    <String List="0" sID="049FEF">
+      <EDID>P01C_BadgeTerminal_Electrician_Q14</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Using steam from heated water to turn turbines</Source>
+      <Dest>(X) Using steam from heated water to turn turbines</Dest>
+    </String>
+    <String List="0" sID="04A022">
+      <EDID>P01C_BadgeTerminal_Medic_Q11</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>A splint</Source>
+      <Dest>(X) A splint</Dest>
+    </String>
+    <String List="0" sID="04A02E">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q12</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Colossi</Source>
+      <Dest>(X) Colossi</Dest>
+    </String>
+    <String List="0" sID="04A05A">
+      <EDID>P01C_BadgeTerminal_Hunter_Q15</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Freshwater rivers</Source>
+      <Dest>(X) Freshwater rivers</Dest>
+    </String>
+    <String List="0" sID="04A064">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q16</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>A cross</Source>
+      <Dest>(X) A cross</Dest>
+    </String>
+    <String List="0" sID="04A070">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q19</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>2</Source>
+      <Dest>(X) 2</Dest>
+    </String>
+    <String List="0" sID="04A07C">
+      <EDID>P01C_BadgeTerminal_Electrician_Q05</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A zig-zagging line</Source>
+      <Dest>(X) A zig-zagging line</Dest>
+    </String>
+    <String List="0" sID="04A086">
+      <EDID>P01C_BadgeTerminal_Hunter_Q09</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A blind</Source>
+      <Dest>(X) A blind</Dest>
+    </String>
+    <String List="0" sID="04A090">
+      <EDID>P01C_BadgeTerminal_Hunter_Q00</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>A trail or desire path</Source>
+      <Dest>(X) A trail or desire path</Dest>
+    </String>
+    <String List="0" sID="04A098">
+      <EDID>P01C_BadgeTerminal_Electrician_Q19</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>The sudden flow of electricity</Source>
+      <Dest>(X) The sudden flow of electricity</Dest>
+    </String>
+    <String List="0" sID="04A0A4">
+      <EDID>P01C_BadgeTerminal_Electrician_Q08</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Thomas Edison</Source>
+      <Dest>(X) Thomas Edison</Dest>
+    </String>
+    <String List="0" sID="04A0AE">
+      <EDID>P01C_BadgeTerminal_Medic_Q17</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Hemophilia</Source>
+      <Dest>(X) Hemophilia</Dest>
+    </String>
+    <String List="0" sID="04A0BC">
+      <EDID>P01C_BadgeTerminal_Electrician_Q04</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Voltage</Source>
+      <Dest>(X) Voltage</Dest>
+    </String>
+    <String List="0" sID="04A0C0">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q18</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Thomas Jefferson</Source>
+      <Dest>(X) Thomas Jefferson</Dest>
+    </String>
+    <String List="0" sID="04A0CE">
+      <EDID>P01C_BadgeTerminal_Electrician_Q00</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Call the power company to report it</Source>
+      <Dest>(X) Call the power company to report it</Dest>
+    </String>
+    <String List="0" sID="04A0D4">
+      <EDID>P01C_BadgeTerminal_Electrician_Q02</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>It&apos;s grown as a crystal</Source>
+      <Dest>(X) It&apos;s grown as a crystal</Dest>
+    </String>
+    <String List="0" sID="04A0DE">
+      <EDID>P01C_BadgeTerminal_Electrician_Q06</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Dangerous alternating current</Source>
+      <Dest>(X) Dangerous alternating current</Dest>
+    </String>
+    <String List="0" sID="04A0EC">
+      <EDID>P01C_BadgeTerminal_Medic_Q15</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>White</Source>
+      <Dest>(X) White</Dest>
+    </String>
+    <String List="0" sID="04A0FA">
+      <EDID>P01C_BadgeTerminal_Medic_Q16</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Heart attack</Source>
+      <Dest>(X) Heart attack</Dest>
+    </String>
+    <String List="0" sID="04A102">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q04</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>i &lt;= 10</Source>
+      <Dest>(X) i &lt;= 10</Dest>
+    </String>
+    <String List="0" sID="04A10C">
+      <EDID>P01C_BadgeTerminal_Medic_Q06</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Dysentery</Source>
+      <Dest>(X) Dysentery</Dest>
+    </String>
+    <String List="0" sID="04A116">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q14</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>The Trojan Horse</Source>
+      <Dest>(X) The Trojan Horse</Dest>
+    </String>
+    <String List="0" sID="04A11E">
+      <EDID>P01C_BadgeTerminal_Hunter_Q03</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Open skinning</Source>
+      <Dest>(X) Open skinning</Dest>
+    </String>
+    <String List="0" sID="04A128">
+      <EDID>P01C_BadgeTerminal_Hunter_Q04</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Using your boot to stomp on them</Source>
+      <Dest>(X) Using your boot to stomp on them</Dest>
+    </String>
+    <String List="0" sID="04A136">
+      <EDID>P01C_BadgeTerminal_Hunter_Q11</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>None of the above</Source>
+      <Dest>(X) None of the above</Dest>
+    </String>
+    <String List="0" sID="04A13A">
+      <EDID>P01C_BadgeTerminal_Hunter_Q06</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Turn him in for poaching</Source>
+      <Dest>(X) Turn him in for poaching</Dest>
+    </String>
+    <String List="0" sID="04A14A">
+      <EDID>P01C_BadgeTerminal_Electrician_Q18</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Poseidon Energy Plant WV-06</Source>
+      <Dest>(X) Poseidon Energy Plant WV-06</Dest>
+    </String>
+    <String List="0" sID="04A156">
+      <EDID>P01C_BadgeTerminal_Electrician_Q10</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Rubber gloves</Source>
+      <Dest>(X) Rubber gloves</Dest>
+    </String>
+    <String List="0" sID="04A158">
+      <EDID>P01C_BadgeTerminal_Medic_Q03</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Bloodleaf</Source>
+      <Dest>(X) Bloodleaf</Dest>
+    </String>
+    <String List="0" sID="04A15E">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q03</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>1917</Source>
+      <Dest>(X) 1917</Dest>
+    </String>
+    <String List="0" sID="04A16C">
+      <EDID>P01C_BadgeTerminal_Hunter_Q14</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Invasive</Source>
+      <Dest>(X) Invasive</Dest>
+    </String>
+    <String List="0" sID="04A176">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q15</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>It violates the Mr. Handy&apos;s programming</Source>
+      <Dest>(X) It violates the Mr. Handy&apos;s programming</Dest>
+    </String>
+    <String List="0" sID="04A17A">
+      <EDID>P01C_BadgeTerminal_Medic_Q14</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Hook up a blood pack intravenously</Source>
+      <Dest>(X) Hook up a blood pack intravenously</Dest>
+    </String>
+    <String List="0" sID="04A18A">
+      <EDID>P01C_BadgeTerminal_Codebreaker_Q11</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Enigma machines</Source>
+      <Dest>(X) Enigma machines</Dest>
+    </String>
+    <String List="0" sID="04A5FD">
+      <EDID>P01C_BadgeTerminal_Athlete_Q08</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Enforcer</Source>
+      <Dest>(X) Enforcer</Dest>
+    </String>
+    <String List="0" sID="04A603">
+      <EDID>P01C_BadgeTerminal_Athlete_Q03</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>A belay device</Source>
+      <Dest>(X) A belay device</Dest>
+    </String>
+    <String List="0" sID="04A60D">
+      <EDID>P01C_BadgeTerminal_Athlete_Q10</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Lactic acid</Source>
+      <Dest>(X) Lactic acid</Dest>
+    </String>
+    <String List="0" sID="04A615">
+      <EDID>P01C_BadgeTerminal_Athlete_Q16</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>5</Source>
+      <Dest>(X) 5</Dest>
+    </String>
+    <String List="0" sID="04A625">
+      <EDID>P01C_BadgeTerminal_Athlete_Q12</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>21</Source>
+      <Dest>(X) 21</Dest>
+    </String>
+    <String List="0" sID="04A62D">
+      <EDID>P01C_BadgeTerminal_Athlete_Q13</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Put it</Source>
+      <Dest>(X) Put it</Dest>
+    </String>
+    <String List="0" sID="04A637">
+      <EDID>P01C_BadgeTerminal_Athlete_Q01</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Firing a starting gun</Source>
+      <Dest>(X) Firing a starting gun</Dest>
+    </String>
+    <String List="0" sID="04A643">
+      <EDID>P01C_BadgeTerminal_Athlete_Q14</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>4</Source>
+      <Dest>(X) 4</Dest>
+    </String>
+    <String List="0" sID="04A652">
+      <EDID>P01C_BadgeTerminal_Athlete_Q04</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Pull-ups</Source>
+      <Dest>(X) Pull-ups</Dest>
+    </String>
+    <String List="0" sID="04A65E">
+      <EDID>P01C_BadgeTerminal_Athlete_Q19</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Quarterback</Source>
+      <Dest>(X) Quarterback</Dest>
+    </String>
+    <String List="0" sID="04A662">
+      <EDID>P01C_BadgeTerminal_Athlete_Q17</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Abraham Lincoln</Source>
+      <Dest>(X) Abraham Lincoln</Dest>
+    </String>
+    <String List="0" sID="04A672">
+      <EDID>P01C_BadgeTerminal_Athlete_Q18</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>A dog</Source>
+      <Dest>(X) A dog</Dest>
+    </String>
+    <String List="0" sID="04A678">
+      <EDID>P01C_BadgeTerminal_Athlete_Q15</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>90 feet</Source>
+      <Dest>(X) 90 feet</Dest>
+    </String>
+    <String List="0" sID="04A686">
+      <EDID>P01C_BadgeTerminal_Athlete_Q09</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Runner&apos;s high</Source>
+      <Dest>(X) Runner&apos;s high</Dest>
+    </String>
+    <String List="0" sID="04A68C">
+      <EDID>P01C_BadgeTerminal_Athlete_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>29 feet</Source>
+      <Dest>(X) 29 feet</Dest>
+    </String>
+    <String List="0" sID="04A696">
+      <EDID>P01C_BadgeTerminal_Athlete_Q11</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Javelins</Source>
+      <Dest>(X) Javelins</Dest>
+    </String>
+    <String List="0" sID="04A69E">
+      <EDID>P01C_BadgeTerminal_Athlete_Q00</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Refuse and report him to the Scout Leader</Source>
+      <Dest>(X) Refuse and report him to the Scout Leader</Dest>
+    </String>
+    <String List="0" sID="04A6AC">
+      <EDID>P01C_BadgeTerminal_Athlete_Q02</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>26.219 miles</Source>
+      <Dest>(X) 26.219 miles</Dest>
+    </String>
+    <String List="0" sID="04A6B4">
+      <EDID>P01C_BadgeTerminal_Athlete_Q07</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>The clean and jerk</Source>
+      <Dest>(X) The clean and jerk</Dest>
+    </String>
+    <String List="0" sID="04A6EF">
+      <EDID>P01C_BadgeTerminal_Athlete_Q06</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>10000 meter dash</Source>
+      <Dest>(X) 10000 meter dash</Dest>
+    </String>
+    <String List="0" sID="04A74F">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q11</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Antelopes</Source>
+      <Dest>(X) Antelopes</Dest>
+    </String>
+    <String List="0" sID="04A75B">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q03</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>4</Source>
+      <Dest>(X) 4</Dest>
+    </String>
+    <String List="0" sID="04A761">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q00</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>5&apos;7&quot;</Source>
+      <Dest>(X) 5&apos;7&quot;</Dest>
+    </String>
+    <String List="0" sID="04A7A3">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q18</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Echidna</Source>
+      <Dest>(X) Echidna</Dest>
+    </String>
+    <String List="0" sID="04A7A9">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q06</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Bears</Source>
+      <Dest>(X) Bears</Dest>
+    </String>
+    <String List="0" sID="04A7B3">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q16</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Blue whale</Source>
+      <Dest>(X) Blue whale</Dest>
+    </String>
+    <String List="0" sID="04A7BD">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q14</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Opossum</Source>
+      <Dest>(X) Opossum</Dest>
+    </String>
+    <String List="0" sID="04A7CD">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q04</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04A7D1">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q12</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Bucks</Source>
+      <Dest>(X) Bucks</Dest>
+    </String>
+    <String List="0" sID="04A7E1">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q10</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Wolves</Source>
+      <Dest>(X) Wolves</Dest>
+    </String>
+    <String List="0" sID="04A7EB">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q02</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Australia</Source>
+      <Dest>(X) Australia</Dest>
+    </String>
+    <String List="0" sID="04A7EF">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q08</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Rodents</Source>
+      <Dest>(X) Rodents</Dest>
+    </String>
+    <String List="0" sID="04A7FB">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q01</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Cheetahs</Source>
+      <Dest>(X) Cheetahs</Dest>
+    </String>
+    <String List="0" sID="04A807">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q17</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>I stand up straight</Source>
+      <Dest>(X) I stand up straight</Dest>
+    </String>
+    <String List="0" sID="04A80D">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q05</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Moose</Source>
+      <Dest>(X) Moose</Dest>
+    </String>
+    <String List="0" sID="04A81B">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q13</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Milk</Source>
+      <Dest>(X) Milk</Dest>
+    </String>
+    <String List="0" sID="04A825">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q09</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A human</Source>
+      <Dest>(X) A human</Dest>
+    </String>
+    <String List="0" sID="04A82B">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q07</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>They have hair</Source>
+      <Dest>(X) They have hair</Dest>
+    </String>
+    <String List="0" sID="04A83B">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q15</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>They raise young in a pouch</Source>
+      <Dest>(X) They raise young in a pouch</Dest>
+    </String>
+    <String List="0" sID="04A83F">
+      <EDID>P01C_BadgeTerminal_Mammalogist_Q19</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Egypt</Source>
+      <Dest>(X) Egypt</Dest>
+    </String>
+    <String List="0" sID="04A9DA">
+      <EDID>P01C_BadgeTerminal_Photographer_Q13</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Photosensitivity</Source>
+      <Dest>(X) Photosensitivity</Dest>
+    </String>
+    <String List="0" sID="04A9E4">
+      <EDID>P01C_BadgeTerminal_Photographer_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Making positive photos from it</Source>
+      <Dest>(X) Making positive photos from it</Dest>
+    </String>
+    <String List="0" sID="04A9EE">
+      <EDID>P01C_BadgeTerminal_Photographer_Q01</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>1822</Source>
+      <Dest>(X) 1822</Dest>
+    </String>
+    <String List="0" sID="04AA2A">
+      <EDID>P01C_BadgeTerminal_Photographer_Q08</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Film</Source>
+      <Dest>(X) Film</Dest>
+    </String>
+    <String List="0" sID="04AA38">
+      <EDID>P01C_BadgeTerminal_Photographer_Q18</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>The focus</Source>
+      <Dest>(X) The focus</Dest>
+    </String>
+    <String List="0" sID="04AA42">
+      <EDID>P01C_BadgeTerminal_Photographer_Q02</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A portrait</Source>
+      <Dest>(X) A portrait</Dest>
+    </String>
+    <String List="0" sID="04AA48">
+      <EDID>P01C_BadgeTerminal_Photographer_Q16</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Latent</Source>
+      <Dest>(X) Latent</Dest>
+    </String>
+    <String List="0" sID="04AA56">
+      <EDID>P01C_BadgeTerminal_Photographer_Q06</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>How much light reaches the film</Source>
+      <Dest>(X) How much light reaches the film</Dest>
+    </String>
+    <String List="0" sID="04AA60">
+      <EDID>P01C_BadgeTerminal_Photographer_Q14</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A darkroom</Source>
+      <Dest>(X) A darkroom</Dest>
+    </String>
+    <String List="0" sID="04AA66">
+      <EDID>P01C_BadgeTerminal_Photographer_Q12</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Silver halide</Source>
+      <Dest>(X) Silver halide</Dest>
+    </String>
+    <String List="0" sID="04AA70">
+      <EDID>P01C_BadgeTerminal_Photographer_Q04</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Turn them in to the authorities</Source>
+      <Dest>(X) Turn them in to the authorities</Dest>
+    </String>
+    <String List="0" sID="04AA7E">
+      <EDID>P01C_BadgeTerminal_Photographer_Q10</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Camera obscura</Source>
+      <Dest>(X) Camera obscura</Dest>
+    </String>
+    <String List="0" sID="04AA84">
+      <EDID>P01C_BadgeTerminal_Photographer_Q00</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Development</Source>
+      <Dest>(X) Development</Dest>
+    </String>
+    <String List="0" sID="04AA94">
+      <EDID>P01C_BadgeTerminal_Photographer_Q19</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>A print</Source>
+      <Dest>(X) A print</Dest>
+    </String>
+    <String List="0" sID="04AA9E">
+      <EDID>P01C_BadgeTerminal_Photographer_Q07</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Nitrate film is very flammable</Source>
+      <Dest>(X) Nitrate film is very flammable</Dest>
+    </String>
+    <String List="0" sID="04AAA8">
+      <EDID>P01C_BadgeTerminal_Photographer_Q15</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Its shutter speed</Source>
+      <Dest>(X) Its shutter speed</Dest>
+    </String>
+    <String List="0" sID="04AAB2">
+      <EDID>P01C_BadgeTerminal_Photographer_Q11</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Their soul</Source>
+      <Dest>(X) Their soul</Dest>
+    </String>
+    <String List="0" sID="04AABC">
+      <EDID>P01C_BadgeTerminal_Photographer_Q03</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>A lens</Source>
+      <Dest>(X) A lens</Dest>
+    </String>
+    <String List="0" sID="04AAC2">
+      <EDID>P01C_BadgeTerminal_Photographer_Q17</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>An aperture</Source>
+      <Dest>(X) An aperture</Dest>
+    </String>
+    <String List="0" sID="04AACE">
+      <EDID>P01C_BadgeTerminal_Photographer_Q09</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Daguerreophy</Source>
+      <Dest>(X) Daguerreophy</Dest>
+    </String>
+    <String List="0" sID="04AADA">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q13</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Yes, a misdemeanor</Source>
+      <Dest>(X) Yes, a misdemeanor</Dest>
+    </String>
+    <String List="0" sID="04AAE2">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q05</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>In a museum</Source>
+      <Dest>(X) In a museum</Dest>
+    </String>
+    <String List="0" sID="04AAF2">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q01</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>How good it tastes</Source>
+      <Dest>(X) How good it tastes</Dest>
+    </String>
+    <String List="0" sID="04AB28">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q08</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Terracotta</Source>
+      <Dest>(X) Terracotta</Dest>
+    </String>
+    <String List="0" sID="04AB38">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q18</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>A hoard</Source>
+      <Dest>(X) A hoard</Dest>
+    </String>
+    <String List="0" sID="04AB3C">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q02</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Kanawha county</Source>
+      <Dest>(X) Kanawha county</Dest>
+    </String>
+    <String List="0" sID="04AB46">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q16</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Scan the area with lasers to make a map</Source>
+      <Dest>(X) Scan the area with lasers to make a map</Dest>
+    </String>
+    <String List="0" sID="04AB54">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q06</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Gunfights</Source>
+      <Dest>(X) Gunfights</Dest>
+    </String>
+    <String List="0" sID="04AB60">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q14</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Lack of Greek writing</Source>
+      <Dest>(X) Lack of Greek writing</Dest>
+    </String>
+    <String List="0" sID="04AB64">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q12</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Carbon dating</Source>
+      <Dest>(X) Carbon dating</Dest>
+    </String>
+    <String List="0" sID="04AB70">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q04</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Troy</Source>
+      <Dest>(X) Troy</Dest>
+    </String>
+    <String List="0" sID="04AB7E">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q10</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Mt. Vesuvius</Source>
+      <Dest>(X) Mt. Vesuvius</Dest>
+    </String>
+    <String List="0" sID="04AB82">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q00</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Papyrus</Source>
+      <Dest>(X) Papyrus</Dest>
+    </String>
+    <String List="0" sID="04AB90">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q19</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Machu Picchu</Source>
+      <Dest>(X) Machu Picchu</Dest>
+    </String>
+    <String List="0" sID="04AB9C">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q07</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04ABA4">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q15</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Genghis Khan</Source>
+      <Dest>(X) Genghis Khan</Dest>
+    </String>
+    <String List="0" sID="04ABAC">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q11</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Notify the county sheriff</Source>
+      <Dest>(X) Notify the county sheriff</Dest>
+    </String>
+    <String List="0" sID="04ABBA">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q03</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>The Rosetta Stone</Source>
+      <Dest>(X) The Rosetta Stone</Dest>
+    </String>
+    <String List="0" sID="04ABC4">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q17</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04ABCC">
+      <EDID>P01C_BadgeTerminal_Archaeologist_Q09</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Clean and conserve fragile pieces</Source>
+      <Dest>(X) Clean and conserve fragile pieces</Dest>
+    </String>
+    <String List="0" sID="04ABF4">
+      <EDID>P01C_BadgeTerminal_Miner_Q12</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Salt</Source>
+      <Dest>(X) Salt</Dest>
+    </String>
+    <String List="0" sID="04ABFE">
+      <EDID>P01C_BadgeTerminal_Miner_Q04</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>A sentinel species</Source>
+      <Dest>(X) A sentinel species</Dest>
+    </String>
+    <String List="0" sID="04AC08">
+      <EDID>P01C_BadgeTerminal_Miner_Q00</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Mount Blair</Source>
+      <Dest>(X) Mount Blair</Dest>
+    </String>
+    <String List="0" sID="04AC21">
+      <EDID>P01C_BadgeTerminal_Miner_Q19</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A feasibility study</Source>
+      <Dest>(X) A feasibility study</Dest>
+    </String>
+    <String List="0" sID="04AC2D">
+      <EDID>P01C_BadgeTerminal_Miner_Q07</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Towel damp</Source>
+      <Dest>(X) Towel damp</Dest>
+    </String>
+    <String List="0" sID="04AC33">
+      <EDID>P01C_BadgeTerminal_Miner_Q17</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Mountaintop removal mining</Source>
+      <Dest>(X) Mountaintop removal mining</Dest>
+    </String>
+    <String List="0" sID="04AC3D">
+      <EDID>P01C_BadgeTerminal_Miner_Q01</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Garrahan Mining</Source>
+      <Dest>(X) Garrahan Mining</Dest>
+    </String>
+    <String List="0" sID="04AC4B">
+      <EDID>P01C_BadgeTerminal_Miner_Q15</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Fractured rock with thermal shock</Source>
+      <Dest>(X) Fractured rock with thermal shock</Dest>
+    </String>
+    <String List="0" sID="04AC51">
+      <EDID>P01C_BadgeTerminal_Miner_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Africa</Source>
+      <Dest>(X) Africa</Dest>
+    </String>
+    <String List="0" sID="04AC5B">
+      <EDID>P01C_BadgeTerminal_Miner_Q13</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Bucket-wheel excavators</Source>
+      <Dest>(X) Bucket-wheel excavators</Dest>
+    </String>
+    <String List="0" sID="04AC69">
+      <EDID>P01C_BadgeTerminal_Miner_Q11</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Red China, unfortunately</Source>
+      <Dest>(X) Red China, unfortunately</Dest>
+    </String>
+    <String List="0" sID="04AC73">
+      <EDID>P01C_BadgeTerminal_Miner_Q03</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>The Excavator Power Armor</Source>
+      <Dest>(X) The Excavator Power Armor</Dest>
+    </String>
+    <String List="0" sID="04AC79">
+      <EDID>P01C_BadgeTerminal_Miner_Q09</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Communism</Source>
+      <Dest>(X) Communism</Dest>
+    </String>
+    <String List="0" sID="04ACB4">
+      <EDID>P01C_BadgeTerminal_Miner_Q18</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04ACBC">
+      <EDID>P01C_BadgeTerminal_Miner_Q06</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Dissolves minerals for safe extraction</Source>
+      <Dest>(X) Dissolves minerals for safe extraction</Dest>
+    </String>
+    <String List="0" sID="04ACC6">
+      <EDID>P01C_BadgeTerminal_Miner_Q14</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>1848</Source>
+      <Dest>(X) 1848</Dest>
+    </String>
+    <String List="0" sID="04ACD0">
+      <EDID>P01C_BadgeTerminal_Miner_Q10</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Get a job at Garrahan Mining today!</Source>
+      <Dest>(X) Get a job at Garrahan Mining today!</Dest>
+    </String>
+    <String List="0" sID="04ACDA">
+      <EDID>P01C_BadgeTerminal_Miner_Q02</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Carbon</Source>
+      <Dest>(X) Carbon</Dest>
+    </String>
+    <String List="0" sID="04ACE0">
+      <EDID>P01C_BadgeTerminal_Miner_Q16</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Drift mining</Source>
+      <Dest>(X) Drift mining</Dest>
+    </String>
+    <String List="0" sID="04ACEA">
+      <EDID>P01C_BadgeTerminal_Miner_Q08</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>A train</Source>
+      <Dest>(X) A train</Dest>
+    </String>
+    <String List="0" sID="04AD7C">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q13</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Casting</Source>
+      <Dest>(X) Casting</Dest>
+    </String>
+    <String List="0" sID="04AD86">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Coke</Source>
+      <Dest>(X) Coke</Dest>
+    </String>
+    <String List="0" sID="04AD90">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q01</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Grafton</Source>
+      <Dest>(X) Grafton</Dest>
+    </String>
+    <String List="0" sID="04ADCC">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q08</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>A smelter</Source>
+      <Dest>(X) A smelter</Dest>
+    </String>
+    <String List="0" sID="04ADDA">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q18</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Feeding the fire with air</Source>
+      <Dest>(X) Feeding the fire with air</Dest>
+    </String>
+    <String List="0" sID="04ADE4">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q02</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>An alloy</Source>
+      <Dest>(X) An alloy</Dest>
+    </String>
+    <String List="0" sID="04ADEC">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q16</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>A freezer</Source>
+      <Dest>(X) A freezer</Dest>
+    </String>
+    <String List="0" sID="04ADF8">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q06</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Gelding</Source>
+      <Dest>(X) Gelding</Dest>
+    </String>
+    <String List="0" sID="04AE02">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q14</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Sheet metal</Source>
+      <Dest>(X) Sheet metal</Dest>
+    </String>
+    <String List="0" sID="04AE08">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q12</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Platinum</Source>
+      <Dest>(X) Platinum</Dest>
+    </String>
+    <String List="0" sID="04AE18">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q04</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04AE20">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q10</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Steel</Source>
+      <Dest>(X) Steel</Dest>
+    </String>
+    <String List="0" sID="04AE26">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q00</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Union-organized strikes</Source>
+      <Dest>(X) Union-organized strikes</Dest>
+    </String>
+    <String List="0" sID="04AE36">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q19</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Hot air</Source>
+      <Dest>(X) Hot air</Dest>
+    </String>
+    <String List="0" sID="04AE3E">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q07</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A foundry</Source>
+      <Dest>(X) A foundry</Dest>
+    </String>
+    <String List="0" sID="04AE4A">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q15</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>A shop head</Source>
+      <Dest>(X) A shop head</Dest>
+    </String>
+    <String List="0" sID="04AE50">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q11</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Machinist</Source>
+      <Dest>(X) Machinist</Dest>
+    </String>
+    <String List="0" sID="04AE5E">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q03</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04AE64">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q17</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Removing material</Source>
+      <Dest>(X) Removing material</Dest>
+    </String>
+    <String List="0" sID="04AE72">
+      <EDID>P01C_BadgeTerminal_Metalworker_Q09</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04B347">
+      <EDID>P01C_BadgeTerminal_Archer_Q06</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Shell</Source>
+      <Dest>(X) Shell</Dest>
+    </String>
+    <String List="0" sID="04B34B">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q13</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Face-down in the water, hands out and palms down, lifting your head to breathe deeply</Source>
+      <Dest>(X) Face-down in the water, hands out and palms down, lifting your head to breathe deeply</Dest>
+    </String>
+    <String List="0" sID="04B357">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Alternate between having your face in the water and rhythmically breathing between strokes</Source>
+      <Dest>(X) Alternate between having your face in the water and rhythmically breathing between strokes</Dest>
+    </String>
+    <String List="0" sID="04B363">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q01</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Speed Stroke</Source>
+      <Dest>(X) Speed Stroke</Dest>
+    </String>
+    <String List="0" sID="04B39F">
+      <EDID>P01C_BadgeTerminal_Archer_Q19</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Walk forward and retrieve your arrows</Source>
+      <Dest>(X) Walk forward and retrieve your arrows</Dest>
+    </String>
+    <String List="0" sID="04B3A9">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q08</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>To have someone that can alert the lifeguard in the case of an emergency</Source>
+      <Dest>(X) To have someone that can alert the lifeguard in the case of an emergency</Dest>
+    </String>
+    <String List="0" sID="04B3AF">
+      <EDID>P01C_BadgeTerminal_Archer_Q17</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>10</Source>
+      <Dest>(X) 10</Dest>
+    </String>
+    <String List="0" sID="04B3BF">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q18</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Flailing</Source>
+      <Dest>(X) Flailing</Dest>
+    </String>
+    <String List="0" sID="04B3C9">
+      <EDID>P01C_BadgeTerminal_Archer_Q15</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Bowyer</Source>
+      <Dest>(X) Bowyer</Dest>
+    </String>
+    <String List="0" sID="04B3CF">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q02</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Immediately stop running to avoid slipping on a slick surface</Source>
+      <Dest>(X) Immediately stop running to avoid slipping on a slick surface</Dest>
+    </String>
+    <String List="0" sID="04B3DB">
+      <EDID>P01C_BadgeTerminal_Archer_Q13</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Bodkin Point</Source>
+      <Dest>(X) Bodkin Point</Dest>
+    </String>
+    <String List="0" sID="04B3E3">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q16</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Drowning</Source>
+      <Dest>(X) Drowning</Dest>
+    </String>
+    <String List="0" sID="04B3F1">
+      <EDID>P01C_BadgeTerminal_Archer_Q11</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Toxophilite</Source>
+      <Dest>(X) Toxophilite</Dest>
+    </String>
+    <String List="0" sID="04B3F9">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q06</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>All water is likely to be heavily irradiated, so swimming should be avoided</Source>
+      <Dest>(X) All water is likely to be heavily irradiated, so swimming should be avoided</Dest>
+    </String>
+    <String List="0" sID="04B3FF">
+      <EDID>P01C_BadgeTerminal_Archer_Q09</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Compressor</Source>
+      <Dest>(X) Compressor</Dest>
+    </String>
+    <String List="0" sID="04B40F">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q14</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>The jackets are all the required shade of orange</Source>
+      <Dest>(X) The jackets are all the required shade of orange</Dest>
+    </String>
+    <String List="0" sID="04B417">
+      <EDID>P01C_BadgeTerminal_Archer_Q07</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Wait for the all-clear signal from the supervising Mr. Handy</Source>
+      <Dest>(X) Wait for the all-clear signal from the supervising Mr. Handy</Dest>
+    </String>
+    <String List="0" sID="04B41F">
+      <EDID>P01C_BadgeTerminal_Archer_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>FPS (Feet Per Second)</Source>
+      <Dest>(X) FPS (Feet Per Second)</Dest>
+    </String>
+    <String List="0" sID="04B42D">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q12</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Xerophobia</Source>
+      <Dest>(X) Xerophobia</Dest>
+    </String>
+    <String List="0" sID="04B433">
+      <EDID>P01C_BadgeTerminal_Archer_Q03</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>64,000 years ago</Source>
+      <Dest>(X) 64,000 years ago</Dest>
+    </String>
+    <String List="0" sID="04B43F">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q04</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>You forgot that swimming alone is dangerous</Source>
+      <Dest>(X) You forgot that swimming alone is dangerous</Dest>
+    </String>
+    <String List="0" sID="04B447">
+      <EDID>P01C_BadgeTerminal_Archer_Q01</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Broadhead Point</Source>
+      <Dest>(X) Broadhead Point</Dest>
+    </String>
+    <String List="0" sID="04B451">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q10</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Turn their head to the side to drain water, then back for mouth-to-mouth resuscitation</Source>
+      <Dest>(X) Turn their head to the side to drain water, then back for mouth-to-mouth resuscitation</Dest>
+    </String>
+    <String List="0" sID="04B48C">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q00</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>A light snack</Source>
+      <Dest>(X) A light snack</Dest>
+    </String>
+    <String List="0" sID="04B49A">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q19</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Give up and drown</Source>
+      <Dest>(X) Give up and drown</Dest>
+    </String>
+    <String List="0" sID="04B49E">
+      <EDID>P01C_BadgeTerminal_Archer_Q16</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source> He shot an arrow which hit another arrow, splitting it down the middle!</Source>
+      <Dest>(X)  He shot an arrow which hit another arrow, splitting it down the middle!</Dest>
+    </String>
+    <String List="0" sID="04B4AE">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q07</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Breath-holding competition</Source>
+      <Dest>(X) Breath-holding competition</Dest>
+    </String>
+    <String List="0" sID="04B4B2">
+      <EDID>P01C_BadgeTerminal_Archer_Q12</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Crossbow</Source>
+      <Dest>(X) Crossbow</Dest>
+    </String>
+    <String List="0" sID="04B4C2">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q15</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>His declaration about the water giving him baby soft skin</Source>
+      <Dest>(X) His declaration about the water giving him baby soft skin</Dest>
+    </String>
+    <String List="0" sID="04B4C8">
+      <EDID>P01C_BadgeTerminal_Archer_Q08</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Aim the bow downward and slowly release tension on the bowstring</Source>
+      <Dest>(X) Aim the bow downward and slowly release tension on the bowstring</Dest>
+    </String>
+    <String List="0" sID="04B4D4">
+      <EDID>P01C_BadgeTerminal_Archer_Q04</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>You</Source>
+      <Dest>(X) You</Dest>
+    </String>
+    <String List="0" sID="04B4DE">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q11</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A minimum of 7 feet deep should keep you safe!</Source>
+      <Dest>(X) A minimum of 7 feet deep should keep you safe!</Dest>
+    </String>
+    <String List="0" sID="04B4E8">
+      <EDID>P01C_BadgeTerminal_Archer_Q00</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Quiver</Source>
+      <Dest>(X) Quiver</Dest>
+    </String>
+    <String List="0" sID="04B4EE">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q03</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Refuse to give her one, as chewing gum while swimming is a dangerous choking hazard</Source>
+      <Dest>(X) Refuse to give her one, as chewing gum while swimming is a dangerous choking hazard</Dest>
+    </String>
+    <String List="0" sID="04B4FE">
+      <EDID>P01C_BadgeTerminal_Archer_Q18</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>None of the above</Source>
+      <Dest>(X) None of the above</Dest>
+    </String>
+    <String List="0" sID="04B506">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q17</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Wave</Source>
+      <Dest>(X) Wave</Dest>
+    </String>
+    <String List="0" sID="04B510">
+      <EDID>P01C_BadgeTerminal_Archer_Q10</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Find the nearest overhead cover and demand Jimmy lay down his bow</Source>
+      <Dest>(X) Find the nearest overhead cover and demand Jimmy lay down his bow</Dest>
+    </String>
+    <String List="0" sID="04B51C">
+      <EDID>P01C_BadgeTerminal_Archer_Q02</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>8</Source>
+      <Dest>(X) 8</Dest>
+    </String>
+    <String List="0" sID="04B520">
+      <EDID>P01C_BadgeTerminal_Swimmer_Q09</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>The water is too deep for some non-swimmers</Source>
+      <Dest>(X) The water is too deep for some non-swimmers</Dest>
+    </String>
+    <String List="0" sID="04B52C">
+      <EDID>P01C_BadgeTerminal_Archer_Q14</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Arbalist</Source>
+      <Dest>(X) Arbalist</Dest>
+    </String>
+    <String List="0" sID="04B578">
+      <EDID>P01C_BadgeTerminal_Musician_Q07</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Yankee Doodle</Source>
+      <Dest>(X) Yankee Doodle</Dest>
+    </String>
+    <String List="0" sID="04B584">
+      <EDID>P01C_BadgeTerminal_Gardener_Q13</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Sunflower</Source>
+      <Dest>(X) Sunflower</Dest>
+    </String>
+    <String List="0" sID="04B58E">
+      <EDID>P01C_BadgeTerminal_Gardener_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Beetles</Source>
+      <Dest>(X) Beetles</Dest>
+    </String>
+    <String List="0" sID="04B598">
+      <EDID>P01C_BadgeTerminal_Gardener_Q01</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>South America</Source>
+      <Dest>(X) South America</Dest>
+    </String>
+    <String List="0" sID="04B5DA">
+      <EDID>P01C_BadgeTerminal_Musician_Q06</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>The March King</Source>
+      <Dest>(X) The March King</Dest>
+    </String>
+    <String List="0" sID="04B5E0">
+      <EDID>P01C_BadgeTerminal_Gardener_Q12</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Gregor Mendel</Source>
+      <Dest>(X) Gregor Mendel</Dest>
+    </String>
+    <String List="0" sID="04B5F0">
+      <EDID>P01C_BadgeTerminal_Musician_Q04</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Hand gestures</Source>
+      <Dest>(X) Hand gestures</Dest>
+    </String>
+    <String List="0" sID="04B5FA">
+      <EDID>P01C_BadgeTerminal_Gardener_Q04</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04B5FE">
+      <EDID>P01C_BadgeTerminal_Musician_Q02</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>An aerophone</Source>
+      <Dest>(X) An aerophone</Dest>
+    </String>
+    <String List="0" sID="04B60C">
+      <EDID>P01C_BadgeTerminal_Gardener_Q10</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A kitchen garden</Source>
+      <Dest>(X) A kitchen garden</Dest>
+    </String>
+    <String List="0" sID="04B616">
+      <EDID>P01C_BadgeTerminal_Musician_Q00</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>By pitch</Source>
+      <Dest>(X) By pitch</Dest>
+    </String>
+    <String List="0" sID="04B61C">
+      <EDID>P01C_BadgeTerminal_Gardener_Q00</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Blackberries</Source>
+      <Dest>(X) Blackberries</Dest>
+    </String>
+    <String List="0" sID="04B62D">
+      <EDID>P01C_BadgeTerminal_Gardener_Q08</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Duct tape</Source>
+      <Dest>(X) Duct tape</Dest>
+    </String>
+    <String List="0" sID="04B639">
+      <EDID>P01C_BadgeTerminal_Musician_Q18</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A cappella</Source>
+      <Dest>(X) A cappella</Dest>
+    </String>
+    <String List="0" sID="04B643">
+      <EDID>P01C_BadgeTerminal_Gardener_Q18</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Botany</Source>
+      <Dest>(X) Botany</Dest>
+    </String>
+    <String List="0" sID="04B64B">
+      <EDID>P01C_BadgeTerminal_Musician_Q16</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>The Music of the Spheres</Source>
+      <Dest>(X) The Music of the Spheres</Dest>
+    </String>
+    <String List="0" sID="04B657">
+      <EDID>P01C_BadgeTerminal_Gardener_Q02</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A melon</Source>
+      <Dest>(X) A melon</Dest>
+    </String>
+    <String List="0" sID="04B663">
+      <EDID>P01C_BadgeTerminal_Musician_Q14</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04B667">
+      <EDID>P01C_BadgeTerminal_Gardener_Q16</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>A botanical garden</Source>
+      <Dest>(X) A botanical garden</Dest>
+    </String>
+    <String List="0" sID="04B675">
+      <EDID>P01C_BadgeTerminal_Musician_Q12</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>An amplifier</Source>
+      <Dest>(X) An amplifier</Dest>
+    </String>
+    <String List="0" sID="04B67F">
+      <EDID>P01C_BadgeTerminal_Gardener_Q06</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Grasshoppers</Source>
+      <Dest>(X) Grasshoppers</Dest>
+    </String>
+    <String List="0" sID="04B689">
+      <EDID>P01C_BadgeTerminal_Musician_Q10</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Soprano</Source>
+      <Dest>(X) Soprano</Dest>
+    </String>
+    <String List="0" sID="04B693">
+      <EDID>P01C_BadgeTerminal_Gardener_Q14</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>A garden gun</Source>
+      <Dest>(X) A garden gun</Dest>
+    </String>
+    <String List="0" sID="04B69B">
+      <EDID>P01C_BadgeTerminal_Musician_Q08</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Sharp</Source>
+      <Dest>(X) Sharp</Dest>
+    </String>
+    <String List="0" sID="04B6A5">
+      <EDID>P01C_BadgeTerminal_Musician_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Francis Scott Key</Source>
+      <Dest>(X) Francis Scott Key</Dest>
+    </String>
+    <String List="0" sID="04B6B3">
+      <EDID>P01C_BadgeTerminal_Gardener_Q11</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Pesticides</Source>
+      <Dest>(X) Pesticides</Dest>
+    </String>
+    <String List="0" sID="04B6B9">
+      <EDID>P01C_BadgeTerminal_Musician_Q01</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>The Romantic era</Source>
+      <Dest>(X) The Romantic era</Dest>
+    </String>
+    <String List="0" sID="04B6C7">
+      <EDID>P01C_BadgeTerminal_Gardener_Q03</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>The Hanging Gardens of Babylon</Source>
+      <Dest>(X) The Hanging Gardens of Babylon</Dest>
+    </String>
+    <String List="0" sID="04B6D1">
+      <EDID>P01C_BadgeTerminal_Gardener_Q19</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Pumpkins</Source>
+      <Dest>(X) Pumpkins</Dest>
+    </String>
+    <String List="0" sID="04B6DB">
+      <EDID>P01C_BadgeTerminal_Musician_Q17</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Musicology</Source>
+      <Dest>(X) Musicology</Dest>
+    </String>
+    <String List="0" sID="04B6DF">
+      <EDID>P01C_BadgeTerminal_Gardener_Q07</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Edaphology</Source>
+      <Dest>(X) Edaphology</Dest>
+    </String>
+    <String List="0" sID="04B6EF">
+      <EDID>P01C_BadgeTerminal_Musician_Q13</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Cymbals</Source>
+      <Dest>(X) Cymbals</Dest>
+    </String>
+    <String List="0" sID="04B6F9">
+      <EDID>P01C_BadgeTerminal_Gardener_Q15</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Photosynthesis</Source>
+      <Dest>(X) Photosynthesis</Dest>
+    </String>
+    <String List="0" sID="04B6FF">
+      <EDID>P01C_BadgeTerminal_Musician_Q09</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>A vocalist</Source>
+      <Dest>(X) A vocalist</Dest>
+    </String>
+    <String List="0" sID="04B707">
+      <EDID>P01C_BadgeTerminal_Musician_Q03</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>A big group of people playing different instruments</Source>
+      <Dest>(X) A big group of people playing different instruments</Dest>
+    </String>
+    <String List="0" sID="04B713">
+      <EDID>P01C_BadgeTerminal_Gardener_Q09</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Oxygen</Source>
+      <Dest>(X) Oxygen</Dest>
+    </String>
+    <String List="0" sID="04B71B">
+      <EDID>P01C_BadgeTerminal_Musician_Q19</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Tone deafness</Source>
+      <Dest>(X) Tone deafness</Dest>
+    </String>
+    <String List="0" sID="04B727">
+      <EDID>P01C_BadgeTerminal_Gardener_Q17</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Cranberries</Source>
+      <Dest>(X) Cranberries</Dest>
+    </String>
+    <String List="0" sID="04B733">
+      <EDID>P01C_BadgeTerminal_Musician_Q11</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Improvisation</Source>
+      <Dest>(X) Improvisation</Dest>
+    </String>
+    <String List="0" sID="04B766">
+      <EDID>P01C_BadgeTerminal_Musician_Q15</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Its tempo</Source>
+      <Dest>(X) Its tempo</Dest>
+    </String>
+    <String List="0" sID="04C207">
+      <EDID>P01C_BadgeTerminal_Chemist_Q09</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Raw fluorescent flux</Source>
+      <Dest>(X) Raw fluorescent flux</Dest>
+    </String>
+    <String List="0" sID="04C217">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q12</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04C21B">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q02</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Several hours</Source>
+      <Dest>(X) Several hours</Dest>
+    </String>
+    <String List="0" sID="04C22B">
+      <EDID>P01C_BadgeTerminal_Cook_Q09</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>An actual animal head</Source>
+      <Dest>(X) An actual animal head</Dest>
+    </String>
+    <String List="0" sID="04C235">
+      <EDID>P01C_BadgeTerminal_Cook_Q01</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04C239">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q18</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Tesla Science Magazine</Source>
+      <Dest>(X) Tesla Science Magazine</Dest>
+    </String>
+    <String List="0" sID="04C247">
+      <EDID>P01C_BadgeTerminal_Cook_Q00</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Place the lid back on the pan and wait for the fire to run out of oxygen</Source>
+      <Dest>(X) Place the lid back on the pan and wait for the fire to run out of oxygen</Dest>
+    </String>
+    <String List="0" sID="04C253">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q16</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Literally none of these words mean anything</Source>
+      <Dest>(X) Literally none of these words mean anything</Dest>
+    </String>
+    <String List="0" sID="04C259">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q15</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Strung up above the ground between tree branches</Source>
+      <Dest>(X) Strung up above the ground between tree branches</Dest>
+    </String>
+    <String List="0" sID="04C267">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q14</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>General Atomics International</Source>
+      <Dest>(X) General Atomics International</Dest>
+    </String>
+    <String List="0" sID="04C26D">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q03</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Paralysis and respiratory failure</Source>
+      <Dest>(X) Paralysis and respiratory failure</Dest>
+    </String>
+    <String List="0" sID="04C275">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q12</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Mr. Handy</Source>
+      <Dest>(X) Mr. Handy</Dest>
+    </String>
+    <String List="0" sID="04C281">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q13</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>3 weeks</Source>
+      <Dest>(X) 3 weeks</Dest>
+    </String>
+    <String List="0" sID="04C289">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q10</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Cargobot</Source>
+      <Dest>(X) Cargobot</Dest>
+    </String>
+    <String List="0" sID="04C2AB">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q08</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Pulse Weaponry</Source>
+      <Dest>(X) Pulse Weaponry</Dest>
+    </String>
+    <String List="0" sID="04C2B1">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q11</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Lyme disease</Source>
+      <Dest>(X) Lyme disease</Dest>
+    </String>
+    <String List="0" sID="04C2BB">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q06</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>3</Source>
+      <Dest>(X) 3</Dest>
+    </String>
+    <String List="0" sID="04C2C5">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q01</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Must rely on external heat sources to regulate body temperature</Source>
+      <Dest>(X) Must rely on external heat sources to regulate body temperature</Dest>
+    </String>
+    <String List="0" sID="04C2CF">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q04</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Jetpack</Source>
+      <Dest>(X) Jetpack</Dest>
+    </String>
+    <String List="0" sID="04C2DD">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q09</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Familiarize herself with all of the equipment by setting it up before the trip</Source>
+      <Dest>(X) Familiarize herself with all of the equipment by setting it up before the trip</Dest>
+    </String>
+    <String List="0" sID="04C2E7">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q02</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Actor and Thespian</Source>
+      <Dest>(X) Actor and Thespian</Dest>
+    </String>
+    <String List="0" sID="04C2ED">
+      <EDID>P01C_BadgeTerminal_Cook_Q06</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Yeast</Source>
+      <Dest>(X) Yeast</Dest>
+    </String>
+    <String List="0" sID="04C2FB">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q00</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Leave immediately and tell an adult</Source>
+      <Dest>(X) Leave immediately and tell an adult</Dest>
+    </String>
+    <String List="0" sID="04C303">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q07</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>One minute, at a rolling boil</Source>
+      <Dest>(X) One minute, at a rolling boil</Dest>
+    </String>
+    <String List="0" sID="04C33F">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q18</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>100 mph</Source>
+      <Dest>(X) 100 mph</Dest>
+    </String>
+    <String List="0" sID="04C34B">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q05</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Give the snake a wide berth while keeping an eye on it</Source>
+      <Dest>(X) Give the snake a wide berth while keeping an eye on it</Dest>
+    </String>
+    <String List="0" sID="04C357">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q16</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Track gauge</Source>
+      <Dest>(X) Track gauge</Dest>
+    </String>
+    <String List="0" sID="04C35B">
+      <EDID>P01C_BadgeTerminal_Cook_Q18</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Maillard Reaction</Source>
+      <Dest>(X) Maillard Reaction</Dest>
+    </String>
+    <String List="0" sID="04C367">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q14</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Using two locomotives for extra power</Source>
+      <Dest>(X) Using two locomotives for extra power</Dest>
+    </String>
+    <String List="0" sID="04C373">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q03</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>It might contain dangerous parasites and bacteria</Source>
+      <Dest>(X) It might contain dangerous parasites and bacteria</Dest>
+    </String>
+    <String List="0" sID="04C379">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q12</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>The Orient Express</Source>
+      <Dest>(X) The Orient Express</Dest>
+    </String>
+    <String List="0" sID="04C389">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q19</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Over a week</Source>
+      <Dest>(X) Over a week</Dest>
+    </String>
+    <String List="0" sID="04C391">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q10</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>An expressman&apos;s</Source>
+      <Dest>(X) An expressman&apos;s</Dest>
+    </String>
+    <String List="0" sID="04C397">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q01</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Close to a stream on a gentle hill</Source>
+      <Dest>(X) Close to a stream on a gentle hill</Dest>
+    </String>
+    <String List="0" sID="04C3A7">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q08</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>The conductor</Source>
+      <Dest>(X) The conductor</Dest>
+    </String>
+    <String List="0" sID="04C3AF">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q17</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Disarm the trap and inject a Stimpak near the affected area</Source>
+      <Dest>(X) Disarm the trap and inject a Stimpak near the affected area</Dest>
+    </String>
+    <String List="0" sID="04C3B9">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q06</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Gold was discovered in California</Source>
+      <Dest>(X) Gold was discovered in California</Dest>
+    </String>
+    <String List="0" sID="04C3EC">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q04</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Derails trains when they enter unauthorized areas</Source>
+      <Dest>(X) Derails trains when they enter unauthorized areas</Dest>
+    </String>
+    <String List="0" sID="04C3FA">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q17</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Dung beetle</Source>
+      <Dest>(X) Dung beetle</Dest>
+    </String>
+    <String List="0" sID="04C406">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q02</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>The Mount Blair Trainyard</Source>
+      <Dest>(X) The Mount Blair Trainyard</Dest>
+    </String>
+    <String List="0" sID="04C410">
+      <EDID>P01C_BadgeTerminal_Atomics_Q19</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Gumption and moxie</Source>
+      <Dest>(X) Gumption and moxie</Dest>
+    </String>
+    <String List="0" sID="04C414">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q00</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Coal</Source>
+      <Dest>(X) Coal</Dest>
+    </String>
+    <String List="0" sID="04C424">
+      <EDID>P01C_BadgeTerminal_Cook_Q16</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Serve it raw</Source>
+      <Dest>(X) Serve it raw</Dest>
+    </String>
+    <String List="0" sID="04C433">
+      <EDID>P01C_BadgeTerminal_Atomics_Q17</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>The minimum amount of material needed for a sustained nuclear chain reaction</Source>
+      <Dest>(X) The minimum amount of material needed for a sustained nuclear chain reaction</Dest>
+    </String>
+    <String List="0" sID="04C437">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q18</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>The stingray</Source>
+      <Dest>(X) The stingray</Dest>
+    </String>
+    <String List="0" sID="04C441">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q15</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>A proboscis</Source>
+      <Dest>(X) A proboscis</Dest>
+    </String>
+    <String List="0" sID="04C44B">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q16</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>It decomposes less</Source>
+      <Dest>(X) It decomposes less</Dest>
+    </String>
+    <String List="0" sID="04C455">
+      <EDID>P01C_BadgeTerminal_Atomics_Q15</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Subatomic particles</Source>
+      <Dest>(X) Subatomic particles</Dest>
+    </String>
+    <String List="0" sID="04C45F">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q14</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Deer</Source>
+      <Dest>(X) Deer</Dest>
+    </String>
+    <String List="0" sID="04C46D">
+      <EDID>P01C_BadgeTerminal_Cook_Q04</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Cranberries, Carrot Flower, Sugar, Water</Source>
+      <Dest>(X) Cranberries, Carrot Flower, Sugar, Water</Dest>
+    </String>
+    <String List="0" sID="04C475">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q12</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Rawhide</Source>
+      <Dest>(X) Rawhide</Dest>
+    </String>
+    <String List="0" sID="04C483">
+      <EDID>P01C_BadgeTerminal_Atomics_Q13</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04C489">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q10</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Graining</Source>
+      <Dest>(X) Graining</Dest>
+    </String>
+    <String List="0" sID="04C493">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q13</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>A butterfly</Source>
+      <Dest>(X) A butterfly</Dest>
+    </String>
+    <String List="0" sID="04C49F">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q08</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Makes the leather thinner without weakening it</Source>
+      <Dest>(X) Makes the leather thinner without weakening it</Dest>
+    </String>
+    <String List="0" sID="04C4A5">
+      <EDID>P01C_BadgeTerminal_Atomics_Q11</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>The Fusion Cell</Source>
+      <Dest>(X) The Fusion Cell</Dest>
+    </String>
+    <String List="0" sID="04C4B1">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q06</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>A strip of leather</Source>
+      <Dest>(X) A strip of leather</Dest>
+    </String>
+    <String List="0" sID="04C4B9">
+      <EDID>P01C_BadgeTerminal_Cook_Q14</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Increases the boiling point of the water</Source>
+      <Dest>(X) Increases the boiling point of the water</Dest>
+    </String>
+    <String List="0" sID="04C4C3">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q04</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>No</Source>
+      <Dest>(X) No</Dest>
+    </String>
+    <String List="0" sID="04C4D1">
+      <EDID>P01C_BadgeTerminal_Atomics_Q09</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Leave immediately and find an adult</Source>
+      <Dest>(X) Leave immediately and find an adult</Dest>
+    </String>
+    <String List="0" sID="04C4DD">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q02</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Making leather fruit snacks</Source>
+      <Dest>(X) Making leather fruit snacks</Dest>
+    </String>
+    <String List="0" sID="04C4E5">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q11</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Flowers</Source>
+      <Dest>(X) Flowers</Dest>
+    </String>
+    <String List="0" sID="04C4ED">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q00</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Tanning</Source>
+      <Dest>(X) Tanning</Dest>
+    </String>
+    <String List="0" sID="04C4FB">
+      <EDID>P01C_BadgeTerminal_Atomics_Q07</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Duck and cover</Source>
+      <Dest>(X) Duck and cover</Dest>
+    </String>
+    <String List="0" sID="04C509">
+      <EDID>P01C_BadgeTerminal_Collector_Q18</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Plasma weapons</Source>
+      <Dest>(X) Plasma weapons</Dest>
+    </String>
+    <String List="0" sID="04C515">
+      <EDID>P01C_BadgeTerminal_Atomics_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>The Roberts</Source>
+      <Dest>(X) The Roberts</Dest>
+    </String>
+    <String List="0" sID="04C521">
+      <EDID>P01C_BadgeTerminal_Collector_Q16</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Professor Platypus</Source>
+      <Dest>(X) Professor Platypus</Dest>
+    </String>
+    <String List="0" sID="04C52B">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q09</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Bioluminescence</Source>
+      <Dest>(X) Bioluminescence</Dest>
+    </String>
+    <String List="0" sID="04C537">
+      <EDID>P01C_BadgeTerminal_Collector_Q14</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Hubris Comics</Source>
+      <Dest>(X) Hubris Comics</Dest>
+    </String>
+    <String List="0" sID="04C53B">
+      <EDID>P01C_BadgeTerminal_Atomics_Q03</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>The speed of light</Source>
+      <Dest>(X) The speed of light</Dest>
+    </String>
+    <String List="0" sID="04C545">
+      <EDID>P01C_BadgeTerminal_Collector_Q12</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Comrade Chubs</Source>
+      <Dest>(X) Comrade Chubs</Dest>
+    </String>
+    <String List="0" sID="04C555">
+      <EDID>P01C_BadgeTerminal_Cook_Q12</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04C55D">
+      <EDID>P01C_BadgeTerminal_Collector_Q10</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Thrilling, True Stories for Rugged Men</Source>
+      <Dest>(X) Thrilling, True Stories for Rugged Men</Dest>
+    </String>
+    <String List="0" sID="04C569">
+      <EDID>P01C_BadgeTerminal_Atomics_Q01</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Assaultron</Source>
+      <Dest>(X) Assaultron</Dest>
+    </String>
+    <String List="0" sID="04C56F">
+      <EDID>P01C_BadgeTerminal_Collector_Q08</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Teddy Fear</Source>
+      <Dest>(X) Teddy Fear</Dest>
+    </String>
+    <String List="0" sID="04C577">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q07</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Pelvis</Source>
+      <Dest>(X) Pelvis</Dest>
+    </String>
+    <String List="0" sID="04C585">
+      <EDID>P01C_BadgeTerminal_Collector_Q06</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Good Vibes</Source>
+      <Dest>(X) Good Vibes</Dest>
+    </String>
+    <String List="0" sID="04C5B8">
+      <EDID>P01C_BadgeTerminal_Collector_Q04</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Giddyup Buttercup</Source>
+      <Dest>(X) Giddyup Buttercup</Dest>
+    </String>
+    <String List="0" sID="04C5C6">
+      <EDID>P01C_BadgeTerminal_Cook_Q02</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Hands</Source>
+      <Dest>(X) Hands</Dest>
+    </String>
+    <String List="0" sID="04C5D2">
+      <EDID>P01C_BadgeTerminal_Collector_Q02</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>The Mega Sloth</Source>
+      <Dest>(X) The Mega Sloth</Dest>
+    </String>
+    <String List="0" sID="04C5DA">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q19</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Carnivore</Source>
+      <Dest>(X) Carnivore</Dest>
+    </String>
+    <String List="0" sID="04C5E4">
+      <EDID>P01C_BadgeTerminal_Collector_Q00</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>$29</Source>
+      <Dest>(X) $29</Dest>
+    </String>
+    <String List="0" sID="04C5EE">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q05</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Having six legs</Source>
+      <Dest>(X) Having six legs</Dest>
+    </String>
+    <String List="0" sID="04C5FB">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q17</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Japanese giant salamander</Source>
+      <Dest>(X) Japanese giant salamander</Dest>
+    </String>
+    <String List="0" sID="04C607">
+      <EDID>P01C_BadgeTerminal_Chemist_Q18</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Rad-X</Source>
+      <Dest>(X) Rad-X</Dest>
+    </String>
+    <String List="0" sID="04C613">
+      <EDID>P01C_BadgeTerminal_Cook_Q10</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Fermentation</Source>
+      <Dest>(X) Fermentation</Dest>
+    </String>
+    <String List="0" sID="04C61D">
+      <EDID>P01C_BadgeTerminal_Chemist_Q16</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Find the nearest eye wash station and begin flushing his eyes for 15 minutes</Source>
+      <Dest>(X) Find the nearest eye wash station and begin flushing his eyes for 15 minutes</Dest>
+    </String>
+    <String List="0" sID="04C621">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q15</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Turtles live near water while tortoises live on land</Source>
+      <Dest>(X) Turtles live near water while tortoises live on land</Dest>
+    </String>
+    <String List="0" sID="04C62F">
+      <EDID>P01C_BadgeTerminal_Chemist_Q14</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Increased hunger and thirst</Source>
+      <Dest>(X) Increased hunger and thirst</Dest>
+    </String>
+    <String List="0" sID="04C637">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q03</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>The length of a football field</Source>
+      <Dest>(X) The length of a football field</Dest>
+    </String>
+    <String List="0" sID="04C645">
+      <EDID>P01C_BadgeTerminal_Chemist_Q12</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>A chemical reaction</Source>
+      <Dest>(X) A chemical reaction</Dest>
+    </String>
+    <String List="0" sID="04C649">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q13</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Poisons are ingested, venom is injected</Source>
+      <Dest>(X) Poisons are ingested, venom is injected</Dest>
+    </String>
+    <String List="0" sID="04C659">
+      <EDID>P01C_BadgeTerminal_Chemist_Q10</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>The Periodic Table of Elements</Source>
+      <Dest>(X) The Periodic Table of Elements</Dest>
+    </String>
+    <String List="0" sID="04C661">
+      <EDID>P01C_BadgeTerminal_Chemist_Q08</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Acid</Source>
+      <Dest>(X) Acid</Dest>
+    </String>
+    <String List="0" sID="04C66B">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q11</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Clutch</Source>
+      <Dest>(X) Clutch</Dest>
+    </String>
+    <String List="0" sID="04C671">
+      <EDID>P01C_BadgeTerminal_Chemist_Q06</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Stimpak</Source>
+      <Dest>(X) Stimpak</Dest>
+    </String>
+    <String List="0" sID="04C67F">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q01</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Scarab beetles</Source>
+      <Dest>(X) Scarab beetles</Dest>
+    </String>
+    <String List="0" sID="04C685">
+      <EDID>P01C_BadgeTerminal_Chemist_Q04</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Purified water</Source>
+      <Dest>(X) Purified water</Dest>
+    </String>
+    <String List="0" sID="04C695">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q09</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Invasive species</Source>
+      <Dest>(X) Invasive species</Dest>
+    </String>
+    <String List="0" sID="04C69F">
+      <EDID>P01C_BadgeTerminal_Chemist_Q02</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Mentats</Source>
+      <Dest>(X) Mentats</Dest>
+    </String>
+    <String List="0" sID="04C6A5">
+      <EDID>P01C_BadgeTerminal_Cook_Q08</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Dredging</Source>
+      <Dest>(X) Dredging</Dest>
+    </String>
+    <String List="0" sID="04C6AD">
+      <EDID>P01C_BadgeTerminal_Chemist_Q00</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Addictol</Source>
+      <Dest>(X) Addictol</Dest>
+    </String>
+    <String List="0" sID="04C6BB">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q07</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Bullfrog</Source>
+      <Dest>(X) Bullfrog</Dest>
+    </String>
+    <String List="0" sID="04C6F5">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q19</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Trace</Source>
+      <Dest>(X) Trace</Dest>
+    </String>
+    <String List="0" sID="04C701">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q05</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>An alligator snapping turtle</Source>
+      <Dest>(X) An alligator snapping turtle</Dest>
+    </String>
+    <String List="0" sID="04C707">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q19</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Autonomous</Source>
+      <Dest>(X) Autonomous</Dest>
+    </String>
+    <String List="0" sID="04C717">
+      <EDID>P01C_BadgeTerminal_Cook_Q07</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>The thymus gland of an animal</Source>
+      <Dest>(X) The thymus gland of an animal</Dest>
+    </String>
+    <String List="0" sID="04C71B">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q15</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Hornwright Industries</Source>
+      <Dest>(X) Hornwright Industries</Dest>
+    </String>
+    <String List="0" sID="04C729">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q14</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Suffering from dehydration</Source>
+      <Dest>(X) Suffering from dehydration</Dest>
+    </String>
+    <String List="0" sID="04C733">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q11</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>The Vertibird</Source>
+      <Dest>(X) The Vertibird</Dest>
+    </String>
+    <String List="0" sID="04C73F">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q02</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Shoot blood from their eyes</Source>
+      <Dest>(X) Shoot blood from their eyes</Dest>
+    </String>
+    <String List="0" sID="04C747">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q07</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>High-power Head Laser</Source>
+      <Dest>(X) High-power Head Laser</Dest>
+    </String>
+    <String List="0" sID="04C74F">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q10</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>It will help to protect you from poison ivy, poison oak, and sun exposure</Source>
+      <Dest>(X) It will help to protect you from poison ivy, poison oak, and sun exposure</Dest>
+    </String>
+    <String List="0" sID="04C759">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q03</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Watoga</Source>
+      <Dest>(X) Watoga</Dest>
+    </String>
+    <String List="0" sID="04C763">
+      <EDID>P01C_BadgeTerminal_Cook_Q19</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Myoglobin</Source>
+      <Dest>(X) Myoglobin</Dest>
+    </String>
+    <String List="0" sID="04C79A">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q06</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Several hours before sunset</Source>
+      <Dest>(X) Several hours before sunset</Dest>
+    </String>
+    <String List="0" sID="04C7A6">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q17</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>The United Kingdom</Source>
+      <Dest>(X) The United Kingdom</Dest>
+    </String>
+    <String List="0" sID="04C7B5">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q13</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Tenders</Source>
+      <Dest>(X) Tenders</Dest>
+    </String>
+    <String List="0" sID="04C7BF">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q02</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Wear several light, thin layers that can be removed or replaced as the temperature changes</Source>
+      <Dest>(X) Wear several light, thin layers that can be removed or replaced as the temperature changes</Dest>
+    </String>
+    <String List="0" sID="04C7C5">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q09</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Hell on Wheels</Source>
+      <Dest>(X) Hell on Wheels</Dest>
+    </String>
+    <String List="0" sID="04C7FE">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>A steam engine</Source>
+      <Dest>(X) A steam engine</Dest>
+    </String>
+    <String List="0" sID="04C80D">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q01</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>A cow catcher</Source>
+      <Dest>(X) A cow catcher</Dest>
+    </String>
+    <String List="0" sID="04C81B">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q16</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>To mate and lay eggs</Source>
+      <Dest>(X) To mate and lay eggs</Dest>
+    </String>
+    <String List="0" sID="04C825">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q19</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Finishing</Source>
+      <Dest>(X) Finishing</Dest>
+    </String>
+    <String List="0" sID="04C82D">
+      <EDID>P01C_BadgeTerminal_Atomics_Q16</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>New-clee-er</Source>
+      <Dest>(X) New-clee-er</Dest>
+    </String>
+    <String List="0" sID="04C839">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q15</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>A tannery</Source>
+      <Dest>(X) A tannery</Dest>
+    </String>
+    <String List="0" sID="04C83F">
+      <EDID>P01C_BadgeTerminal_Cook_Q15</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Use a spoon to fish out one noodle for taste test</Source>
+      <Dest>(X) Use a spoon to fish out one noodle for taste test</Dest>
+    </String>
+    <String List="0" sID="04C849">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q11</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>It holds its shape</Source>
+      <Dest>(X) It holds its shape</Dest>
+    </String>
+    <String List="0" sID="04C855">
+      <EDID>P01C_BadgeTerminal_Atomics_Q12</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Fusion core</Source>
+      <Dest>(X) Fusion core</Dest>
+    </String>
+    <String List="0" sID="04C85B">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q07</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Saddle stitching</Source>
+      <Dest>(X) Saddle stitching</Dest>
+    </String>
+    <String List="0" sID="04C86B">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q12</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Kill and eat them</Source>
+      <Dest>(X) Kill and eat them</Dest>
+    </String>
+    <String List="0" sID="04C871">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q03</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Made of calf</Source>
+      <Dest>(X) Made of calf</Dest>
+    </String>
+    <String List="0" sID="04C87D">
+      <EDID>P01C_BadgeTerminal_Atomics_Q08</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Oxygen</Source>
+      <Dest>(X) Oxygen</Dest>
+    </String>
+    <String List="0" sID="04C8B0">
+      <EDID>P01C_BadgeTerminal_Cook_Q03</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Hold with your fingers clenched inward</Source>
+      <Dest>(X) Hold with your fingers clenched inward</Dest>
+    </String>
+    <String List="0" sID="04C8BC">
+      <EDID>P01C_BadgeTerminal_Collector_Q17</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Lockpicking</Source>
+      <Dest>(X) Lockpicking</Dest>
+    </String>
+    <String List="0" sID="04C8CA">
+      <EDID>P01C_BadgeTerminal_Atomics_Q04</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Nuclear Fusion</Source>
+      <Dest>(X) Nuclear Fusion</Dest>
+    </String>
+    <String List="0" sID="04C8D0">
+      <EDID>P01C_BadgeTerminal_Collector_Q13</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Planned Diversion Programming</Source>
+      <Dest>(X) Planned Diversion Programming</Dest>
+    </String>
+    <String List="0" sID="04C8DA">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q08</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Spine</Source>
+      <Dest>(X) Spine</Dest>
+    </String>
+    <String List="0" sID="04C8E8">
+      <EDID>P01C_BadgeTerminal_Collector_Q09</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Nuka-Kiwi</Source>
+      <Dest>(X) Nuka-Kiwi</Dest>
+    </String>
+    <String List="0" sID="04C8EE">
+      <EDID>P01C_BadgeTerminal_Atomics_Q00</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Its Nucleus</Source>
+      <Dest>(X) Its Nucleus</Dest>
+    </String>
+    <String List="0" sID="04C8F8">
+      <EDID>P01C_BadgeTerminal_Collector_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>I Want to Go Home Mr. Fuzzy</Source>
+      <Dest>(X) I Want to Go Home Mr. Fuzzy</Dest>
+    </String>
+    <String List="0" sID="04C900">
+      <EDID>P01C_BadgeTerminal_Cook_Q11</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>CRAM!</Source>
+      <Dest>(X) CRAM!</Dest>
+    </String>
+    <String List="0" sID="04C90C">
+      <EDID>P01C_BadgeTerminal_Collector_Q01</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>The Trickster</Source>
+      <Dest>(X) The Trickster</Dest>
+    </String>
+    <String List="0" sID="04C914">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q18</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Break its own toe bones and use them as claws</Source>
+      <Dest>(X) Break its own toe bones and use them as claws</Dest>
+    </String>
+    <String List="0" sID="04C920">
+      <EDID>P01C_BadgeTerminal_Chemist_Q19</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Never acceptable</Source>
+      <Dest>(X) Never acceptable</Dest>
+    </String>
+    <String List="0" sID="04C92E">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q04</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Spiders</Source>
+      <Dest>(X) Spiders</Dest>
+    </String>
+    <String List="0" sID="04C938">
+      <EDID>P01C_BadgeTerminal_Chemist_Q15</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>All of the above</Source>
+      <Dest>(X) All of the above</Dest>
+    </String>
+    <String List="0" sID="04C940">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q14</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Frogs have smooth mucus-covered skin, toads have rough, dry skin</Source>
+      <Dest>(X) Frogs have smooth mucus-covered skin, toads have rough, dry skin</Dest>
+    </String>
+    <String List="0" sID="04C948">
+      <EDID>P01C_BadgeTerminal_Chemist_Q11</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Petroleum</Source>
+      <Dest>(X) Petroleum</Dest>
+    </String>
+    <String List="0" sID="04C952">
+      <EDID>P01C_BadgeTerminal_Chemist_Q07</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Cloth and acid</Source>
+      <Dest>(X) Cloth and acid</Dest>
+    </String>
+    <String List="0" sID="04C95C">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q10</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Shed its own tail as a distraction</Source>
+      <Dest>(X) Shed its own tail as a distraction</Dest>
+    </String>
+    <String List="0" sID="04C968">
+      <EDID>P01C_BadgeTerminal_Chemist_Q03</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Lime</Source>
+      <Dest>(X) Lime</Dest>
+    </String>
+    <String List="0" sID="04C970">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q00</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>100x their weight</Source>
+      <Dest>(X) 100x their weight</Dest>
+    </String>
+    <String List="0" sID="04C9A7">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q06</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>30 minutes</Source>
+      <Dest>(X) 30 minutes</Dest>
+    </String>
+    <String List="0" sID="04C9AF">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q18</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Stay put and make noise, so that someone will be more likely to find her</Source>
+      <Dest>(X) Stay put and make noise, so that someone will be more likely to find her</Dest>
+    </String>
+    <String List="0" sID="04C9C2">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q13</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Petey the Protectron</Source>
+      <Dest>(X) Petey the Protectron</Dest>
+    </String>
+    <String List="0" sID="04C9C8">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q12</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>East</Source>
+      <Dest>(X) East</Dest>
+    </String>
+    <String List="0" sID="04C9D8">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q05</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>RobCo</Source>
+      <Dest>(X) RobCo</Dest>
+    </String>
+    <String List="0" sID="04C9E2">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q00</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Alligators</Source>
+      <Dest>(X) Alligators</Dest>
+    </String>
+    <String List="0" sID="04C9EC">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q19</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Monorail</Source>
+      <Dest>(X) Monorail</Dest>
+    </String>
+    <String List="0" sID="04C9F0">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q04</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Maintain eye contact, make himself look as large as possible, and make a lot of noise</Source>
+      <Dest>(X) Maintain eye contact, make himself look as large as possible, and make a lot of noise</Dest>
+    </String>
+    <String List="0" sID="04C9FC">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q11</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>The Trans-Siberian Railway</Source>
+      <Dest>(X) The Trans-Siberian Railway</Dest>
+    </String>
+    <String List="0" sID="04CA06">
+      <EDID>P01C_BadgeTerminal_Cook_Q05</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Foraging for wild edible mushrooms</Source>
+      <Dest>(X) Foraging for wild edible mushrooms</Dest>
+    </String>
+    <String List="0" sID="04CA12">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q03</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Someone who studies trains</Source>
+      <Dest>(X) Someone who studies trains</Dest>
+    </String>
+    <String List="0" sID="04CA18">
+      <EDID>P01C_BadgeTerminal_Atomics_Q18</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Yellowcake</Source>
+      <Dest>(X) Yellowcake</Dest>
+    </String>
+    <String List="0" sID="04CA24">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q17</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Cows</Source>
+      <Dest>(X) Cows</Dest>
+    </String>
+    <String List="0" sID="04CA32">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q14</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Antarctica</Source>
+      <Dest>(X) Antarctica</Dest>
+    </String>
+    <String List="0" sID="04CA36">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q09</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Tooling</Source>
+      <Dest>(X) Tooling</Dest>
+    </String>
+    <String List="0" sID="04CA46">
+      <EDID>P01C_BadgeTerminal_Atomics_Q10</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>France</Source>
+      <Dest>(X) France</Dest>
+    </String>
+    <String List="0" sID="04CA4E">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q01</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>The underside</Source>
+      <Dest>(X) The underside</Dest>
+    </String>
+    <String List="0" sID="04CA56">
+      <EDID>P01C_BadgeTerminal_Cook_Q13</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>165 degrees</Source>
+      <Dest>(X) 165 degrees</Dest>
+    </String>
+    <String List="0" sID="04CA62">
+      <EDID>P01C_BadgeTerminal_Collector_Q15</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Dr. Brainwash and the De-Capitalists</Source>
+      <Dest>(X) Dr. Brainwash and the De-Capitalists</Dest>
+    </String>
+    <String List="0" sID="04CA6A">
+      <EDID>P01C_BadgeTerminal_Atomics_Q02</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Its number of Protons</Source>
+      <Dest>(X) Its number of Protons</Dest>
+    </String>
+    <String List="0" sID="04CA72">
+      <EDID>P01C_BadgeTerminal_Collector_Q07</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Tales From West Virginia</Source>
+      <Dest>(X) Tales From West Virginia</Dest>
+    </String>
+    <String List="0" sID="04CA7C">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q06</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Making eggs</Source>
+      <Dest>(X) Making eggs</Dest>
+    </String>
+    <String List="0" sID="04CAB9">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q16</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Golden dart frog</Source>
+      <Dest>(X) Golden dart frog</Dest>
+    </String>
+    <String List="0" sID="04CABD">
+      <EDID>P01C_BadgeTerminal_Chemist_Q13</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Daddy-O</Source>
+      <Dest>(X) Daddy-O</Dest>
+    </String>
+    <String List="0" sID="04CACD">
+      <EDID>P01C_BadgeTerminal_Chemist_Q05</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Bufftats</Source>
+      <Dest>(X) Bufftats</Dest>
+    </String>
+    <String List="0" sID="04CAD1">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q08</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Euphoria and vivid hallucinations</Source>
+      <Dest>(X) Euphoria and vivid hallucinations</Dest>
+    </String>
+    <String List="0" sID="04CADB">
+      <EDID>P01C_BadgeTerminal_Herpetologist_Q04</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Pain and swelling in the bite area</Source>
+      <Dest>(X) Pain and swelling in the bite area</Dest>
+    </String>
+    <String List="0" sID="04CAE7">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q09</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Self-Destruct</Source>
+      <Dest>(X) Self-Destruct</Dest>
+    </String>
+    <String List="0" sID="04CAF3">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q08</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Jangles the Moon Monkey doll</Source>
+      <Dest>(X) Jangles the Moon Monkey doll</Dest>
+    </String>
+    <String List="0" sID="04CAFD">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q15</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Never</Source>
+      <Dest>(X) Never</Dest>
+    </String>
+    <String List="0" sID="04CB05">
+      <EDID>P01C_BadgeTerminal_Cook_Q17</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Boils</Source>
+      <Dest>(X) Boils</Dest>
+    </String>
+    <String List="0" sID="04CB3E">
+      <EDID>P01C_BadgeTerminal_Atomics_Q14</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>Positron</Source>
+      <Dest>(X) Positron</Dest>
+    </String>
+    <String List="0" sID="04CB44">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q05</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>A decorative way of sewing leather</Source>
+      <Dest>(X) A decorative way of sewing leather</Dest>
+    </String>
+    <String List="0" sID="04CB4E">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q10</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Pupa</Source>
+      <Dest>(X) Pupa</Dest>
+    </String>
+    <String List="0" sID="04CB58">
+      <EDID>P01C_BadgeTerminal_Collector_Q11</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>The Starlet Sniper</Source>
+      <Dest>(X) The Starlet Sniper</Dest>
+    </String>
+    <String List="0" sID="04CB69">
+      <EDID>P01C_BadgeTerminal_Chemist_Q17</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Under a fume hood with the ventilation system turned on</Source>
+      <Dest>(X) Under a fume hood with the ventilation system turned on</Dest>
+    </String>
+    <String List="0" sID="04CB73">
+      <EDID>P01C_BadgeTerminal_Chemist_Q01</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Radaway</Source>
+      <Dest>(X) Radaway</Dest>
+    </String>
+    <String List="0" sID="04CB7B">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q16</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Make scientific observations, but otherwise leave them alone</Source>
+      <Dest>(X) Make scientific observations, but otherwise leave them alone</Dest>
+    </String>
+    <String List="0" sID="04CB8B">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q01</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Mr. Handy</Source>
+      <Dest>(X) Mr. Handy</Dest>
+    </String>
+    <String List="0" sID="04CB8F">
+      <EDID>P01C_BadgeTerminal_Entomologist_Q18</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>A beetle</Source>
+      <Dest>(X) A beetle</Dest>
+    </String>
+    <String List="0" sID="04CB9B">
+      <EDID>P01C_BadgeTerminal_Leatherworker_Q13</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>A wax rubbed into the leather</Source>
+      <Dest>(X) A wax rubbed into the leather</Dest>
+    </String>
+    <String List="0" sID="04CBA3">
+      <EDID>P01C_BadgeTerminal_Atomics_Q06</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Radon</Source>
+      <Dest>(X) Radon</Dest>
+    </String>
+    <String List="0" sID="04CBB1">
+      <EDID>P01C_BadgeTerminal_Collector_Q03</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>RobCo Fun</Source>
+      <Dest>(X) RobCo Fun</Dest>
+    </String>
+    <String List="0" sID="04CBBD">
+      <EDID>P01C_BadgeTerminal_Roboticist_Q17</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Protect and Destroy</Source>
+      <Dest>(X) Protect and Destroy</Dest>
+    </String>
+    <String List="0" sID="04CBC7">
+      <EDID>P01C_BadgeTerminal_Backpacker_Q00</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Slowly back away and use a smooth calming voice while keeping an eye on the bear</Source>
+      <Dest>(X) Slowly back away and use a smooth calming voice while keeping an eye on the bear</Dest>
+    </String>
+    <String List="0" sID="04CBD1">
+      <EDID>P01C_BadgeTerminal_Collector_Q19</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Tesla Magazine</Source>
+      <Dest>(X) Tesla Magazine</Dest>
+    </String>
+    <String List="0" sID="04CBD9">
+      <EDID>P01C_BadgeTerminal_RailEnthusiast_Q07</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>10 miles</Source>
+      <Dest>(X) 10 miles</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

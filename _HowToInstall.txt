@@ -1,0 +1,68 @@
+=====================================================
+    README - Better Fishing Mod
+=====================================================
+
+
+*** NOT WORKING AS EXPECTED? ***
+---------------------------------
+Keep your mouse circle on the fish symbol, you'll get it to work.
+(Suggestion by pottman on NexusMods, thank you!)
+
+
+=====================================================
+           EASY INSTALLATION GUIDE
+=====================================================
+
+Welcome! Let's get this mod working in just a couple of simple steps.
+
+
+-----------------------------------------------------
+   STEP 1: FIND YOUR FALLOUT 76 FOLDER
+-----------------------------------------------------
+
+First, we need to navigate to your user documents folder for Fallout 76.
+
+The Easiest Way:
+1. Press the WINDOWS Key + R Key at the same time to open the "Run" window.
+
+2. Copy and paste the following path into the box:
+   %userprofile%/Documents/My Games/Fallout 76/
+
+3. Press OK. A folder should open containing files like "Fallout76.ini" and "Project76.ini".
+
+>> Heads Up! The files we are looking for end in .ini, not .txt. 
+>> You can open and edit them with the standard Notepad app.
+
+
+-----------------------------------------------------
+   STEP 2: ADD THE MAGIC LINES
+-----------------------------------------------------
+
+Now we'll edit the configuration file to activate the mod.
+
+1. Look for a file named "Fallout76Custom.ini" or "Project76Custom.ini".
+
+2. If you DON'T have this file, no problem! Right-click inside the folder, 
+   select New -> Text Document, and name it "Fallout76Custom.ini".
+   (Make sure to change the file ending from .txt to .ini!)
+
+3. Open the file and paste the following lines inside:
+
+[Archive]
+sResourceIndexFileList=BetterFishing.ba2
+bInvalidateOlderFiles=1
+sResourceDataDirsFinal=
+
+
+=====================================================
+                   YOU'RE ALL SET!
+=====================================================
+
+Just save the file, close it, and you're good to go. Happy fishing!
+
+
+-----------------------------------------------------
+   NEED SOME HELP?
+-----------------------------------------------------
+Feel free to send me a friend request or a message on Discord!
+Discord ID: _owlyyy
