@@ -81,7 +81,7 @@
 	{
 		// for useDynamicPowerArmorParts
 		"image": "PowerArmor/Outline/Black.dds",
-		"offset": {"x": -100, "y": 0},
+		"offset": {"x": -90, "y": 0},
 		"scale": {"x": 0.6, "y": 0.6},
 		"adjustColor": false,
 		"color": {"hue": 0, "saturation": 0, "brightness": 0, "contrast": 0},
@@ -299,8 +299,8 @@
 				{"belowPercent": 160, "image": "PowerArmor/Helmet/Green.dds", "hue": 0, "saturation": 0, "brightness": 0, "contrast": 0, "alpha": 1.0},
 				{"belowPercent": 300, "image": "PowerArmor/Helmet/Teal.dds", "hue": 0, "saturation": 0, "brightness": 0, "contrast": 0, "alpha": 1.0}
 			],
-			"offsetText": {"x": -40, "y": -15},
-			"offsetImage": {"x": -100, "y": 0},
+			"offsetText": {"x": -30, "y": -15},
+			"offsetImage": {"x": -90, "y": 0},
 			"scaleImage": {"x": 0.6, "y": 0.6},
 			"showPercentage": true
 		},
@@ -315,8 +315,8 @@
 				{"belowPercent": 160, "image": "PowerArmor/RightArm/Green.dds", "hue": 0, "saturation": 0, "brightness": 0, "contrast": 0, "alpha": 1.0},
 				{"belowPercent": 300, "image": "PowerArmor/RightArm/Teal.dds", "hue": 0, "saturation": 0, "brightness": 0, "contrast": 0, "alpha": 1.0}
 			],
-			"offsetText": {"x": -100, "y": 25},
-			"offsetImage": {"x": -100, "y": 0},
+			"offsetText": {"x": -90, "y": 25},
+			"offsetImage": {"x": -90, "y": 0},
 			"scaleImage": {"x": 0.6, "y": 0.6},
 			"showPercentage": true
 		},
@@ -331,8 +331,8 @@
 				{"belowPercent": 160, "image": "PowerArmor/LeftArm/Green.dds", "hue": 0, "saturation": 0, "brightness": 0, "contrast": 0, "alpha": 1.0},
 				{"belowPercent": 300, "image": "PowerArmor/LeftArm/Teal.dds", "hue": 0, "saturation": 0, "brightness": 0, "contrast": 0, "alpha": 1.0}
 			],
-			"offsetText": {"x": 10, "y": 25},
-			"offsetImage": {"x": -100, "y": 0},
+			"offsetText": {"x": 20, "y": 25},
+			"offsetImage": {"x": -90, "y": 0},
 			"scaleImage": {"x": 0.6, "y": 0.6},
 			"showPercentage": true
 		},
@@ -347,8 +347,8 @@
 				{"belowPercent": 160, "image": "PowerArmor/RightLeg/Green.dds", "hue": 0, "saturation": 0, "brightness": 0, "contrast": 0, "alpha": 1.0},
 				{"belowPercent": 300, "image": "PowerArmor/RightLeg/Teal.dds", "hue": 0, "saturation": 0, "brightness": 0, "contrast": 0, "alpha": 1.0}
 			],
-			"offsetText": {"x": -90, "y": 95},
-			"offsetImage": {"x": -100, "y": 0},
+			"offsetText": {"x": -80, "y": 95},
+			"offsetImage": {"x": -90, "y": 0},
 			"scaleImage": {"x": 0.6, "y": 0.6},
 			"showPercentage": true
 		},
@@ -363,8 +363,8 @@
 				{"belowPercent": 160, "image": "PowerArmor/LeftLeg/Green.dds", "hue": 0, "saturation": 0, "brightness": 0, "contrast": 0, "alpha": 1.0},
 				{"belowPercent": 300, "image": "PowerArmor/LeftLeg/Teal.dds", "hue": 0, "saturation": 0, "brightness": 0, "contrast": 0, "alpha": 1.0}
 			],
-			"offsetText": {"x": -5, "y": 95},
-			"offsetImage": {"x": -100, "y": 0},
+			"offsetText": {"x": 5, "y": 95},
+			"offsetImage": {"x": -90, "y": 0},
 			"scaleImage": {"x": 0.6, "y": 0.6},
 			"showPercentage": true
 		},
@@ -379,8 +379,8 @@
 				{"belowPercent": 160, "image": "PowerArmor/Torso/Green.dds", "hue": 0, "saturation": 0, "brightness": 0, "contrast": 0, "alpha": 1.0},
 				{"belowPercent": 300, "image": "PowerArmor/Torso/Teal.dds", "hue": 0, "saturation": 0, "brightness": 0, "contrast": 0, "alpha": 1.0}
 			],
-			"offsetText": {"x": -40, "y": 135},
-			"offsetImage": {"x": -100, "y": 0},
+			"offsetText": {"x": -30, "y": 135},
+			"offsetImage": {"x": -90, "y": 0},
 			"scaleImage": {"x": 0.6, "y": 0.6},
 			"showPercentage": true
 		}
