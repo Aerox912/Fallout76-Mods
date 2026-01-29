@@ -335,8 +335,8 @@
 				<Y>100</Y>
 				<PowerArmor>
 					<Scale>1</Scale>
-					<X>0</X>
-					<Y>0</Y>
+					<X>110</X>
+					<Y>10</Y>
 				</PowerArmor>
 			</HungerMeter>
 			
@@ -350,8 +350,8 @@
 				<Y>100</Y>
 				<PowerArmor>
 					<Scale>1</Scale>
-					<X>0</X>
-					<Y>0</Y>
+					<X>110</X>
+					<Y>10</Y>
 				</PowerArmor>
 			</ThirstMeter>
 			
