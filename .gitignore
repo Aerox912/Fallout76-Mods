@@ -15,3 +15,6 @@
 *.vortex_backup
 strings/**
 *.btd
+perkloadoutmanager.ini
+LegendaryMods.ini
+BuffData.ini
