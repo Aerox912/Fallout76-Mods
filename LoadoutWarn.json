@@ -1,0 +1,22 @@
+{
+  "x": 40,
+  "y": 40,
+
+  "bangOffsetX": -28,
+  "bangOffsetY": -10,
+
+  "warnOffsetX": 0,
+  "warnOffsetY": 0,
+
+  "warnText": "WARNING: CAMP LOADOUT ACTIVE!",
+  "pulseSpeed": 0.12,
+
+  "warnLoadouts": [
+    "Camp"
+  ],
+
+  "showInitialWarning": true,
+  "initialText": "Loadout not yet loaded (Open Punchcard)",
+  "initialColor": "FFD800",
+  "initialPulse": false
+}
