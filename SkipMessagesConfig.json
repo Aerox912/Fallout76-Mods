@@ -23,13 +23,16 @@
 		"Exit Station?": 1,
 		"Do you want to scrap this card for 2 Perk Coins?\n(Perk Coins are used to rank up Legendary Perk Cards)": 0,
 		"Choose a travel point for Highway Town": 2,
+		"Choose a travel point for Foundation": 0,
+		"Choose a travel point for The Crater": 0,
+		"Choose a travel point for The Rusty Pick": 1,
+		"Inside this package is an unmarked map fragment": 0,
 		".....":0
 	},
 	"SkipCustomRegex": {
 		
 		// Few examples:
-		"Pay [0-9]{1,2} Caps to travel": 0,
-		"Inside this package is an unmarked map fragment": 0
+		"Pay [0-9]{1,2} Caps to travel": 0
 		// "Choose a travel point for": 1
 	},
 	
