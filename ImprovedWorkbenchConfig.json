@@ -4,7 +4,7 @@
 	"enableExamineRepairAll": true,
 	"enableQuickRepairButton": true,
 	"enableImprovedQuantityMenu": true,
-	"defaultCraftAmount": 1,
+	"defaultCraftAmount": 15,
 	"showInventoryItemCount": true,
 	"customRepairKitRepairHotkey": 0,
 	"customWorkbenchRepairHotkey": 0,
