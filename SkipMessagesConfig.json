@@ -29,7 +29,7 @@
 		
 		// Few examples:
 		"Pay [0-9]{1,2} Caps to travel": 0,
-		"Inside this package is an unmarked map fragment\\. It has a small note attached:\\n\\n\"URGENT\\. .+, take this to my shop\\. Find all the pieces\\. -FS\"": 0
+		"Inside this package is an unmarked map fragment": 0
 		// "Choose a travel point for": 1
 	},
 	
