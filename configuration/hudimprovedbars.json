@@ -192,7 +192,7 @@
   "percentages": [
     {
       //Whether to show percentage  near health bar. [Available values: true/false]
-      "health": false,
+      "health": true,
       //Whether to show the original bethesda's percentage near health bar. [Available values: true/false. Setting this to true disables mods's health percentage info. if the percentage disappears completely, you have old HUDMenu (chatmod?)]
       "bethhealth": false,
       //Whether to show percentage  near hunger bar. [Available values: true/false]

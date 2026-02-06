@@ -1,6 +1,6 @@
 {
-  "x": -149,
-  "y": 990,
+  "x": -151,
+  "y": 988,
   "width": 234,
   "height": 14,
 
@@ -12,13 +12,13 @@
   "frameColor": "000000",
 
   "barPadding": 0,
-  "barColor": "82FF8A",
+  "barColor": "FFFF00",
   "backgroundColor": "000000",
 
   "showPercent": true,
   "shadow": true,
   "font": "$MAIN_Font",
-  "textSize": 14,
+  "textSize": 12,
 
   "levelPosition": "top",
   "levelOffsetX": -10,
@@ -30,6 +30,14 @@
 
   "fillBorderThickness": 1,
   "fillBorderColor": "258A2C",
+
+  "showSegments": true,
+  "segmentStep": 0.1,
+  "segmentMode": "smart",
+  "segmentColor": "000000",
+  "segmentAlpha": 1.0,
+  "segmentThickness": 3,
+  "segmentsOverFill": true,
 
   "HUDModesState": "Hidden",
   "HUDModes": [
