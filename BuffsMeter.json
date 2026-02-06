@@ -1,20 +1,20 @@
 {
 	// WIDGET SETTINGS
 	"x": -300,
-	"y": 10,
-	"anchor": "top", // top, bottom (Update 1.0.7)
+	"y": 925,
+	"anchor": "bottom", // top, bottom (Update 1.0.7)
 	"ySpacing": -3,
-	"width": 250,
-	"textSize": 18,
+	"width": 135,
+	"textSize": 12,
 	/* Some of the working fonts:
 	"$76HandwrittenNeat_Font", "$76HandwrittenIlliterate", "$Adventure_Font", "$BerlinDemi", "$BRODY",
 	"$Brush_Script_Std", "$ChowderHead", "$ConsoleFont", "$DebugTextFont", "$DotMatrix_Font", "$evaScript_Font",
 	"$Futura_Bold", "$Futura_Bold_Oblique", "$Futura_Medium_Oblique", "$HandwrittenFont", "$KiddieCocktails",
 	"$Leiascript_Font", "$MAIN_Font", "$MAIN_Font_Bold", "$MAIN_Font_Light", "$NixieTube_Font",
 	"$Portico_Font_Regular", "$Slate_Mobile", "$Terminal_Font", "$Typewriter_Font" */
-	"textFont": "$ChowderHead",
+	"textFont": "$MAIN_Font",
 	"textAlign": "left", // left, center, right
-	"textColor": "0xffffff",
+	"textColor": "0xffffca",
 	"textShadow": true, // Update 1.0.8
 	"background": false,
 	"backgroundColor": "0x222222",
@@ -84,7 +84,7 @@
 	"hideEffectsBelowDuration": -15,
 	"warningBelowDuration": 30,
 	
-	"showSubEffects": false,
+	"showSubEffects": true,
 	"showExpiredSubEffects": false, // Update 1.0.4
 	"shownSubEffects": [ // Update 1.3.1
 	
@@ -183,7 +183,7 @@
 		"enabled": true,
 		"alignVertical": "bottom", // top, center, bottom
 		"alignHorizontal": "left", // left, center, right
-		"height": 4
+		"height": 2
 	},
 	
 	"xpBar": { // Update 1.0.8
@@ -237,7 +237,7 @@
 	*/
 	"format": "{duration} {text}",
 	"formats": {
-		"subEffect": "   {text} {duration}",
+		"subEffect": "   {text}",
 		"expiredBuff": "Expired: {text} {time}ago",
 		"checklist": "Not active: {text}",
 		"showRaidXP": "Raid XP: {xp}"
@@ -281,14 +281,10 @@
 		
 	Data will show in order in which it is listed here, remove anything unnecessary: */
 	"displayData": [
-		"showVersion",
-		"showHUDMode",
 		//"showRenderTime",
 		//"showLastUpdate",
 		//"showLastConfigUpdate",
-		//"showChecklist",
-		"showTime24",
-		"showServerTime24"
+		//"showChecklist"
 	],
 	
 	/* Custom color options:
@@ -304,7 +300,7 @@
 	"customColors": {
 		"warning": "0xffff33",
 		"expired": "0xff3377",
-		"durationBar": "0x009900",
+		"durationBar": "0xffffcb",
 		"durationBarWarning": "0x990099",
 		"showVersion": "0xff2222",
 		"showHUDMode": "0xffffff",
