@@ -1,37 +1,47 @@
--_-_-_-_-_-_-_-_-_-_-_- To install this mod -_-_-_-_-_-_-_-_-_-_-_-
 
-1 - Put the "Grelok - YouShallNotPass_EN.ba2" file in the data folder.
+This is another from my custom glow set, since there seems to be a desire for it outside of my own personal need.
+it adds a custom glow texture to ore veins since I found them painstakingly hard to efficiently locate. 
 
+See included pictures for object colors.
 
-2 - Go to "C:\Users\username\Documents\My Games\Fallout 76"
+------------------------------------------------------
+Installation:
 
-3 - if you don't have a "Fallout76Custom.ini" file, create it, otherwise, just open it
+1. Extract "ore_glow.ba2" to your Fallout76/Data folder.
+2. Add "ore_glow.ba2" to the end of the "sResourceArchive2List" line in your Fallout76Custom.ini:
 
-4 - You must add those in the Fallout76Custom.ini file under the right section if they exist.
+sResourceArchive2List = SeventySix - ATX_Main.ba2, SeventySix - ATX_Textures.ba2, ore_glow.ba2
 
-[Archive]
-sResourceArchive2List=Grelok - YouShallNotPass_EN.ba2
+------------------------------------------------------
+Changelog:
 
-6 - If you have other mods to specify on your "sResourceArchive2List", just split them with
-a comma and a space like this "sResourceArchive2List=A mod.ba2, Another mod.ba2, Grelok - YouShallNotPass_EN.ba2"
+1.0.2
+------------------------------------------------------
+- Change
+   All textures optimized, resulting in half their original size which will free up memory resources.
 
-7 - You're done !
+1.0.1
+------------------------------------------------------
+- Change
+   Aluminium - Multiplier changed from 1.5 to 1.1
+   Rick Black Titanium - Multiplier changed from 1.5 to .7
+   Coal - corrected invalid external emittance flag ( UlithiumDragon reported )
+   Copper - color correction from light copper 212/153/108 to deeper copper 184/115/51 | Multiplier Changed from 1.5 to 1.1
+   Gold - Multiplier Changed from 1.5 to 1.1
+   Iron - color changed from raw iron 132/130/158 to rust 153/68/51 | Multiplier Changed from 1.5 to 1.1
+   Lead - Multiplier Changed from 1.5 to 1.1
+   Silver - color changed from silver 217/45/210 to quicksilver 127/178/170 | Multiplier Changed from 1.5 to 1.1
 
--_-_-_-_-_-_-_-_-_-_-_- To uninstall this mod -_-_-_-_-_-_-_-_-_-_-_-
-
-1 - Remove "Grelok - YouShallNotPass_EN.ba2" from the "sResourceArchive2List".
-
-2 - You can let the "The100Menu - Music.ba2" in the data folder if you plan to use it later,
-otherwise, delete it.
-
-5 - You're done !
-
--_-_-_-_-_-_-_-_-_-_-_- WARNING -_-_-_-_-_-_-_-_-_-_-_-
-
-You might have downloaded this mod on Fallout76Mods.com
-This site reuploads Nexus Mods fallout 76 content without authors consent and credits (basically thievery)
-If you want to support the authors and be sure to use the latest version, please
-download your mods on https://www.nexusmods.com/
-
-
-
+1.0.0
+------------------------------------------------------
+- New
+   Aluminium
+   Rick Black Titanium
+   Coal
+   Copper
+   Gold
+   Iron
+   Lead
+   Silver
+   Ultracite
+   Uranium
