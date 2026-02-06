@@ -65,7 +65,7 @@
 	"formats": {"MostWanted": "WANTED:", "bounty": "({caps}c)", "isHidden": "-.-",
 		"isFriend": "{F}", "isTextChatUser": "{+}" } */
 	
-	"format": "{name} {vendorData}",
+	"format": "[{level}] {name} {isFriend}{isTextChatUser}{vendorData}",
 	"formats": {
 		"bounty": "({caps}c)",
 		"isHidden": "-.-",

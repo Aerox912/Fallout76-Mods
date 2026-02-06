@@ -1,8 +1,8 @@
 {
 	// WIDGET SETTINGS
 	"x": -300,
-	"y": 925,
-	"anchor": "bottom", // top, bottom (Update 1.0.7)
+	"y": 20,
+	"anchor": "top", // top, bottom (Update 1.0.7)
 	"ySpacing": -3,
 	"width": 135,
 	"textSize": 12,
