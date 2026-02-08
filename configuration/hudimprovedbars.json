@@ -37,9 +37,9 @@
             // POSITIONING
             // Whether to show icons vertically or hortizonally [Available values: true/false]
             // autoAlignLeftGroup is disabled for this widget if this feature is enabled. Will mess up things, unless you move each item individually.
-            "vertical": true,
-            "x": -100,
-            "y": -100,
+            "vertical": false,
+            "x": -5,
+            "y": -110,
             "scale": 1
           },
           "cores": {
@@ -107,33 +107,33 @@
             "items": [
               // This example matches Superstimpaks. English only
               {
-                "enabled": false,
-                "pattern": "/Stimpak: Super/",
-                "label": "Superstimpak",
-                "valuecolor": "#66ACB7",
+                "enabled": true,
+                "pattern": "/Stimpak: Diluted/",
+                "label": "Diluted stimpaks",
+                "valuecolor": "#FF0000",
                 "labelcolor": "#FFFFCA"
               },
               //  This example counts treasury notes
               {
-                "enabled": false,
-                "pattern": "Treasury Note",
-                "label": "Treasury notes",
-                "valuecolor": "#66ACB7",
+                "enabled": true,
+                "pattern": "/Nuclear Keycard/",
+                "label": "Nuke Cards",
+                "valuecolor": "#39FF14",
                 "labelcolor": "#FFFFCA"
               },
               // etc
               {
-                "enabled": false,
-                "pattern": "/some regex here/",
-                "label": "Whatever",
+                "enabled": true,
+                "pattern": "/Wanted Poster/",
+                "label": "Wanted Posters",
                 "valuecolor": "#66ACB7",
                 "labelcolor": "#FFFFCA"
               },
               {
-                "enabled": false,
-                "pattern": "",
-                "label": "Everything",
-                "valuecolor": "#66ACB7",
+                "enabled": true,
+                "pattern": "/Fuel Canister/",
+                "label": "Raid Fuel",
+                "valuecolor": "#D62828",
                 "labelcolor": "#FFFFCA"
               },
               {
