@@ -5,7 +5,7 @@
 	"anchor": "top", // top, bottom (Update 1.0.7)
 	"ySpacing": -3,
 	"width": 135,
-	"textSize": 14,
+	"textSize": 12,
 	/* Some of the working fonts:
 	"$76HandwrittenNeat_Font", "$76HandwrittenIlliterate", "$Adventure_Font", "$BerlinDemi", "$BRODY",
 	"$Brush_Script_Std", "$ChowderHead", "$ConsoleFont", "$DebugTextFont", "$DotMatrix_Font", "$evaScript_Font",
@@ -82,7 +82,7 @@
 	
 	"hideEffectsAboveDuration": 0, // Update 1.1.4
 	"hideEffectsBelowDuration": -15,
-	"warningBelowDuration": 30,
+	"warningBelowDuration": 120,
 	
 	"showSubEffects": true,
 	"showExpiredSubEffects": false, // Update 1.0.4
@@ -284,7 +284,7 @@
 		//"showRenderTime",
 		//"showLastUpdate",
 		//"showLastConfigUpdate",
-		//"showChecklist"
+		"showChecklist"
 	],
 	
 	/* Custom color options:
