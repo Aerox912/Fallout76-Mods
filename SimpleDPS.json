@@ -11,7 +11,7 @@
     "secOffsetY": -6,
     "showDPS": true,
     "showAVG": true,
-    "showHIT": true,
+    "showHIT": false,
     "showWindowSeconds": true,
     "colorMain": 16744576,
     "colorAccent": 16733525,
