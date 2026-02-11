@@ -18,5 +18,5 @@
   "showInitialWarning": true,
   "initialText": "Loadout not yet loaded (Open Punchcard)",
   "initialColor": "FFD800",
-  "initialPulse": false
+  "initialPulse": true
 }
