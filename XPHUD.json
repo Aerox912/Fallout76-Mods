@@ -12,7 +12,7 @@
   "frameColor": "000000",
 
   "barPadding": 0,
-  "barColor": "FFFF00",
+  "barColor": "82FF8A",
   "backgroundColor": "000000",
 
   "showPercent": true,
@@ -32,12 +32,13 @@
   "fillBorderColor": "258A2C",
 
   "showSegments": true,
-  "segmentStep": 0.1,
-  "segmentMode": "smart",
+  "segmentStep": 0.2,
+  "segmentMode": "full",
   "segmentColor": "000000",
   "segmentAlpha": 1.0,
-  "segmentThickness": 3,
+  "segmentThickness": 2,
   "segmentsOverFill": true,
+
 
   "HUDModesState": "Hidden",
   "HUDModes": [
