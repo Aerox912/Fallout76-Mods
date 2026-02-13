@@ -90,6 +90,7 @@
 	
 	],
 	"hideSubEffects": [ // Update 1.0.2
+		"MUTATION"
 	
 	],
 	"hideSubEffectsFor": [
