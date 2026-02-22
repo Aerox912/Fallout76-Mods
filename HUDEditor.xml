@@ -100,7 +100,7 @@
 				<Y>250</Y>
 				<PowerArmor>
 					<Scale>1</Scale>
-					<X>0</X>
+					<X>-250</X>
 					<Y>0</Y>
 				</PowerArmor>
 			</TeamPanel>
