@@ -5,7 +5,7 @@
 	"anchor": "top", // top, bottom (Update 1.0.7)
 	"ySpacing": -3,
 	"width": 135,
-	"textSize": 12,
+	"textSize": 10,
 	/* Some of the working fonts:
 	"$76HandwrittenNeat_Font", "$76HandwrittenIlliterate", "$Adventure_Font", "$BerlinDemi", "$BRODY",
 	"$Brush_Script_Std", "$ChowderHead", "$ConsoleFont", "$DebugTextFont", "$DotMatrix_Font", "$evaScript_Font",
