@@ -299,7 +299,7 @@
 	Data will show in order in which it is listed here: */
 	"displayData": [
 		"showVersion",
-		"showHUDMode",
+		//"showHUDMode",
 		
 		//"showRenderTime",
 		//"showElapsedTime",
@@ -310,22 +310,22 @@
 		//"showTime24",
 		//"showUTCTime",
 		
-		"showSeasonEndTime",
+		//"showSeasonEndTime",
 		"showMiniSeasonTime",
 		"showVerdantSeasons",
 		"showFishingSeason",
 		"emptyspace:10",
 		
 		"showSmiley",
-		"showMinerva",
+		//"showMinerva",
 		"emptyspace:10",
 		
-		"showNuclearCodes",
+		//"showNuclearCodes",
 		"showSiloCooldowns",
 		
-		//"showRaidXP",
+		"showRaidXP",
 		//"showXPBar",
-		//"showScoreBar",
+		"showScoreBar",
 		"emptyspace:10",
 		
 		"text:orange:DAILY ({dailyProgress}) ({dailyExpireTime})",
