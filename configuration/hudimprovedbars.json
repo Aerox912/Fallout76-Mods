@@ -72,8 +72,8 @@
             // When enabled, shows minerva vendor status
             "minervaVendor": true,
             // Positioning
-            "x": -550,
-            "y": -990
+            "x": -280,
+            "y": -1040
           },
           // Nuke codes widget shows the actual nuke codes on the screen.
           "nukecodes": {
