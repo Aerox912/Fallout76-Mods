@@ -6,6 +6,7 @@
 	"enableImprovedQuantityMenu": true,
 	"defaultCraftAmount": 15,
 	"showInventoryItemCount": true,
+	"showInventoryComponentsCount": true,
 	"customRepairKitRepairHotkey": 0,
 	"customWorkbenchRepairHotkey": 0,
 	
@@ -20,7 +21,12 @@
 			"Explosive",
 			"VATS-Optimized",
 			"Thru Hiker",
-			"Sentinel"
+			"Sentinel",
+			"Powered",
+			"Limit-Breaking",
+			"Viper's",
+			"Rangers"
+
 		],
 		"blockList": [
 			"Jagged",

@@ -1,5 +1,5 @@
 {
-	"debug": 0,
+	"debug": 1,
 	
 	"uiConfig": {
 		"x": 20,
@@ -10,7 +10,8 @@
 		"textColor": "0xffffff",
 		"textShadow": false,
 		"hideResistances": false,
-		"hideButtons": true
+		"hideButtons": false,
+		"tieToHUDOpacity": false
 	},
 	
 	"disabled": false,

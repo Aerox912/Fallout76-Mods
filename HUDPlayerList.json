@@ -1,10 +1,10 @@
 {
 	// WIDGET SETTINGS
-	"x": 46,
-	"y": 300,
+	"x": -300,
+	"y": 165,
 	"anchor": "top", /* top, bottom (Update 1.0.8) */
-	"ySpacing": -9,
-	"width": 180,
+	"ySpacing": -7,
+	"width": 500,
 	"textSize": 17,
 	/* Some of the working fonts:
 	"$76HandwrittenNeat_Font", "$76HandwrittenIlliterate", "$Adventure_Font", "$BerlinDemi", "$BRODY",
@@ -14,10 +14,10 @@
 	"$Portico_Font_Regular", "$Slate_Mobile", "$Terminal_Font", "$Typewriter_Font" */
 	"textFont": "$MAIN_Font_Bold",
 	"textAlign": "left", /* left, center, right */
-	"textColor": "0xffffca",
-	"textShadow": false, /* (Update 1.0.8) */
-	"background": true,
-	"backgroundColor": "0x000000",
+	"textColor": "0xffffff",
+	"textShadow": true, /* (Update 1.0.8) */
+	"background": false,
+	"backgroundColor": "0x222222",
 	/* alpha / backgroundAlpha:
 		0 = loads default value
 		0.0001 = transparent
@@ -25,7 +25,7 @@
 		1.0 = opaque */
 	/* HUD Opacity in settings can be changed so value of "alpha" can go over 1.0 (does not apply to "backgroundAlpha") */
 	"alpha": 1.0,
-	"backgroundAlpha": 0.35,
+	"backgroundAlpha": 0.5,
 	/* Blend modes:
 	add, alpha, darken, difference, erase, hardlight, invert, layer,
 	lighten, multiply, normal, overlay, screen, shader, subtract
@@ -65,7 +65,7 @@
 	"formats": {"MostWanted": "WANTED:", "bounty": "({caps}c)", "isHidden": "-.-",
 		"isFriend": "{F}", "isTextChatUser": "{+}" } */
 	
-	"format": "[{level}] {name} {isFriend}{isTextChatUser}{vendorData}",
+	"format": "[{level}] {name}{PlayerLocal} {isHidden}{isFriend}{isTextChatUser}{bounty} {vendorData}",
 	"formats": {
 		"bounty": "({caps}c)",
 		"isHidden": "-.-",
@@ -76,9 +76,9 @@
 	
 	"vendorData": { // Update 1.1.5
 		"enabled": true,
-		"usePlayerColor": true,
+		"usePlayerColor": false,
 		"hideVisitedCamps": false, // Update 1.1.6
-		"hidePlayersWithoutVendorData": ["PlayerRemote"], // Update 1.1.7, e.g. ["PlayerRemote", "isHidden"]
+		"hidePlayersWithoutVendorData": [], // Update 1.1.7, e.g. ["PlayerRemote", "isHidden"]
 		
 		/* Example format with distance, direction and angle:
 		"\t{distance} {direction}({angleCompass}°) |  {APPAREL}{EXPLOSIVE}{WEAPON2}{WEAPON3}{ARMOR2}{ARMOR3}{MODS}"
@@ -91,35 +91,35 @@
 		 
 		 Update 1.2.1:
 		 Example format with in-line vendor data, needs {vendorData} in player "format" above
-		 "| {PLAN}{MODS} {WEAPON1}{WEAPON2}{WEAPON3} {ARMOR1}{ARMOR2}{ARMOR3}"
+		 "| Vend:{distance} {direction} | {APPAREL}{WEAPON2}{WEAPON3}{ARMOR2}{ARMOR3}{MODS}"
 		 */
 		"format": [
-			"{PLAN} {MODS}"
+			"| Vend:{distance} {direction} | {APPAREL}{WEAPON2}{WEAPON3}{ARMOR2}{ARMOR3}{MODS}"
 		],
 		"formats": {
-			"{APPAREL}": "A{value}",
-			"{ARMOR0}": "A{value}",
-			"{ARMOR1}": "A¬{value}",
-			"{ARMOR2}": "A¬¬{value}",
-			"{ARMOR3}": "A¬¬¬{value}",
-			"{WEAPON0}": "{value}",
-			"{WEAPON1}": "¬{value}",
-			"{WEAPON2}": "¬¬{value}",
-			"{WEAPON3}": "¬¬¬{value}",
-			"{MODS}": "M{value}",
-			"{STIMPAK}": "S{value}",
-			"{MEDS}": "Md{value}",
-			"{FOOD}": "F{value}",
-			"{DRINK}": "D{value}",
-			"{AMMO}": "Am{value}",
-			"{EXPLOSIVE}": "E{value}",
-			"{JUNK}": "J{value}",
-			"{PLAN}": "P{value}",
-			"{MISC}": "X{value}"
+			"{APPAREL}": "Aprl[{value}] ",
+			"{ARMOR0}": "A[{value}] ",
+			"{ARMOR1}": "A¬[{value}] ",
+			"{ARMOR2}": "A¬¬[{value}] ",
+			"{ARMOR3}": "A¬¬¬[{value}] ",
+			"{WEAPON0}": "[{value}] ",
+			"{WEAPON1}": "¬[{value}] ",
+			"{WEAPON2}": "¬¬[{value}] ",
+			"{WEAPON3}": "¬¬¬[{value}] ",
+			"{MODS}": "Mod[{value}] ",
+			"{STIMPAK}": "Stim[{value}] ",
+			"{MEDS}": "Med[{value}] ",
+			"{FOOD}": "Food[{value}] ",
+			"{DRINK}": "Drink[{value}] ",
+			"{AMMO}": "Ammo[{value}] ",
+			"{EXPLOSIVE}": "Ex[{value}] ",
+			"{JUNK}": "Junk[{value}] ",
+			"{PLAN}": "Plan[{value}] ",
+			"{MISC}": "Misc[{value}] "
 		}
 	},
 	
-	"sortBy": "default",
+	"sortBy": "property",
 	/* sortBy options: default, custom, property
 	default: doesn't use sortOrder, lists latest players on bottom
 	custom: list player names or types which will be shown on top (in order)
@@ -147,18 +147,18 @@
 		examples: "group:MostWanted", "group:isFriend"
 	Data will show in order in which it is listed here: */
 	"displayData": [
-		//"showVersion",
-		//"showHUDMode",
+		"showVersion",
+		"showHUDMode",
 		//"showRenderTime",
 		//"showElapsedTime",
 		//"showLastConfigUpdate",
-		//"showPlayerCount",
+		"showPlayerCount",
 		//"separator:1:0xffffff",
-		//"group:PlayerLocal",
+		"group:PlayerLocal",
 		// BOUNTIES
 		//"text:MostWanted:Bounties",
 		//"separator:1:MostWanted",
-		//"group:MostWanted",
+		"group:MostWanted",
 		//"separator:1:MostWanted",
 		// FRIENDS
 		//"text:isFriend:{F} Friends/:",
@@ -166,7 +166,7 @@
 		//"separator:1:isFriend",
 		// TEXT CHAT USERS
 		//"text:isTextChatUser:{+} Text chat users",
-"group:isTextChatUser",
+		//"group:isTextChatUser",
 		//"separator:1:isTextChatUser",
 		// TEAM MEMBERS
 		//"text:TeamMember:Team",
@@ -187,21 +187,21 @@
 	Update 1.1.6: "visitedCamp"
 	*/
 	"customColors":	{
-		"showVersion": "0xffffca",
-		"showHUDMode": "0xffffca",
-		"showElapsedTime": "0xffffca",
-		"showLastConfigUpdate": "0xffffca",
-		"showPlayerCount": "0xffffca",
-		"isServerFull": "0xffffca",
-		"isFriend": "0x4175b9",
-		"isTextChatUser": "0xF5CB5B",
-		"isHidden": "0xffffca",		// Player in expedition or stealth (while in public team)
-		"MostWanted": "0xffffca",	// Wanted players
-		"PlayerLocal": "0xffffca",	// Your name color
-		"TeamLeader": "0xffffca",
-		"TeamMember": "0xffffca",
-		"vendorData": "0xffffca",
-		"visitedCamp": "0xffffca"
+		"showVersion": "0xff2222",
+		"showHUDMode": "0xffffff",
+		"showElapsedTime": "0xffaacc",
+		"showLastConfigUpdate": "0x77eeff",
+		"showPlayerCount": "0x77ff77",
+		"isServerFull": "0xff3333",
+		"isFriend": "0x33ff33",
+		"isTextChatUser": "0x2299cc",
+		"isHidden": "0xaaaaff",		// Player in expedition or stealth (while in public team)
+		"MostWanted": "0xff0000",	// Wanted players
+		"PlayerLocal": "0xff33cc",	// Your name color
+		"TeamLeader": "0xffbb00",
+		"TeamMember": "0xffff00",
+		"vendorData": "0xffff99",
+		"visitedCamp": "0xdd7777"
 	},
 	
 	"hideTypes": [
@@ -226,6 +226,7 @@
 	"All" is default HUD mode (non-power armor), not all of them */
 	"HUDModesState": "shown", /* Options: hidden, shown */
 	"HUDModes": [
+		"Loading",
 		"MapMenu"
 	]
 }
