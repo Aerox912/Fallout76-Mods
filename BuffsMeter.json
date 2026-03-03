@@ -189,7 +189,7 @@
 	},
 	
 	"xpBar": { // Update 1.0.8
-		"enabled": true,
+		"enabled": false,
 		//text accepts: {text}, {progress}, {lastChangeValue}
 		// {currentLevel}, {currentValue}, {thresholdValue} (Update 1.1.1)
 		"text": "{text} {progress}% ({lastChangeValue})",

@@ -1,6 +1,6 @@
 {
   "x": -151,
-  "y": 988,
+  "y": 955,
   "width": 234,
   "height": 14,
 
@@ -20,13 +20,13 @@
   "font": "$MAIN_Font",
   "textSize": 12,
 
-  "levelPosition": "top",
+  "levelPosition": "none",
   "levelOffsetX": -10,
   "levelOffsetY": 15,
 
   "percentPosition": "right",
   "percentOffsetX": 2,
-  "percentOffsetY": 5,
+  "percentOffsetY": 10,
 
   "fillBorderThickness": 1,
   "fillBorderColor": "258A2C",

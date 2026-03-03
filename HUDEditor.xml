@@ -249,7 +249,7 @@
 			<HpMeter>
 				<Scale>.75</Scale>
 				<X>-20</X>
-				<Y>0</Y>
+				<Y>-25</Y>
 			</HpMeter>
 			
 		<!--
@@ -284,7 +284,7 @@
 			<AmmoCount>
 				<Scale>0.40</Scale>
 				<X>-100</X>
-				<Y>65</Y>
+				<Y>50</Y>
 			</AmmoCount>
 		
 		<!-- Bar Showing Current Ap Total -->
