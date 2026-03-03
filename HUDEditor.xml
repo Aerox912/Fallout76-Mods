@@ -96,7 +96,7 @@
 		<!-- List of Players on Your Team-->
 			<TeamPanel>
 				<Scale>.65</Scale>
-				<X>-225</X>
+				<X>-0</X>
 				<Y>250</Y>
 				<PowerArmor>
 					<Scale>1</Scale>
