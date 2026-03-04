@@ -55,6 +55,15 @@
       // You can set the scale of each widget elements, if you do not like their default sizes. 
       "widgets": [
         {
+          // Experience widget shows your current level and experience progress. It can also show the percentage of experience progress towards the next level, 
+          // if you enable the percentage option.
+          "xp": {
+            "enabled":false,
+            "percentage":true,
+            "scaleFactor":0.8,
+            "x":25,
+            "y":-50
+          },
           // Shows active effects and some other stuff. Experimental. 
           // This widget REQUIRES SFE, in order to work. Due the way it handles some internal stuff, Incompatible with save everything mod. Sorru!
           // Currenly not implemented, but it will be in the future. For now, it does nothing.
@@ -270,7 +279,7 @@
       // thirst: "single" - single segment at 20% thirst, "full" - full segmented bar eery 20% thirst
       "style": [
         {
-          "health": "full",
+          "health": "single",
           "hunger": "full",
           "thirst": "full"
         }
