@@ -10,7 +10,7 @@
 	"defaultSelectionJoin": true,
 	"disableFriendsGrouping": false,
 	"topSortFriends": [],
-	"hudModLoader": ["QuickActions"],
+	"hudModLoader": ["BuffsMeter"],
 	"delayModLoader": 30000,
 	"hideVignette": false,
 	"notificationHideDelay": 2500,

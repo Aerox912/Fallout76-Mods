@@ -5,7 +5,7 @@
 	"anchor": "top", // top, bottom (Update 1.0.7)
 	"ySpacing": -3,
 	"width": 135,
-	"textSize": 10,
+	"textSize": 12,
 	/* Some of the working fonts:
 	"$76HandwrittenNeat_Font", "$76HandwrittenIlliterate", "$Adventure_Font", "$BerlinDemi", "$BRODY",
 	"$Brush_Script_Std", "$ChowderHead", "$ConsoleFont", "$DebugTextFont", "$DotMatrix_Font", "$evaScript_Font",
@@ -40,15 +40,6 @@
 	
 	// PIPBOY SETTINGS (Update 1.1.6)
 	"showAllPipboyTabs": true, // Update 1.2.0
-	"enableWidgetInPipboy": false,
-	"pipboyConfig": { // screen size: 876x700
-		"x": 620,
-		"y": 60,
-		"anchor": "top",
-		"width": 250,
-		"textAlign": "right",
-		"background": false
-	},
 	"pipInventoryTabNames": [ // Update 1.2.2
 		"$InventoryCategoryNew",
 		"WPN", // "$InventoryCategoryWeapons",
@@ -63,9 +54,7 @@
 		"$InventoryCategoryMods",
 		"$InventoryCategoryAmmo"
 	],
-	
-	"enableManualPipBuffDataSync": "AUTO", // Update 1.2.2
-	"pipBuffDataSyncHotkey": 20, // Update 1.2.2
+	"quickEffectsTabHotkey": 192,
 	
 	
 	// OVERLAY MOD LOADER ONLY SETTINGS (Update 1.1.4)
@@ -108,13 +97,13 @@
 	"hideTypes": [
 		"MUTATION",
 		"HUNGER",
-		"THRIST",
-		"PERK"
+		"THRIST"
 	],
 	"showTypes": [
 		"ALCOHOL",
 		"FOOD",
-		"DRINKTEA"
+		"DRINKTEA",
+		"DRINKGENERIC"
 	],
 	
 	"hideEffectsState": "hidden", // Options: hidden, shown (Update 1.0.1)
@@ -185,11 +174,12 @@
 		"enabled": true,
 		"alignVertical": "bottom", // top, center, bottom
 		"alignHorizontal": "left", // left, center, right
-		"height": 2
+		"height": 3,
+		"maxDuration": 600 // 1.4.0
 	},
 	
 	"xpBar": { // Update 1.0.8
-		"enabled": false,
+		"enabled": true,
 		//text accepts: {text}, {progress}, {lastChangeValue}
 		// {currentLevel}, {currentValue}, {thresholdValue} (Update 1.1.1)
 		"text": "{text} {progress}% ({lastChangeValue})",
@@ -239,7 +229,7 @@
 	*/
 	"format": "{duration} {text}",
 	"formats": {
-		"subEffect": "   {text}",
+		"subEffect": "   {text} {duration}",
 		"expiredBuff": "Expired: {text} {time}ago",
 		"checklist": "Not active: {text}",
 		"showRaidXP": "Raid XP: {xp}"
@@ -251,7 +241,7 @@
 	custom: list effect names or types which will be shown on top (in order)
 		example: [cranberry relish", "brain bombs", "FOOD", "DRINK" ]
 	property: list property name(s) to sort by
-		options: "type", "text", "durationRemaining", "duration" (Update 1.0.1)
+		options: "type", "text", "durationRemaining" (Update 1.0.1)
 		example: ["durationRemaining", "text"] - first sort by durationRemaining then by text */
 	"sortOrder": [
 		"durationRemaining",
@@ -266,11 +256,7 @@
 		"showLastUpdate" - last time when pipboy was open and effects were updated
 		"showLastConfigUpdate" - last time when config was reloaded (either on server join or config file changed)
 		"showElapsedTime" - elapsed time on server
-		"showServerTime" - current server full time, in format dd:hh:mm:ss
-		"showServerTick" - server time converted to server ticks (20/s)
 		"showLastExpiredBuff" - last expired buff
-		"showServerTime12" - current server time in 12-hour format, e.g. 5:05 PM (Update 1.0.1)
-		"showServerTime24" - current server time in 24-hour format, e.g. 17:05 (Update 1.0.1)
 		"showTime12" - current PC time in 12-hour format, e.g. 5:05 PM (Update 1.0.1)
 		"showTime24" - current PC time in 24-hour format, e.g. 17:05 (Update 1.0.1)
 		"text:color:text to display" - color can also be specified as any customColors value (Update 1.0.6)
@@ -302,21 +288,17 @@
 	"customColors": {
 		"warning": "0xffff33",
 		"expired": "0xff3377",
-		"durationBar": "0xffffcb",
+		"durationBar": "0x009900",
 		"durationBarWarning": "0x990099",
 		"showVersion": "0xff2222",
 		"showHUDMode": "0xffffff",
 		"showLastUpdate": "0xffaacc",
 		"showLastConfigUpdate": "0x77eeff",
 		"showElapsedTime": "0xaaaaff",
-		"showServerTick": "0xffff00",
-		"showServerTime": "0xffff00",
 		"showLastExpiredBuff1": "0xff8800",
 		"showLastExpiredBuff2": "0xffaa00",
 		"showLastExpiredBuff3": "0xffcc00",
 		"showRenderTime": "0x55ff55",
-		"showServerTime12": "0xffff00",
-		"showServerTime24": "0xffff00",
 		"showTime12": "0x99ff99",
 		"showTime24": "0x99ff99",
 		"debuffs": "0xff0000",
@@ -329,7 +311,8 @@
 	},
 	"customEffectColors": { // Update 1.0.7
 		"cranberry relish": "0x00aaff",
-		"brain bombs": "0x00aaff"
+		"brain bombs": "0x00aaff",
+		"serum": "0xccff99"
 	},
 	"customChecklistColors": { // Update 1.3.3
 		// example: "Rested": "0xff0000"
