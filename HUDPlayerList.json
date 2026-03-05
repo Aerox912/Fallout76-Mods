@@ -1,6 +1,6 @@
 {
 	// WIDGET SETTINGS
-	"x": 0,
+	"x": -300,
 	"y": 165,
 	"anchor": "top", /* top, bottom (Update 1.0.8) */
 	"ySpacing": -7,
