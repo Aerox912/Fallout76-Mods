@@ -23,7 +23,9 @@
   "levelPosition": "none",
   "levelOffsetX": -10,
   "levelOffsetY": 15,
+  "levelTextColor": "FFFFFF",
 
+  "percentTextColor": "82FF8A",
   "percentPosition": "right",
   "percentOffsetX": 2,
   "percentOffsetY": 10,
@@ -33,10 +35,10 @@
 
   "showSegments": true,
   "segmentStep": 0.2,
-  "segmentMode": "full",
+  "segmentMode": "smart",
   "segmentColor": "000000",
-  "segmentAlpha": 1.0,
-  "segmentThickness": 2,
+  "segmentAlpha": 0.33,
+  "segmentThickness": 1,
   "segmentsOverFill": true,
 
 
@@ -61,6 +63,8 @@
     "SelfieMode",
     "DialogueMode",
     "LegendaryPerksMode",
-    "PowerArmor"
+    "PowerArmor",
+    "RadialMenu",
+    "AutoVanity"
   ]
 }
