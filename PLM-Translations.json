@@ -1,7 +1,7 @@
 {
 	"locales": [
 		{
-			"version": "3.47",
+			"version": "3.48",
 			"lang": "en-GB",
 			"texts": {
 				"generalErrorLoadingLoadout": "There was an error loading your loadout",
@@ -42,6 +42,7 @@
 				"menuKeyboardHintSave": "SHIFT+1,2,3,...) SAVE LOADOUT",
 				"menuLegendaryPerkMismatch": "{1}   [mismatch]",
 				"menuLegendaryPerkRestricted": "WARNING: The Legendary Perk   {1}   cannot be used by this character.",
+				"menuLegendaryPerkUnsaved": "{1}   [unsaved]",
 				"menuLoading": "Loading",
 				"menuLoadoutsForSpecial": "Loadouts for SPECIAL build",
 				"menuNeedPunchCardMachine": "Please use a Punch Card Machine to enable perk loadouts.",
@@ -162,7 +163,7 @@
 			}
 		},
 		{
-			"version": "3.47",
+			"version": "3.48",
 			"lang": "it",
 			"texts": {
 				"generalErrorLoadingLoadout": "c'è stato un errore salvando gli slot",
@@ -254,7 +255,7 @@
 			}
 		},
 		{
-			"version": "3.47",
+			"version": "3.48",
 			"lang": "ja-JP",
 			"texts": {
 				"generalErrorLoadingLoadout": "ロードアウトの読み込み中にエラーが発生しました",
@@ -346,7 +347,7 @@
 			}
 		},
 		{
-			"version": "3.47",
+			"version": "3.48",
 			"lang": "ko",
 			"texts": {
 				"generalErrorLoadingLoadout": "로드아웃 불러오기 중 오류가 발생했습니다",
@@ -523,7 +524,7 @@
             }
 		},
 		{
-			"version": "3.47",
+			"version": "3.48",
 			"lang": "test",
 			"texts": {
 				"generalErrorLoadingLoadout": "generalErrorLoadingLoadout",
@@ -564,6 +565,7 @@
 				"menuKeyboardHintSave": "menuKeyboardHintSave",
 				"menuLegendaryPerkMismatch": "menuLegendaryPerkMismatch",
 				"menuLegendaryPerkRestricted": "menuLegendaryPerkRestricted",
+				"menuLegendaryPerkUnsaved": "menuLegendaryPerkUnsaved",
 				"menuLoading": "menuLoading",
 				"menuLoadoutsForSpecial": "menuLoadoutsForSpecial",
 				"menuNeedPunchCardMachine": "menuNeedPunchCardMachine",
@@ -615,7 +617,7 @@
 			}
 		},
 		{
-			"version": "3.47",
+			"version": "3.48",
 			"lang": "empty",
 			"texts": {
 				"generalErrorLoadingLoadout": "",
@@ -656,6 +658,7 @@
 				"menuKeyboardHintSave": "",
 				"menuLegendaryPerkMismatch": "",
 				"menuLegendaryPerkRestricted": "",
+				"menuLegendaryPerkUnsaved": "",
 				"menuLoading": "",
 				"menuLoadoutsForSpecial": "",
 				"menuNeedPunchCardMachine": "",
