@@ -5,7 +5,7 @@
   // Improved Bars and HUD Configuration File
   // Created by DCHoaxer95 - https://www.nexusmods.com/fallout76/mods/3106
   // Version 1.17 only. Yes that means it won't work with older versions of the mod, and you cannot use older config files with this version.
-  // Last updated: Somewhere in February 2026
+  // Last updated: Somewhere in March 2026
   // If you need help, visit the mod page or contact me on Nexus Mods or Discord
   // Oh and by the way, if you like this mod, consider endorsing it on Nexus Mods.
   // It helps a lot!
@@ -106,7 +106,7 @@
             "enabled": true,
             // Which currencies to show, separated by ';' [Available values "caps", "bullion", "scrips", "stamps", "tadpole", "possum", "supplies", "perks"]
             // You can change the order of currencies too. Type your desired order separated by ';'
-            "showOnly": "caps;bullion;stamps;scrips;perks;tadpole;possum;supplies",
+            "showOnly": "caps;bullion;stamps;scrips;perks;tadpole;possum",
             // Should the icons be colored or mono?  [Available values: true/false]  
             "coloredIcons": true,
             // POSITIONING
@@ -180,7 +180,10 @@
             "scale": 1,
             "valueprefix": "",
             "items": [
-              // This example matches Superstimpaks. English only
+              // This example matches Stimpaks.
+              // All rules set there are for  English only
+              // Make your own rules for your language, or ask me to add some presets for your language. I can add presets for popular items in different languages, but I won't be able to add them for every language, so you might have to create your own rules. 
+              // If you need help with that, contact me on Nexus Mods or Discord.
               {
                 "enabled": true,
                 "pattern": "/Stimpak: Diluted/",
@@ -188,7 +191,7 @@
                 "valuecolor": "#FF0000",
                 "labelcolor": "#FFFFCA"
               },
-              //  This example counts treasury notes
+              // Super stimpaks only
               {
                 "enabled": true,
                 "pattern": "/Nuclear Keycard/",
@@ -196,7 +199,7 @@
                 "valuecolor": "#39FF14",
                 "labelcolor": "#FFFFCA"
               },
-              // etc
+              //  This example counts treasury notes
               {
                 "enabled": true,
                 "pattern": "/Wanted Poster/",

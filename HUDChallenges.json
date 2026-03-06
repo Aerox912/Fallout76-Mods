@@ -317,14 +317,14 @@
 		"emptyspace:10",
 		
 		"showSmiley",
-		//"showMinerva",
+		"showMinerva",
 		"emptyspace:10",
 		
-		//"showNuclearCodes",
+		"showNuclearCodes",
 		"showSiloCooldowns",
 		
 		"showRaidXP",
-		//"showXPBar",
+		"showXPBar",
 		"showScoreBar",
 		"emptyspace:10",
 		
