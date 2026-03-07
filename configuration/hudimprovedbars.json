@@ -104,7 +104,7 @@
           "currencies": {
             //Whether to show the number of bottle caps and optionally other currencies specified in 'showonly' setting. [Available values: true/false]
             "enabled": true,
-            // Which currencies to show, separated by ';' [Available values "caps", "bullion", "scrips", "stamps", "tadpole", "possum", "supplies", "perks"]
+            // Which currencies to show, separated by ';' [Available values "caps", "bullion", "scrips", "stamps", "tadpole", "possum", "perks"]
             // You can change the order of currencies too. Type your desired order separated by ';'
             "showOnly": "caps;bullion;stamps;scrips;perks;tadpole;possum",
             // Should the icons be colored or mono?  [Available values: true/false]  
