@@ -121,7 +121,7 @@
             // Whether to display the number of fusion cores. [Available values: true/false]
             "enabled": true,
             // POSITIONING
-            "x": 90,
+            "x": 65,
             "y": -35
           },
           "clock": {
