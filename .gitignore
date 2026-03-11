@@ -22,3 +22,8 @@ vortex.deployment.json
 ChallengeData.ini
 saveeverything.ini
 PLM-Translations.json
+
+# Header rules and interface configs
+_HeaderRules/
+interface/fontconfig_*.txt
+interface/translate_*.txt
