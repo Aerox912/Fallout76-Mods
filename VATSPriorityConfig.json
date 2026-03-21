@@ -75,6 +75,10 @@
 			{"partName": "THRUSTER", "minHitChance": 1},
 			{"partName": "EYE", "minHitChance": 1}
 		],
+		"FARMHAND": [
+			{"partName": "THRUSTER", "minHitChance": 1},
+			{"partName": "EYE", "minHitChance": 1}
+		],
 		"ULTRACITE TERROR": [
 			{"partName": "RIGHTEYE", "minHitChance": 60},
 			{"partName": "LEFTEYE", "minHitChance": 60},
@@ -153,21 +157,6 @@
 		"STRANGLER QUEEN": [
 			{"partName": "SPOUTS", "minHitChance": 1},
 			{"partName": "LEG", "minHitChance": 1}
-		],
-		"ALIEN DRONE": [
-			{"partName": "BODY"}
-		],
-		"CAPTAIN ALPHA": [
-			{"partName": "BODY"}
-		],
-		"CAPTAIN OMEGA": [
-			{"partName": "BODY"}
-		],
-		"ALIEN INVADER": [
-			{"partName": "TORSO"}
-		],
-		"GENERAL ZETA": [
-			{"partName": "TORSO"}
 		]
 	}
 }
