@@ -257,8 +257,8 @@
 			Only Applies if Your Ghoul Class, Auto Detects
 		-->
 			<GlowMeter>
-				<Scale>1</Scale>
-				<X>0</X>
+				<Scale>.75</Scale>
+				<X>-20</X>
 				<Y>0</Y>
 			</GlowMeter>
 			
@@ -310,9 +310,9 @@
 			Only Applies if Your Ghoul Class, Auto Detects
 		-->
 			<FeralMeter>
-				<Scale>1</Scale>
-				<X>0</X>
-				<Y>0</Y>
+				<Scale>.75</Scale>
+				<X>185</X>
+				<Y>-15</Y>
 			</FeralMeter>
 		
 		<!--
