@@ -209,8 +209,8 @@
               },
               {
                 "enabled": true,
-                "pattern": "/Fuel Canister/",
-                "label": "Raid Fuel",
+                "pattern": "/Toxic Goo/",
+                "label": "Toxic Goo",
                 "valuecolor": "#D62828",
                 "labelcolor": "#FFFFCA"
               },
