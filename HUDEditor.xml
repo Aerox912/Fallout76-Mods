@@ -259,7 +259,7 @@
 			<GlowMeter>
 				<Scale>.75</Scale>
 				<X>-20</X>
-				<Y>0</Y>
+				<Y>-25</Y>
 			</GlowMeter>
 			
 		</LeftMeters>

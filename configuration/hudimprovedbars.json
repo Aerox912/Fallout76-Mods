@@ -304,9 +304,9 @@
       //Whether to show percentage  near thirst bar. [Available values: true/false]
       "thirst": false,
       //Whether to show percentage  near feral bar. [Available values: true/false]
-      "feral": false,
+      "feral": true,
       //Whether to show percentage  near glow bar. [Available values: true/false]
-      "glow": false,
+      "glow": true,
       //Percentage postfix. Set it to "" to get rid of it
       "postfix": "%"
     }
