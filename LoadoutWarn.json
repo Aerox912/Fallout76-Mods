@@ -15,7 +15,7 @@
     "Camp"
   ],
 
-  "showInitialWarning": true,
+  "showInitialWarning": false,
   "initialText": "Loadout not yet loaded (Open Punchcard)",
   "initialColor": "FFD800",
   "initialPulse": true
