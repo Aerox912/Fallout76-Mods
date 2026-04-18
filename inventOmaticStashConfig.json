@@ -89,8 +89,8 @@
 			"enabled": true,
 			"favorite": true,
 			"equipped": true,
-			"knownLegendaryMods": true,
-			"named": false,
+			"knownLegendaryMods": false,
+			"named": true,
 			"matchMode": "CONTAINS",
 			"itemNames": ["EXAMPLE_GROUP", "item 1", "item 2"]
 		},

@@ -18,5 +18,7 @@
 	"hideSelfName": false,
 	"hideAllPlayerNames": false,
 	"hideAllPlayerNamesReplacement": "REDACTED",
-	"hidePlayerOptions": []
+	"hidePlayerOptions": [],
+	"hideChallengeCompletePopup": false,
+	"disableChallengeCompleteCtrlKey": false
 }
