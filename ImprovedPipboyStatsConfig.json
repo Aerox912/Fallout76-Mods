@@ -30,7 +30,9 @@
 		"Inspirational": "Radius\tSelf XP\tTeam XP",
 		"Junk Shield": "LCK scale\tx JUNK",
 		"Lone Wanderer": "AP Regen\tDR Bonus",
-		"Nerd Rage": "DMG\t\tAP Regen"
+		"Nerd Rage": "DMG\t\tAP Regen",
+		"Rad Sponge": "Self\t\tTeam",
+		"Spiritual Healer": "Self\t\tTeam"
 	},
 	"CurveDataDirectories": {
 		"AdamantiumSkeleton": [
