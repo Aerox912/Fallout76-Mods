@@ -1,10 +1,27 @@
 {
-	"hideLoadMessage": true,
+	"hideLoadMessage": false,
 	"showDurabilityValue": true,
 	"enableExamineRepairAll": true,
 	"enableQuickRepairButton": true,
 	"enableImprovedQuantityMenu": true,
-	"defaultCraftAmount": 15,
+	"defaultCraftAmount": 1,
+	"customCraftAmount": {
+		"enabled": false,
+		"itemNames": {
+			"fish bits": 255
+		},
+		"categoryNames": {
+			"ALL FOOD": 255,
+			"ALL DRINKS": 255,
+			"MEAT": 255,
+			"PLANTS": 255,
+			"PREPARED": 255,
+			"BEERS": 255,
+			"SPIRITS": 255,
+			"WINES": 255,
+			"MIXED DRINKS": 255
+		}
+	},
 	"showInventoryItemCount": true,
 	"showInventoryComponentsCount": true,
 	"customRepairKitRepairHotkey": 0,
@@ -13,20 +30,20 @@
 	"legendaryModTrackingConfig": {
 		"enabled": true,
 		"keepList": [
-			"Quad",
-			"Bloodied",
-			"Two-Shot",
-			"Furious",
-			"Rapid",
-			"Explosive",
-			"VATS-Optimized",
-			"Thru Hiker",
-			"Sentinel",
-			"Powered",
-			"Limit-Breaking",
-			"Viper's",
-			"Rangers"
-
+			"Adrenal",
+			"Feral's",
+			"Lucid",
+			"Sniper's",
+			"Elementalist",
+			"Fierce",
+			"Pain Killer",
+			"Pick Pocketer's",
+			"Rushing",
+			"Active",
+			"Barbarian",
+			"Glowing",
+			"Healthy",
+			"Reflex"
 		],
 		"blockList": [
 			"Jagged",
@@ -38,13 +55,13 @@
 		]
 	},
 	"autoUseRepairKit": {
-		"enabled": true,
-		"conditionUnder": 25,
+		"enabled": false,
+		"conditionUnder": 15,
 		"exitAfterRepair": true,
 		"exitDelay": 250
 	},
 	"perkCardsConfig": {
-		"enabled": true,
+		"enabled": false,
 		"textField": {
 			"x": 670,
 			"y": 590,
@@ -71,7 +88,7 @@
 		"legendaryPerkCards": ["Ammo Factory"]
 	},
 	"uiConfig": {
-		"enabled": true,
+		"enabled": false,
 		"hideVignette": true,
 		"hideBackground": true,
 		"hideHeader": true,

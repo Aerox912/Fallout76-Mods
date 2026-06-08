@@ -55,6 +55,13 @@
       // You can set the scale of each widget elements, if you do not like their default sizes. 
       "widgets": [
         {
+          "playerscount": {
+            // Whether to show the number of players in the current server. [Available values: true/false]
+            "enabled": true,
+            // Positioning
+            "x": 325,
+            "y": -20
+          },
           // Experience widget shows your current level and experience progress. It can also show the percentage of experience progress towards the next level, 
           // if you enable the percentage option.
           "xp": {
@@ -242,6 +249,7 @@
             },
             "cores": "#44EEFF",
             "clock": "#DDDDDD ",
+            "playerscount": "#DDDDDD ",
             "weaponcond": "#FFEEAA",
             "nukecodes": {
               "A": "#FFFFAA",
