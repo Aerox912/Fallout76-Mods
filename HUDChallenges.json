@@ -497,6 +497,7 @@
 		"Pipboy",
 		"PowerArmor",
 		//"SelfieMode",
+		"TerminalMode",
 		"WorkshopMode"
 	]
 }
