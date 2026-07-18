@@ -55,8 +55,8 @@
 		]
 	},
 	"autoUseRepairKit": {
-		"enabled": false,
-		"conditionUnder": 15,
+		"enabled": true,
+		"conditionUnder": 50,
 		"exitAfterRepair": true,
 		"exitDelay": 250
 	},
