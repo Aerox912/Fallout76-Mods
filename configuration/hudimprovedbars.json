@@ -1,11 +1,11 @@
 {
-  //Yes yes, I  do know what you're thinking... Adding comments to JSON is not standard compliant.
+  // Yes yes, I  do know what you're thinking... Adding comments to JSON is not standard compliant.
   // Forgive me, Todd Howard
   //==========================================================================================================================
   // Improved Bars and HUD Configuration File
   // Created by DCHoaxer95 - https://www.nexusmods.com/fallout76/mods/3106
-  // Version 1.17 only. Yes that means it won't work with older versions of the mod, and you cannot use older config files with this version.
-  // Last updated: Somewhere in March 2026
+  // Version 1.18 only. 
+  // Last updated: August 5, 2026
   // If you need help, visit the mod page or contact me on Nexus Mods or Discord
   // Oh and by the way, if you like this mod, consider endorsing it on Nexus Mods.
   // It helps a lot!
@@ -55,6 +55,41 @@
       // You can set the scale of each widget elements, if you do not like their default sizes. 
       "widgets": [
         {
+          // The active effects widget. This widget shows all active effects on the player, including their remaining duration.
+          "activeeffects": {
+            "enabled": true,
+            // Whether to show only timed effects in the active effects widget. [Available values: true/false]
+            "showTimedOnly": true,
+            // Whether to show only main effect names in the active effects widget. [Available values: true/false]
+            "showMainEffectNamesOnly": false,
+            // Filter out effects that you don't want to see in the active effects widget. You can add more effects to this list, but make sure to use the exact name of the effect as it appears in the game.
+            "excludedEffects": [],
+            // Filter out effects that you want to be reminded of when they are about to expire. You can add more effects to this list, but make sure to use the exact name of the effect as it appears in the game.
+            "listRemindExpiringEffects": [],
+            // The duration in seconds before an effect expires that will trigger a reminder. Set to 0 to disable reminders. [Range: 0 - 3600]
+            "remindExpiringEffectsDurationSeconds": 0,
+            "x": -90,
+            "y": -500
+          },
+          // Pickup history widget shows the last picked up item and the total number of items picked up. It can also show the last picked up item count.
+          "pickuphistory": {
+            "enabled": false,
+            "x": -90,
+            "y": -830,
+            "scaleFactor": 1,
+            "alwaysVisible": false,
+            "format": "({pickedUpCount}) {pickedUpText} | {lastPickedUpItemName} ({lastPickedUpItemCount})",
+            "ignoreList": []
+          },
+
+          // Whether to show the list of players in the current server. [Available values: true/false]
+          "playerslist": {
+            "enabled": false,
+            "showTitles": true,
+            "showNearestMapMarker": true,
+            "x": -90,
+            "y": -120
+          },
           "playerscount": {
             // Whether to show the number of players in the current server. [Available values: true/false]
             "enabled": true,
@@ -247,10 +282,20 @@
               "perks": "#FFFFAA",
               "maxValue": "#E63E30"
             },
+            "activeeffects": {
+              "time": "#DDDDDD",
+              "separator": "#FFFFFF",
+              "text": "#FFFFAA",
+              "reminder": "#FF4242",
+              "magnitude": "#ABFFAA"
+            },
             "cores": "#44EEFF",
-            "clock": "#DDDDDD ",
-            "playerscount": "#DDDDDD ",
+            "clock": "#DDDDDD",
+            "playerscount": "#DDDDDD",
             "weaponcond": "#FFEEAA",
+            "effects": "#FFFFCA",
+            "pickuphistory": "#FFFFCA",
+            "pickuphistoryseparator":"#DDDDDD",
             "nukecodes": {
               "A": "#FFFFAA",
               "B": "#FFFFAA",

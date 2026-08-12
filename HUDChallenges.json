@@ -94,7 +94,7 @@
 		"showSeasonEndTime": "Season end: {time}", // 1.1.3,
 		"showRaidXP": "Raid XP: {xp}", // 1.2.1
 		
-		"timeLong": "{d}:{h}:{m}:{s}", // 1.2.2
+		"timeLong": "{d}d {h}:{m}:{s}", // 1.2.2
 		"timeMid": "{h}:{m}:{s}",
 		"timeShort": "{m}:{s}"
 	},
@@ -189,7 +189,8 @@
 	
 	"activeInfestation": { // Update 1.4.2
 		"hideEndedInfestationAfter": 30,
-		"text": "INFESTATION ACTIVE ({time} ago)",
+		"showPossibleLocations": true,
+		"text": "[{amount}] INFESTATION ACTIVE ({time} ago)",
 		"textEnded": "INFESTATION ENDED ({time} ago)",
 		"soundNotify": "QSTMassFusionAlarmAlert"
 	},
@@ -454,7 +455,8 @@
 		
 		"showUninvitedGuest": "0xff3333",
 		
-		"showActiveInfestation": "0xff3333"
+		"showActiveInfestation": "0xff3333",
+		"infestationLocations": "0xff7777"
 	},
 	"customEventChallengeColors": { // Update 1.0.3
 		"gold star:": "0x66ff66",
