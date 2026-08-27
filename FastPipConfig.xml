@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FastPip Creator="Unikko" Site="https://www.nexusmods.com/fallout76/mods/1269" Ver="1">
+
+ <FastPipVersion>2.0</FastPipVersion>
+
+ <Settings>
+  <Language>en</Language>
+  <!-- Set Game Language
+		de
+		en
+		es
+		esmx
+		fr
+		it
+		ja
+		ko
+		pl
+		ptbr
+		ru
+		zhhans
+		zhhant
+   -->
+
+  <DataFolderName>FastPipData</DataFolderName><!-- Default: FastPipData -->
+
+  <CampProtection>
+   <Activate>yes</Activate><!-- Default:yes -->
+   <Count>5</Count><!-- 2 to 100 *Default:5 -->
+  </CampProtection>
+
+ </Settings>
+
+</FastPip>

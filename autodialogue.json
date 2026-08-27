@@ -1,0 +1,23 @@
+{
+  "NPCs": {
+    "The Ghoul": [
+      "premium target",
+      "5,000",
+      "Never mind"
+    ],
+    "Scribe Valdez": [
+      "Technical Data",
+      "I have to go"
+    ],
+    "Rocksy": [
+      "Go ahead"
+    ]
+  },
+  "Blocks": {
+    "The Ghoul": [
+      "one at a time",
+      "already"
+    ]
+  },
+  "Delay": 300
+}

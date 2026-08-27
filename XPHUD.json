@@ -1,0 +1,69 @@
+{
+  "x": 115,
+  "y": 975,
+  "width": 314,
+  "height": 14,
+
+  "alpha": 1,
+  "backgroundAlpha": 0.2,
+
+  "framePadding": 2,
+  "frameThickness": 1,
+  "frameColor": "000000",
+
+  "barPadding": 0,
+  "barColor": "82FF8A",
+  "backgroundColor": "000000",
+
+  "showPercent": true,
+  "shadow": true,
+  "font": "$MAIN_Font",
+  "textSize": 18,
+
+  "levelPosition": "top",
+  "levelOffsetX": 0,
+  "levelOffsetY": 15,
+  "levelTextColor": "FFFFFF",
+
+  "percentTextColor": "82FF8A",
+  "percentPosition": "right",
+  "percentOffsetX": 8,
+  "percentOffsetY": 3,
+
+  "fillBorderThickness": 1,
+  "fillBorderColor": "258A2C",
+
+  "showSegments": true,
+  "segmentStep": 0.2,
+  "segmentMode": "smart",
+  "segmentColor": "000000",
+  "segmentAlpha": 0.33,
+  "segmentThickness": 1,
+  "segmentsOverFill": true,
+
+
+  "HUDModesState": "Hidden",
+  "HUDModes": [
+    "MapMenu",
+    "TerminalMode",
+    "Pipboy",
+    "ContainerMode",
+    "PauseMode",
+    "SelfieMode",
+    "SitWaitMode",
+    "NoHud",
+    "WorkshopMode",
+    "CampPlacement",
+    "InspectMode",
+    "PauseMode",
+    "PerksMode",
+    "VATS",
+    "VATSPlayback",
+    "DeathRespawnMode",
+    "SelfieMode",
+    "DialogueMode",
+    "LegendaryPerksMode",
+    "RadialMenu",
+    "AutoVanity"
+  ]
+}
