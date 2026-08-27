@@ -25,3 +25,4 @@ FastPipData/*
 OPTIONAL-ONLY-POWERARMOR-PARTS-RENAME_ME-HUDCondition.json
 *.ps1
 01-TZNukeMap/Fallout76Custom.ini
+*.vortex_backup

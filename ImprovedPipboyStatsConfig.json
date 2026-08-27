@@ -1,0 +1,187 @@
+{
+	"EnableHotkeyTabChanges": true, // Update 1.0.1
+	
+	"CurrentlyText": "\nCurrently:",
+	
+	// Mind the commas between elements, and no comma after last element in list
+	// Example: ["Overencumbered", "Fed", "Starving", "Hydrated"]
+	"HideOtherFromEffectsTab": [
+		
+	],
+	
+	// Mind the commas between elements, and no comma after last element in list
+	// Example: [arms keeper", "basher", "super duper]
+	"HidePerks": [
+		
+	],
+	
+	// If effect names in pipboy don't match perk names, list them below
+	// "Pipboy Effect Name" : "Perk Name"
+	"MapPerkNames": {
+		"Action Boy/Girl": "Action Girl",
+		"Life Giver": "LifeGiver",
+		"Nerd Rage": "Nerd Rage!"
+	},
+	
+	// Curve table data to show for listed perks
+	// PTS curve tables in comments below (\/\*|\*\/)
+	"CurveDataHeaders": {
+		"Bullet Storm": "Rank 1\tRank 2\tRank 3",
+		"Inspirational": "Radius\tSelf XP\tTeam XP",
+		"Junk Shield": "LCK scale\tx JUNK",
+		"Lone Wanderer": "AP Regen\tDR Bonus",
+		"Nerd Rage": "DMG\t\tAP Regen",
+		"Rad Sponge": "Self\t\tTeam",
+		"Spiritual Healer": "Self\t\tTeam"
+	},
+	"CurveDataDirectories": {
+		"AdamantiumSkeleton": [
+			"../misc/curvetables/json/perks/adamantiumskeletonbonus.json"
+		],
+		"Adrenaline": [
+			"../misc/curvetables/json/perks/adrenalinebonus.json"
+		],
+		"Awareness": [
+			"../misc/curvetables/json/perks/awarenessbonus.json"
+		],
+		"Barbarian": [
+			"../misc/curvetables/json/perks/barbarianbonus.json"
+		],
+		"BloodyMess": [
+			"../misc/curvetables/json/perks/bloodymesschance.json"
+		],
+		"Bodyguards": [
+			"../misc/curvetables/json/perks/bodyguardsbonus.json"
+		],
+		"CanDo": [
+			"../misc/curvetables/json/perks/candobonus.json"
+		],
+		"CapCollector": [
+			"../misc/curvetables/json/perks/capcollectorbonus.json"
+		],
+		"Evasive": [
+			"../misc/curvetables/json/perks/evasivebonus.json"
+		],
+		"FirstAid": [
+			"../misc/curvetables/json/perks/firstaidbonus.json"
+		],
+		"FourLeafClover": [
+			"../misc/curvetables/json/perks/fourleafcloverbonus.json"
+		],
+		"GrimReapersSprint": [
+			"../misc/curvetables/json/perks/grimreaperssprintbonus.json"
+		],
+		"GuerrillaExpert": [
+			"../misc/curvetables/json/perks/guerrillaexpertbonus.json"
+		],
+		"GuerrillaMaster": [
+			"../misc/curvetables/json/perks/guerrillamasterbonus.json"
+		],
+		"GunslingerExpert": [
+			"../misc/curvetables/json/perks/gunslingerexpertbonus.json"
+		],
+		"GunslingerMaster": [
+			"../misc/curvetables/json/perks/gunslingermasterbonus.json"
+		],
+		"BearArms": [
+			"../misc/curvetables/json/perks/heavybashbonus.json"
+		],
+		"HeavyGunner": [
+			"../misc/curvetables/json/perks/heavydamagebonus.json",
+			"../misc/curvetables/json/perks/heavydamagebonus2.json",
+			"../misc/curvetables/json/perks/heavydamagebonus3.json"
+		],
+		"LockAndLoad": [
+			"../misc/curvetables/json/perks/heavyreloadbonus.json"
+		],
+		"Inspirational": [
+			"../misc/curvetables/json/perks/inspirationalradiusbonus.json",
+			"../misc/curvetables/json/perks/inspirationalselfbonus.json",
+			"../misc/curvetables/json/perks/inspirationalteambonus.json"
+		],
+		"IronFist": [
+			"../misc/curvetables/json/perks/ironfistbonus.json"
+		],
+		"IronStomach": [
+			"../misc/curvetables/json/perks/ironstomachbonus.json"
+		],
+		"JunkShield": [
+			"../misc/curvetables/json/perks/junkshieldscalebonus.json",
+			"../misc/curvetables/json/perks/junkshielddrbonus.json"
+		],
+		"LeadBelly": [
+			"../misc/curvetables/json/perks/leadbellybonus.json"
+		],
+		"LifeGiver": [
+			"../misc/curvetables/json/perks/lifegiverbonus.json"
+		],
+		"LoneWanderer": [
+			"../misc/curvetables/json/perks/lonewandererapregenbonus.json",
+			"../misc/curvetables/json/perks/lonewandererdrbonus.json"
+		],
+		"NaturalResistance": [
+			"../misc/curvetables/json/perks/naturalresistancebonus.json"
+		],
+		"NerdRage": [
+			"../misc/curvetables/json/perks/nerdragedamagebonus.json",
+			"../misc/curvetables/json/perks/nerdrageapbonus.json"
+		],
+		"PainTrain": [
+			"../misc/curvetables/json/perks/paintrainbleedbonus.json",
+			"../misc/curvetables/json/perks/paintrainstaggerbonus.json"
+		],
+		"Pharmacist": [
+			"../misc/curvetables/json/perks/pharmacistbonus.json"
+		],
+		"PharmaFarma": [
+			"../misc/curvetables/json/perks/pharmafarmabonus.json"
+		],
+		"RadResistant": [
+			"../misc/curvetables/json/perks/radresistantbonus.json"
+		],
+		"RadSponge": [
+			"../misc/curvetables/json/perks/radspongeselfbonus.json",
+			"../misc/curvetables/json/perks/radspongeteambonus.json"
+		],
+		"Refractor": [
+			"../misc/curvetables/json/perks/refractorbonus.json"
+		],
+		"Ricochet": [
+			"../misc/curvetables/json/perks/ricochetbonus.json"
+		],
+		"Science": [
+			"../misc/curvetables/json/perks/sciencebonus.json"
+		],
+		"ScienceExpert": [
+			"../misc/curvetables/json/perks/scienceexpertbonus.json"
+		],
+		"ScienceMaster": [
+			"../misc/curvetables/json/perks/sciencemasterbonus.json"
+		],
+		"Scrounger": [
+			"../misc/curvetables/json/perks/scroungerbonus.json"
+		],
+		"Serendipity": [
+			"../misc/curvetables/json/perks/serendipitybonus.json"
+		],
+		"ShotgunnerMaster": [
+			"../misc/curvetables/json/perks/shotgunnermasterbonus.json"
+		],
+		"SpiritualHealer": [
+			"../misc/curvetables/json/perks/spiritualhealerselfbonus.json",
+			"../misc/curvetables/json/perks/spiritualhealerteambonus.json"
+		],
+		"StrongBack": [
+			"../misc/curvetables/json/perks/strongbackbonus.json"
+		],
+		"ThirstQuencher": [
+			"../misc/curvetables/json/perks/thirstquencherbonus.json"
+		],
+		"TravelAgent": [
+			"../misc/curvetables/json/fasttraveloverencumberedcostmultcurve.json"
+		],
+		"Vaccinated": [
+			"../misc/curvetables/json/perks/vaccinatedbonus.json"
+		]
+	}
+}

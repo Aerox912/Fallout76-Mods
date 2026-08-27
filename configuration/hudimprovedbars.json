@@ -1,0 +1,490 @@
+{
+  // Yes yes, I  do know what you're thinking... Adding comments to JSON is not standard compliant.
+  // Forgive me, Todd Howard
+  //==========================================================================================================================
+  // Improved Bars and HUD Configuration File
+  // Created by DCHoaxer95 - https://www.nexusmods.com/fallout76/mods/3106
+  // Version 1.18 only. 
+  // Last updated: August 22, 2026
+  // If you need help, visit the mod page or contact me on Nexus Mods or Discord
+  // Oh and by the way, if you like this mod, consider endorsing it on Nexus Mods.
+  // It helps a lot!
+  // Enjoy!
+  //==========================================================================================================================
+  // GENERAL SETTINGS
+  //==========================================================================================================================
+  "features": [
+    {
+      // IHB language
+      // Available values: "en" - English, "pl" - Polish, "de" - German, "fr" - French, "it" - Italian, "es" - Spanish, "ru" - Russian, "zh" - Chinese
+      // Sets the language for the mod. Does not affect game language.
+      // Need more languages? Contact me on Nexus Mods or Discord
+      "language": "en",
+      // Global scale factor for all HUD elements. 1.0 is default size.  [Range: 0.1 - 10]
+      // Use this setting to globally scale all HUD elements added by this mod.
+      // If you want to scale individual elements, you can do that in the "widgets" section, by adding the "scaleFactor" for desired widget. 
+      //  This setting will scale all elements, including those that don't have individual scale settings.
+      "scaleFactor": 0.8,
+      // Keybindings for mod components. [Available values: any valid key code]
+      "keybindings": {
+        "manageTeam": 112, // F1 key
+        "settings": 121 // F10 key
+      },
+      // Should we automatically realign elements under the HP bar? [Available values: true/false]
+      // This is needed for the widgets under the HP bar, such as weight, currencies, cores, clock, 
+      // because they have different widths, and if you have more than one of them enabled, they will overlap each other.
+      // DISABLE this if you have custom positions for these elements
+      // When enabled, it will automatically align these elements to the left, on the X axis
+      "autoAlignLeftGroup": true,
+      // By default, the bars disappear after a short time when they reach [value] => [thirstBarsPercentIndefiniteShow]%. 
+      // This can be useful for players who want to keep an eye on their hunger and thirst levels without worrying about the bars disappearing.
+      // For example, if you set this to 50, the bars will stay visible until your hunger or thirst increases above 50%. 
+      // Setting this to 100 makes it stay forever.  [Default game value: 20 Maximum value: 100]
+      "thirstBarsPercentIndefiniteShow": 20,
+      // Whether to show hunger and thirst icons next to the bars. [Available values: true/false]
+      "showHungerThirstIcons": true,
+      // Debug stuff
+      // This section is for debugging purposes. It allows you to enable debug mode, which will show additional information and messages in the console. 
+      // You can also enable messages for mod initialization and config reload events. 
+      // This can be useful for troubleshooting issues with the mod or for development purposes. [Available values: true/false]
+      // ShowDebug is not yet implemented. It will be implemented in the future, but for now, it does nothing.
+      "debugSettings": {
+        // Enable debug mode. do not use this
+        "showDebug": false,
+        // Show a message when mod is initialized
+        "showModInitializationMessage": true,
+        // Show a message when config is reloaded
+        "showConfigReloadMessage": true
+      },
+      //This subsection defines specific widget settings, as well as the on-screen coordinates for the HUD elements. All positions are relative to the parent containers. Change it only if you have to.
+      // You can set the scale of each widget elements, if you do not like their default sizes. 
+      "widgets": [
+        {
+          // The quest tracker widget. This widget shows the current quest objectives and their progress.
+          "questtracker":
+          {
+            "enabled": true,
+            "showBackground": true,
+            "showObjectives": true,
+            "showTimers": true,
+            "showProgress": true,
+            "x": 820,
+            "y": 180,
+            "scaleFactor": 1
+          },
+          "teammates": {
+            "enabled": true,
+            // Whether to show the local player in the teammates widget. [Available values: true/false]
+            "showLocalPlayer": false,
+
+            "showBackground": false,
+            "showTeamName": true,
+            "showBonus": true,
+
+            "showPlayerIcons": true,
+            "showAvatarFrames": true,
+            "showAccents": true,
+
+            "showNames": true,
+            "showTitles": true,
+            "showLevels": true,
+            "showStatus": true,
+
+            "showHealthBar": true,
+            "showRadsBar": true,
+            "showGlowBar": true,
+            "showBarSegments": true,
+            "showSeparators": false,
+
+            "showHealthPercentage": true,
+            "showRadsPercentage": true,
+            "showGlowPercentage": true,
+
+            "x": 5,
+            "y": 670,
+            "scaleFactor": 1
+          },
+          // The target meter widget. This widget shows the name, level, and health of the currently targeted enemy or NPC. 
+          "targetmeter": {
+            "enabled": true,
+            "showStealthMeter": false,
+            "x": 0,
+            "y": 58,
+            "scaleFactor": 1
+          },
+          // The active effects widget. This widget shows all active effects on the player, including their remaining duration.
+          "activeeffects": {
+            "enabled": true,
+            // Whether to show only timed effects in the active effects widget. [Available values: true/false]
+            "showTimedOnly": true,
+            // Whether to show only main effect names in the active effects widget. [Available values: true/false]
+            "showMainEffectNamesOnly": false,
+            // Filter out effects that you don't want to see in the active effects widget. You can add more effects to this list, but make sure to use the exact name of the effect as it appears in the game.
+            "excludedEffects": [],
+            // Filter out effects that you want to be reminded of when they are about to expire. You can add more effects to this list, but make sure to use the exact name of the effect as it appears in the game.
+            "listRemindExpiringEffects": [],
+            // The duration in seconds before an effect expires that will trigger a reminder. Set to 0 to disable reminders. [Range: 0 - 3600]
+            "remindExpiringEffectsDurationSeconds": 0,
+            "x": -90,
+            "y": -500
+          },
+          // Pickup history widget shows the last picked up item and the total number of items picked up. It can also show the last picked up item count.
+          "pickuphistory": {
+            "enabled": false,
+            "x": -90,
+            "y": -830,
+            "scaleFactor": 1,
+            "alwaysVisible": false,
+            "format": "({pickedUpCount}) {pickedUpText} | {lastPickedUpItemName} ({lastPickedUpItemCount})",
+            "ignoreList": []
+          },
+
+          // Whether to show the list of players in the current server. [Available values: true/false]
+          "playerslist": {
+            "enabled": false,
+            "showTitles": true,
+            "showNearestMapMarker": true,
+            "x": -90,
+            "y": -120
+          },
+          "playerscount": {
+            // Whether to show the number of players in the current server. [Available values: true/false]
+            "enabled": true,
+            // Positioning
+            "x": 325,
+            "y": -20
+          },
+          // Experience widget shows your current level and experience progress. It can also show the percentage of experience progress towards the next level, 
+          // if you enable the percentage option.
+          "xp": {
+            "enabled":true,
+            "percentage":true,
+            "scaleFactor":0.8,
+            "x":25,
+            "y":-50
+          },
+          // Shows active effects and some other stuff. Experimental. 
+          // NOT YET REDY, WILL BE IN 1.18.1
+          "effectstracker": {
+            "enabled": false,
+            "x": 20,
+            "y": -50,
+            "showLunchboxes": true
+          },
+          // Vendor tracker shows when vendors are available to trade with you.
+          // Currently supports Minerva vendor only.
+          "vendortracker": {
+            "enabled": true,
+            // Positioning
+            "x": -585,
+            "y": -100
+          },
+          // Nuke codes widget shows the actual nuke codes on the screen.
+          "nukecodes": {
+            // Whether to show nuke codes on the screen. [Available values: true/false]
+            // Even if you disable this, you can still see the nuke codes by pressing F11 and going into Improved Bars and HUD section. This setting only controls the visibility of the widget on the screen.
+            "enabled": true,
+            // POSITIONING 
+            "x": -585,
+            "y": -35
+          },
+          "weight": {
+            // Whether to display the player's current carry weight. [Available values: true/false]
+            "enabled": true,
+            // POSITIONING 
+            "x": -20,
+            "y": -20
+          },
+          "currencies": {
+            //Whether to show the number of bottle caps and optionally other currencies specified in 'showonly' setting. [Available values: true/false]
+            "enabled": true,
+            // Which currencies to show, separated by ';' [Available values "caps", "bullion", "scrips", "stamps", "tadpole", "possum", "perks"]
+            // You can change the order of currencies too. Type your desired order separated by ';'
+            "showOnly": "caps;bullion;stamps;scrips;perks;tadpole;possum",
+            // Should the icons be colored or mono?  [Available values: true/false]  
+            "coloredIcons": true,
+            // POSITIONING
+            // Whether to show icons vertically or hortizonally [Available values: true/false]
+            // autoAlignLeftGroup is disabled for this widget if this feature is enabled. Will mess up things, unless you move each item individually.
+            "vertical": true,
+            "x": -90,
+            "y": -130
+          },
+          "cores": {
+            // Whether to display the number of fusion cores. [Available values: true/false]
+            "enabled": true,
+            // POSITIONING
+            "x": 60,
+            "y": -20
+          },
+          "clock": {
+            // Displays a clock.
+            // If you see the "not synced" message — open your Pip-Boy radio to sync the time.
+            // If you're still seeing this message after opening pipboy's radio a few times - it means another mod is conflicting with this feature.
+            // It will desync if you minimize the game.
+            "enabled": true,
+            // Which clock to show, separated by ';'.  [Available values "server" - server time, "local" - local time. Default is Server]
+            "mode": "server;local",
+            // Whether to show your local time next to the server time.
+            "use24hFormat": true,
+            // POSITIONING
+            "x": 105,
+            "y": -20
+          },
+          "weaponcond": {
+            //Whether to show the condition of the currently equipped weapon. [Available values: true/false]
+            "enabled": true,
+            // You can enable weapon name display. If you disable this setting, you'll only see a percentage indicator, e.g., (12.5%). 
+            "showNames": true,
+            // By default, with weapon name display enabled, the widget shows the full name. You can use shortened names to display only the weapon name itself, without legendaries.
+            // It works only in some languages for now. Not in english.
+            "shortenNames": false,
+            // Toggles visibility of the weapon icon
+            "showWeaponIcon": true,
+            "x": -75,
+            "y": -115
+          },
+          "stats": {
+            //Whether to show the simple SPECIAL widget. [Available values: true/false]
+            "enabled": true,
+            // Whether to show icons vertically or hortizonally [Available values: true/false, default: false]
+            "vertical": false,
+            "showDiffs": true,
+            "x": 650,
+            "y": 0
+          },
+          // Monitor up to 5 items.
+          // Pattern accepts a valid text pattern.
+          // Label is a text displayed on the screen
+          // valuecolor, labelcolor are optional. they sets a color on counter and label fields
+          // =============================================================================================================================================================================================================== //
+          // No more regex rules, use "search" instead. It allows you to search for items by name, type, or both. You can use multiple search rules for each item.
+          // =============================================================================================================================================================================================================== //
+          "itemmonitor": {
+            "enabled": true,
+            "inline": true,
+            "x": -40,
+            "y": 0,
+            "valueprefix": "",
+            // Combining any and all rules allows you to create complex search queries. For example, you can search for items that have a specific name and are of a specific type, or items that have a specific name or are of a specific type.
+            "items": [
+              // This example matches Stimpaks.
+              // All rules set there are for  English only
+              // Make your own rules for your language, or ask me to add some presets for your language. I can add presets for popular items in different languages, but I won't be able to add them for every language, so you might have to create your own rules. 
+              // If you need help with that, contact me on Nexus Mods or Discord.
+              {
+                "enabled": true,
+                // This example matches regular Stimpaks ONLY. 
+                "search": {
+                  // Search for items that match all of the following rules. If you want to match items that match any of the rules, use "any" instead.
+                  "all": ["Stimpak"],
+                  // Search for items that match any of the following rules. If you want to match items that match all of the rules, use "all" instead.
+                  "any": [],
+                  // This will exclude items that match any of the following rules. 
+                  "none": ["Super", "Diluted"]
+                },
+                "label": "Stimpaks",
+                "valuecolor": "#66ACB7",
+                "labelcolor": "#FFFFCA"
+              },
+              // This matches super stimpkas only
+              {
+                "enabled": true,
+                "search": {
+                  // Search for items that match all of the following rules. If you want to match items that match any of the rules, use "any" instead.
+                  "all": ["Stimpak"],
+                  // Search for items that match any of the following rules. If you want to match items that match all of the rules, use "all" instead.
+                  "any": ["Super"],
+                  // This will exclude items that match any of the following rules. 
+                  "none": ["Diluted"]
+                },
+                "label": "Superstimpaks",
+                "valuecolor": "#99FF99",
+                "labelcolor": "#FFFFCA"
+              },
+              //  This example counts treasury notes
+              {
+                "enabled": true,
+                "search": {
+                  // Search for items that match all of the following rules. If you want to match items that match any of the rules, use "any" instead.
+                  "all": ["Treasury Note"],
+                  // Search for items that match any of the following rules. If you want to match items that match all of the rules, use "all" instead.
+                  "any": [],
+                  "none": []
+                },
+                "label": "Treasury notes",
+                "valuecolor": "#FFAA77",
+                "labelcolor": "#FFFFCA"
+              },
+              {
+                "enabled": false,
+                "search": {
+                  // Search for items that match all of the following rules. If you want to match items that match any of the rules, use "any" instead.
+                  "all": [],
+                  // Search for items that match any of the following rules. If you want to match items that match all of the rules, use "all" instead.
+                  "any": [],
+                  "none": []
+                },
+                "label": "Everything",
+                "valuecolor": "#66ACB7",
+                "labelcolor": "#FFFFCA"
+              },
+              {
+                "enabled": false,
+                "search": {
+                  // Search for items that match all of the following rules. If you want to match items that match any of the rules, use "any" instead.
+                  "all": [],
+                  // Search for items that match any of the following rules. If you want to match items that match all of the rules, use "all" instead.
+                  "any": [],
+                  "none": []
+                },
+                "label": "Everything",
+                "valuecolor": "#66ACB7",
+                "labelcolor": "#FFFFCA"
+              }
+            ]
+          }
+        }
+      ],
+      "colors": [
+        {
+          "global": {
+            "special": {
+              "L": "#A19AAC",
+              "A": "#BD9079",
+              "I": "#9A9A80",
+              "C": "#C58B4C",
+              "E": "#66ACB7",
+              "P": "#786D4F",
+              "S": "#779878"
+            },
+            "xp": {
+              "xp_label": "#FFFFCA",
+              "xp_value": "#FFFFCA",
+              "level_value": "#FFFFCA",
+              "level_label": "#FFFFCA"
+            },
+            "nukecodes": {
+              "value": "#66ACB7",
+              "separator": "#FFFFAA",
+              "C": "#FFFFAA",
+              "B": "#FFFFAA",
+              "A": "#FFFFAA"
+            },
+            "teammates": {
+              "dead": "#888888",
+              "down": "#FF9900",
+              "leader": "#FFFFAA",
+              "status": "#DDDDDD",
+              "separator": "#808080",
+              "track": "#33363B",
+              "glow": "#44EE46",
+              "rads": "#FC4542",
+              "health": "#FFFCC9",
+              "level": "#DDDDDD",
+              "name": "#FFFFCA",
+              "bonus": "#44C6FF",
+              "teamName": "#FFFF93"
+            },
+            "stealthmeter": {
+              "danger": "#FC4542",
+              "caution": "#FF5A1F",
+              "detected": "#FF9900",
+              "hidden": "#888888"
+            },
+            "targetmeter": {
+              "trail": "#FFFFFF",
+              "track": "#33363B",
+              "neutral": "#FFFFCA",
+              "friendly": "#54FC42",
+              "enemy": "#FC4542",
+              "level": "#DDDDDD",
+              "name": "#FFFFCA"
+            },
+            "activeeffects": {
+              "text": "#FFFFAA",
+              "reminder": "#FF4242",
+              "magnitude": "#ABFFAA",
+              "separator": "#FFFFFF",
+              "time": "#DDDDDD"
+            },
+            "weaponcond": "#FFEEAA",
+            "pickuphistoryseparator": "#DDDDDD",
+            "pickuphistory": "#FFFFCA",
+            "playerslist": {
+              "levelbackground": "#000000",
+              "level": "#FFFFCA",
+              "title": "#DDDDDD",
+              "nickname": "#FFFFCA"
+            },
+            "itemmonitor": "#FFFFCA",
+            "vendors": "#FFFFCA",
+            "playerscount": "#DDDDDD",
+            "clock": "#DDDDDD",
+            "cores": "#44EEFF",
+            "currencies": {
+              "maxValue": "#E63E30",
+              "perks": "#FFFFAA",
+              "supplies": "#FFFFAA",
+              "possum": "#FFFFAA",
+              "tadpole": "#FFFFAA",
+              "stamps": "#FFFFAA",
+              "scrips": "#FFFFAA",
+              "bullion": "#FFFFAA",
+              "caps": "#FFFFAA"
+            },
+            "weight": "#FFFFAA",
+            "effects": "#FFFFCA"
+          }
+        }
+      ]
+    }
+  ],
+  // ==========================================================================================================================
+  // SEGMENTS SETTINGS
+  // This section allows you to configure segments for health, hunger, and thirst bars.
+  // ==========================================================================================================================
+  "segments": [
+    {
+      //Enables segmentated health bar. [Available values: true/false]
+      "health": true,
+      //Enables segmentated hunger bar. [Available values: true/false]
+      "hunger": true,
+      //Enables segmentated thirst bar. [Available values: true/false]
+      "thirst": true,
+      //Determines the style of the segments. Available styles:
+      // health: "single" - single segment at 20% health, "full" - full segmented bar every 20% health
+      // hunger: "single" - single segment at 20% hunger, "full" - full segmented bar every 20% hunger
+      // thirst: "single" - single segment at 20% thirst, "full" - full segmented bar eery 20% thirst
+      "style": [
+        {
+          "health": "single",
+          "hunger": "full",
+          "thirst": "full"
+        }
+      ]
+    }
+  ],
+  // ==========================================================================================================================
+  // PERCENTAGES SETTINGS
+  // This section allows you to configure percentage displays for health, hunger, thirst, feral, and glow bars.
+  // ==========================================================================================================================
+  "percentages": [
+    {
+      //Whether to show percentage  near health bar. [Available values: true/false]
+      "health": true,
+      //Whether to show the original bethesda's percentage near health bar. [Available values: true/false. Setting this to true disables mods's health percentage info. if the percentage disappears completely, you have old HUDMenu (chatmod?)]
+      "bethhealth": false,
+      //Whether to show percentage  near hunger bar. [Available values: true/false]
+      "hunger": true,
+      //Whether to show percentage  near thirst bar. [Available values: true/false]
+      "thirst": true,
+      //Whether to show percentage  near feral bar. [Available values: true/false]
+      "feral": true,
+      //Whether to show percentage  near glow bar. [Available values: true/false]
+      "glow": true,
+      //Percentage postfix. Set it to "" to get rid of it
+      "postfix": "%"
+    }
+  ]
+}
