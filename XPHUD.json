@@ -1,7 +1,7 @@
 {
-  "x": 115,
-  "y": 975,
-  "width": 314,
+  "x": -151,
+  "y": 955,
+  "width": 234,
   "height": 14,
 
   "alpha": 1,
@@ -18,17 +18,17 @@
   "showPercent": true,
   "shadow": true,
   "font": "$MAIN_Font",
-  "textSize": 18,
+  "textSize": 12,
 
-  "levelPosition": "top",
-  "levelOffsetX": 0,
+  "levelPosition": "none",
+  "levelOffsetX": -10,
   "levelOffsetY": 15,
   "levelTextColor": "FFFFFF",
 
   "percentTextColor": "82FF8A",
   "percentPosition": "right",
-  "percentOffsetX": 8,
-  "percentOffsetY": 3,
+  "percentOffsetX": 2,
+  "percentOffsetY": 10,
 
   "fillBorderThickness": 1,
   "fillBorderColor": "258A2C",
@@ -63,6 +63,7 @@
     "SelfieMode",
     "DialogueMode",
     "LegendaryPerksMode",
+    "PowerArmor",
     "RadialMenu",
     "AutoVanity"
   ]

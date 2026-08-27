@@ -16,8 +16,8 @@
 	"hideUnknownGamepadButtonIcons": true,
 	"defaultSelectedTab": "-",
 	
-	"scrapItemCountThresholdPopup": 5,
-	"transferItemCountThresholdPopup": 4,
+	"scrapItemCountThresholdPopup": 1,
+	"transferItemCountThresholdPopup": 1,
 	
 	"hideTakeAllConfirm": true,
 	"hideScrapAllConfirm": true,

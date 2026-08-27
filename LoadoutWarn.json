@@ -1,19 +1,21 @@
 {
-  "x": 40,
-  "y": 40,
+  "x": 790,
+  "y": 70,
+
   "bangOffsetX": -28,
   "bangOffsetY": -10,
+
   "warnOffsetX": 0,
   "warnOffsetY": 0,
 
-  "showInitialWarning": true,
+  "showInitialWarning": false,
   "initialText": "Loadout not initialized",
   "initialColor": "FFD800",
   "initialPulse": true,
 
   "pulseSpeed": 0.12,
 
-  "warnLoadouts": ["crafting"],
+  "warnLoadouts": ["camp"],
   "warnText": "Crafting Loadout active!",
   "warnBangEnabled": true,
 
@@ -21,7 +23,7 @@
   "currentTextFormat": "{name}",
   "currentColor": "FFFFFF",
 
-  "showBangForLoadouts": ["crafting", "healer"],
+  "showBangForLoadouts": ["camp"],
   "bangColorSafe": "FFFFFF",
   "bangGlowSafe": "000000",
   "bangPulseSafe": false
