@@ -35,12 +35,12 @@
       // because they have different widths, and if you have more than one of them enabled, they will overlap each other.
       // DISABLE this if you have custom positions for these elements
       // When enabled, it will automatically align these elements to the left, on the X axis
-      "autoAlignLeftGroup": true,
+      "autoAlignLeftGroup": false,
       // By default, the bars disappear after a short time when they reach [value] => [thirstBarsPercentIndefiniteShow]%. 
       // This can be useful for players who want to keep an eye on their hunger and thirst levels without worrying about the bars disappearing.
       // For example, if you set this to 50, the bars will stay visible until your hunger or thirst increases above 50%. 
       // Setting this to 100 makes it stay forever.  [Default game value: 20 Maximum value: 100]
-      "thirstBarsPercentIndefiniteShow": 20,
+      "thirstBarsPercentIndefiniteShow": 100,
       // Whether to show hunger and thirst icons next to the bars. [Available values: true/false]
       "showHungerThirstIcons": true,
       // Debug stuff
@@ -157,7 +157,7 @@
           // Experience widget shows your current level and experience progress. It can also show the percentage of experience progress towards the next level, 
           // if you enable the percentage option.
           "xp": {
-            "enabled":true,
+            "enabled":false,
             "percentage":true,
             "scaleFactor":0.8,
             "x":25,
@@ -167,7 +167,7 @@
           // NOT YET REDY, WILL BE IN 1.18.1
           "effectstracker": {
             "enabled": false,
-            "x": 20,
+            "x": -10,
             "y": -50,
             "showLunchboxes": true
           },
@@ -175,9 +175,11 @@
           // Currently supports Minerva vendor only.
           "vendortracker": {
             "enabled": true,
+            // When enabled, shows minerva vendor status
+            "minervaVendor": true,
             // Positioning
-            "x": -585,
-            "y": -100
+            "x": -280,
+            "y": -1040
           },
           // Nuke codes widget shows the actual nuke codes on the screen.
           "nukecodes": {
@@ -186,14 +188,15 @@
             "enabled": true,
             // POSITIONING 
             "x": -585,
-            "y": -35
+            "y": -1040
           },
           "weight": {
             // Whether to display the player's current carry weight. [Available values: true/false]
             "enabled": true,
             // POSITIONING 
-            "x": -20,
-            "y": -20
+            "x": -10,
+            "y": -35,
+            "scale": 1
           },
           "currencies": {
             //Whether to show the number of bottle caps and optionally other currencies specified in 'showonly' setting. [Available values: true/false]
@@ -206,16 +209,17 @@
             // POSITIONING
             // Whether to show icons vertically or hortizonally [Available values: true/false]
             // autoAlignLeftGroup is disabled for this widget if this feature is enabled. Will mess up things, unless you move each item individually.
-            "vertical": true,
-            "x": -90,
-            "y": -130
+            "vertical": false,
+            "x": -5,
+            "y": -130,
+            "scale": 1
           },
           "cores": {
             // Whether to display the number of fusion cores. [Available values: true/false]
             "enabled": true,
             // POSITIONING
-            "x": 60,
-            "y": -20
+            "x": 65,
+            "y": -35
           },
           "clock": {
             // Displays a clock.
@@ -228,8 +232,9 @@
             // Whether to show your local time next to the server time.
             "use24hFormat": true,
             // POSITIONING
-            "x": 105,
-            "y": -20
+            "x": 150,
+            "y": -35,
+            "scale": 1
           },
           "weaponcond": {
             //Whether to show the condition of the currently equipped weapon. [Available values: true/false]
@@ -241,8 +246,9 @@
             "shortenNames": false,
             // Toggles visibility of the weapon icon
             "showWeaponIcon": true,
-            "x": -75,
-            "y": -115
+            "x": 0,
+            "y": -90,
+            "scale": 1
           },
           "stats": {
             //Whether to show the simple SPECIAL widget. [Available values: true/false]
@@ -250,8 +256,8 @@
             // Whether to show icons vertically or hortizonally [Available values: true/false, default: false]
             "vertical": false,
             "showDiffs": true,
-            "x": 650,
-            "y": 0
+            "x": -10,
+            "y": -150
           },
           // Monitor up to 5 items.
           // Pattern accepts a valid text pattern.
@@ -263,8 +269,9 @@
           "itemmonitor": {
             "enabled": true,
             "inline": true,
-            "x": -40,
-            "y": 0,
+            "x": -30,
+            "y": -15,
+            "scale": 1,
             "valueprefix": "",
             // Combining any and all rules allows you to create complex search queries. For example, you can search for items that have a specific name and are of a specific type, or items that have a specific name or are of a specific type.
             "items": [
@@ -281,7 +288,7 @@
                   // Search for items that match any of the following rules. If you want to match items that match all of the rules, use "all" instead.
                   "any": [],
                   // This will exclude items that match any of the following rules. 
-                  "none": ["Super", "Diluted"]
+                  "none": []
                 },
                 "label": "Stimpaks",
                 "valuecolor": "#66ACB7",
@@ -292,14 +299,14 @@
                 "enabled": true,
                 "search": {
                   // Search for items that match all of the following rules. If you want to match items that match any of the rules, use "any" instead.
-                  "all": ["Stimpak"],
+                  "all": ["Nuclear Keycard"],
                   // Search for items that match any of the following rules. If you want to match items that match all of the rules, use "all" instead.
-                  "any": ["Super"],
+                  "any": [],
                   // This will exclude items that match any of the following rules. 
-                  "none": ["Diluted"]
+                  "none": []
                 },
-                "label": "Superstimpaks",
-                "valuecolor": "#99FF99",
+                "label": "Nuke Cards",
+                "valuecolor": "#39FF14",
                 "labelcolor": "#FFFFCA"
               },
               //  This example counts treasury notes
@@ -307,26 +314,26 @@
                 "enabled": true,
                 "search": {
                   // Search for items that match all of the following rules. If you want to match items that match any of the rules, use "any" instead.
-                  "all": ["Treasury Note"],
+                  "all": ["Wanted Poster"],
                   // Search for items that match any of the following rules. If you want to match items that match all of the rules, use "all" instead.
                   "any": [],
                   "none": []
                 },
-                "label": "Treasury notes",
-                "valuecolor": "#FFAA77",
+                "label": "Wanted Posters",
+                "valuecolor": "#66ACB7",
                 "labelcolor": "#FFFFCA"
               },
               {
-                "enabled": false,
+                "enabled": true,
                 "search": {
                   // Search for items that match all of the following rules. If you want to match items that match any of the rules, use "any" instead.
-                  "all": [],
+                  "all": ["Tocic Goo"],
                   // Search for items that match any of the following rules. If you want to match items that match all of the rules, use "all" instead.
                   "any": [],
                   "none": []
                 },
-                "label": "Everything",
-                "valuecolor": "#66ACB7",
+                "label": "Toxic Goo",
+                "valuecolor": "#D62828",
                 "labelcolor": "#FFFFCA"
               },
               {
@@ -408,8 +415,11 @@
               "separator": "#FFFFFF",
               "time": "#DDDDDD"
             },
+            "cores": "#44EEFF",
+            "clock": "#DDDDDD",
+            "playerscount": "#DDDDDD",
             "weaponcond": "#FFEEAA",
-            "pickuphistoryseparator": "#DDDDDD",
+            "effects": "#FFFFCA",
             "pickuphistory": "#FFFFCA",
             "playerslist": {
               "levelbackground": "#000000",
@@ -476,9 +486,9 @@
       //Whether to show the original bethesda's percentage near health bar. [Available values: true/false. Setting this to true disables mods's health percentage info. if the percentage disappears completely, you have old HUDMenu (chatmod?)]
       "bethhealth": false,
       //Whether to show percentage  near hunger bar. [Available values: true/false]
-      "hunger": true,
+      "hunger": false,
       //Whether to show percentage  near thirst bar. [Available values: true/false]
-      "thirst": true,
+      "thirst": false,
       //Whether to show percentage  near feral bar. [Available values: true/false]
       "feral": true,
       //Whether to show percentage  near glow bar. [Available values: true/false]
