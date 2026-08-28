@@ -106,8 +106,8 @@
           },
           // The target meter widget. This widget shows the name, level, and health of the currently targeted enemy or NPC. 
           "targetmeter": {
-            "enabled": true,
-            "showStealthMeter": false,
+            "enabled": false,
+            "showStealthMeter": true,
             "x": 0,
             "y": 58,
             "scaleFactor": 1
@@ -151,8 +151,8 @@
             // Whether to show the number of players in the current server. [Available values: true/false]
             "enabled": true,
             // Positioning
-            "x": 325,
-            "y": -20
+            "x": 340,
+            "y": -11
           },
           // Experience widget shows your current level and experience progress. It can also show the percentage of experience progress towards the next level, 
           // if you enable the percentage option.

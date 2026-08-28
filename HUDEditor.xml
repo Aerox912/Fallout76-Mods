@@ -74,7 +74,7 @@
 		
 		<!--Hp Bar For Targeted Enemy-->
 			<EnemyHealthMeter>
-				<Scale>.75</Scale>
+				<Scale>.0</Scale>
 				<X>0</X>
 				<Y>0</Y>
 			</EnemyHealthMeter>
