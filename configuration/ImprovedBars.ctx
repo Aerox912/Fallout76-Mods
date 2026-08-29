@@ -150,10 +150,10 @@
             // Filter out effects that you want to be reminded of when they are about to expire. You can add more effects to this list, but make sure to use the exact name of the effect as it appears in the game.
             "listRemindExpiringEffects": [],
             // The duration in seconds before an effect expires that will trigger a reminder. Set to 0 to disable reminders. [Range: 0 - 3600]
-            "remindExpiringEffectsDurationSeconds": 320,
+            "remindExpiringEffectsDurationSeconds": 120,
             "x": -170,
             "y": -1028,
-            "scaleFactor": 0.7
+            "scaleFactor": 0.8
           },
           // Pickup history widget shows the last picked up item and the total number of items picked up. It can also show the last picked up item count.
           "pickuphistory": {
@@ -524,5 +524,6 @@
       //Percentage postfix. Set it to "" to get rid of it
       "postfix": "%"
     }
-  ]
+  ],
+  "_XPVAL_": 0
 }
