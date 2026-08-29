@@ -30,6 +30,31 @@
         "manageTeam": 112, // F1 key
         "settings": 121 // F10 key
       },
+      // This section defines the positions and scale factors for the vanilla HUD elements.
+    "vanillaHudElements": {
+        "hpMeter": {
+          "x": 0,
+          "y": 0,
+          "scaleFactor": 1,
+          "showLabel": true
+        },
+        "apMeter": {
+          "x": 0,
+          "y": 0,
+          "scaleFactor": 1,
+          "showLabel": true
+        },
+        "compass": {
+          "x": 0,
+          "y": 0,
+          "scaleFactor": 1
+        },
+        "questTracker": {
+          "x": 0,
+          "y": 0,
+          "scaleFactor": 1
+        }
+      },
       // Should we automatically realign elements under the HP bar? [Available values: true/false]
       // This is needed for the widgets under the HP bar, such as weight, currencies, cores, clock, 
       // because they have different widths, and if you have more than one of them enabled, they will overlap each other.
@@ -77,6 +102,7 @@
             // Whether to show the local player in the teammates widget. [Available values: true/false]
             "showLocalPlayer": false,
 
+            "bottomToTop": false,
             "showBackground": false,
             "showTeamName": true,
             "showBonus": true,
@@ -415,11 +441,8 @@
               "separator": "#FFFFFF",
               "time": "#DDDDDD"
             },
-            "cores": "#44EEFF",
-            "clock": "#DDDDDD",
-            "playerscount": "#DDDDDD",
             "weaponcond": "#FFEEAA",
-            "effects": "#FFFFCA",
+            "pickuphistoryseparator": "#DDDDDD",
             "pickuphistory": "#FFFFCA",
             "playerslist": {
               "levelbackground": "#000000",
@@ -481,6 +504,10 @@
   // ==========================================================================================================================
   "percentages": [
     {
+      "glowPosition": {
+        "x": 0,
+        "y": 0
+      },
       //Whether to show percentage  near health bar. [Available values: true/false]
       "health": true,
       //Whether to show the original bethesda's percentage near health bar. [Available values: true/false. Setting this to true disables mods's health percentage info. if the percentage disappears completely, you have old HUDMenu (chatmod?)]
