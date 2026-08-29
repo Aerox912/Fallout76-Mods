@@ -173,7 +173,7 @@
             // The duration in seconds before an effect expires that will trigger a reminder. Set to 0 to disable reminders. [Range: 0 - 3600]
             "remindExpiringEffectsDurationSeconds": 90,
             "x": -170,
-            "y": -1028,
+            "y": -1045,
             "scaleFactor": 0.7
           },
           // Pickup history widget shows the last picked up item and the total number of items picked up. It can also show the last picked up item count.
