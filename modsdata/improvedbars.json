@@ -1,0 +1,412 @@
+{
+  "features": [
+    {
+      "language": "en",
+      "scaleFactor": 0.8,
+      "keybindings": {
+        "manageTeam": 112,
+        "settings": 121
+      },
+      "xScalCallIntervals": {
+        "targetMeterMs": 500,
+        "activeEffectsMs": 5000
+      },
+      "vanillaHudElements": {
+        "hpMeter": {
+          "x": 0,
+          "y": 0,
+          "scaleFactor": 1,
+          "showLabel": true
+        },
+        "apMeter": {
+          "x": 0,
+          "y": 0,
+          "scaleFactor": 1,
+          "showLabel": true
+        },
+        "compass": {
+          "x": 0,
+          "y": 0,
+          "scaleFactor": 1
+        },
+        "questTracker": {
+          "x": 0,
+          "y": 0,
+          "scaleFactor": 1
+        }
+      },
+      "autoAlignLeftGroup": false,
+      "thirstBarsPercentIndefiniteShow": 100,
+      "showHungerThirstIcons": true,
+      "debugSettings": {
+        "showDebug": false,
+        "showModInitializationMessage": true,
+        "showConfigReloadMessage": true
+      },
+      "widgets": [
+        {
+          "questtracker": {
+            "enabled": false,
+            "showBackground": true,
+            "showObjectives": true,
+            "showTimers": true,
+            "showProgress": true,
+            "x": 820,
+            "y": 180,
+            "scaleFactor": 1
+          },
+          "teammates": {
+            "enabled": true,
+            "showLocalPlayer": false,
+            "bottomToTop": false,
+            "showBackground": false,
+            "showTeamName": true,
+            "showBonus": true,
+            "showPlayerIcons": true,
+            "showAvatarFrames": true,
+            "showAccents": true,
+            "showNames": true,
+            "showTitles": true,
+            "showLevels": true,
+            "showStatus": true,
+            "showHealthBar": true,
+            "showRadsBar": true,
+            "showGlowBar": true,
+            "showBarSegments": true,
+            "showSeparators": false,
+            "showHealthPercentage": true,
+            "showRadsPercentage": true,
+            "showGlowPercentage": true,
+            "x": 5,
+            "y": 670,
+            "scaleFactor": 1
+          },
+          "targetmeter": {
+            "enabled": false,
+            "showStealthMeter": true,
+            "x": 0,
+            "y": 58,
+            "scaleFactor": 1
+          },
+          "activeeffects": {
+            "enabled": true,
+            "showTimedOnly": true,
+            "showMainEffectNamesOnly": false,
+            "excludedEffects": [],
+            "listRemindExpiringEffects": [
+              "Accuracy Boost",
+              "*C[1](CW+) Smoked Mirelurk Fillets",
+              "*C[1](XP+) Tasty Squirrel Stew",
+              "Wisdom of the Mothman",
+              "*C[1](DR+) Mirelurk Jerky",
+              "*C[2](END) Pemmican",
+              "*H[1](APR) Company Tea",
+              "Serum: Adrenal Reaction",
+              "Serum: Bird Bones",
+              "Serum: Carnivore",
+              "Serum: Eagle Eyes",
+              "Serum: Egg Head",
+              "Serum: Grounded",
+              "Serum: Herd Mentality",
+              "Serum: Marsupial",
+              "Serum: Scaly Skin",
+              "Serum: Speed Demon",
+              "Serum: Unstable Isotope",
+              "*C[2](AP+) Cooked Softshell Meat",
+              " · Berry Mentats"
+            ],
+            "remindExpiringEffectsDurationSeconds": 90,
+            "x": -170,
+            "y": -1045,
+            "scaleFactor": 0.7
+          },
+          "pickuphistory": {
+            "enabled": false,
+            "x": -90,
+            "y": -830,
+            "scaleFactor": 1,
+            "alwaysVisible": false,
+            "format": "({pickedUpCount}) {pickedUpText} | {lastPickedUpItemName} ({lastPickedUpItemCount})",
+            "ignoreList": []
+          },
+          "playerslist": {
+            "enabled": false,
+            "showTitles": true,
+            "showNearestMapMarker": true,
+            "x": -90,
+            "y": -120
+          },
+          "playerscount": {
+            "enabled": true,
+            "x": 340,
+            "y": -11
+          },
+          "xp": {
+            "enabled": false,
+            "percentage": true,
+            "scaleFactor": 0.8,
+            "x": 25,
+            "y": -50
+          },
+          "effectstracker": {
+            "enabled": false,
+            "x": -10,
+            "y": -50,
+            "showLunchboxes": true
+          },
+          "vendortracker": {
+            "enabled": true,
+            "x": -280,
+            "y": -1040,
+            "minervaVendor": true
+          },
+          "nukecodes": {
+            "enabled": true,
+            "x": -585,
+            "y": -1040
+          },
+          "weight": {
+            "enabled": true,
+            "x": -10,
+            "y": -35,
+            "scale": 1
+          },
+          "currencies": {
+            "enabled": true,
+            "showOnly": "caps;bullion;stamps;scrips;perks;tadpole;possum",
+            "coloredIcons": true,
+            "vertical": false,
+            "x": -5,
+            "y": -130,
+            "scale": 1
+          },
+          "cores": {
+            "enabled": true,
+            "x": 65,
+            "y": -35
+          },
+          "clock": {
+            "enabled": true,
+            "mode": "server;local",
+            "use24hFormat": true,
+            "x": 150,
+            "y": -35,
+            "scale": 1
+          },
+          "weaponcond": {
+            "enabled": true,
+            "showNames": true,
+            "shortenNames": false,
+            "showWeaponIcon": true,
+            "x": 0,
+            "y": -90,
+            "scale": 1
+          },
+          "stats": {
+            "enabled": true,
+            "vertical": false,
+            "showDiffs": true,
+            "x": -10,
+            "y": -150
+          },
+          "itemmonitor": {
+            "enabled": true,
+            "inline": true,
+            "x": -30,
+            "y": -15,
+            "valueprefix": "",
+            "items": [
+              {
+                "enabled": true,
+                "search": {
+                  "all": [
+                    "Stimpak"
+                  ],
+                  "any": [],
+                  "none": []
+                },
+                "label": "Stimpaks",
+                "valuecolor": "#66ACB7",
+                "labelcolor": "#FFFFCA"
+              },
+              {
+                "enabled": true,
+                "search": {
+                  "all": [
+                    "Nuclear Keycard"
+                  ],
+                  "any": [],
+                  "none": []
+                },
+                "label": "Nuke Cards",
+                "valuecolor": "#39FF14",
+                "labelcolor": "#FFFFCA"
+              },
+              {
+                "enabled": true,
+                "search": {
+                  "all": [
+                    "Wanted Poster"
+                  ],
+                  "any": [],
+                  "none": []
+                },
+                "label": "Wanted Posters",
+                "valuecolor": "#66ACB7",
+                "labelcolor": "#FFFFCA"
+              },
+              {
+                "enabled": true,
+                "search": {
+                  "all": [
+                    "Tocic Goo"
+                  ],
+                  "any": [],
+                  "none": []
+                },
+                "label": "Toxic Goo",
+                "valuecolor": "#D62828",
+                "labelcolor": "#FFFFCA"
+              },
+              {
+                "enabled": false,
+                "search": {
+                  "all": [],
+                  "any": [],
+                  "none": []
+                },
+                "label": "Everything",
+                "valuecolor": "#66ACB7",
+                "labelcolor": "#FFFFCA"
+              }
+            ],
+            "scale": 1
+          }
+        }
+      ],
+      "colors": [
+        {
+          "global": {
+            "special": {
+              "L": "#A19AAC",
+              "A": "#BD9079",
+              "I": "#9A9A80",
+              "C": "#C58B4C",
+              "E": "#66ACB7",
+              "P": "#786D4F",
+              "S": "#779878"
+            },
+            "xp": {
+              "xp_label": "#FFFFCA",
+              "xp_value": "#FFFFCA",
+              "level_value": "#FFFFCA",
+              "level_label": "#FFFFCA"
+            },
+            "nukecodes": {
+              "value": "#66ACB7",
+              "separator": "#FFFFAA",
+              "C": "#FFFFAA",
+              "B": "#FFFFAA",
+              "A": "#FFFFAA"
+            },
+            "teammates": {
+              "dead": "#888888",
+              "down": "#FF9900",
+              "leader": "#FFFFAA",
+              "status": "#DDDDDD",
+              "separator": "#808080",
+              "track": "#33363B",
+              "glow": "#44EE46",
+              "rads": "#FC4542",
+              "health": "#FFFCC9",
+              "level": "#DDDDDD",
+              "name": "#FFFFCA",
+              "bonus": "#44C6FF",
+              "teamName": "#FFFF93",
+              "ghoul": "#54FC42"
+            },
+            "stealthmeter": {
+              "danger": "#FC4542",
+              "caution": "#FF5A1F",
+              "detected": "#FF9900",
+              "hidden": "#888888"
+            },
+            "targetmeter": {
+              "trail": "#FFFFFF",
+              "track": "#33363B",
+              "neutral": "#FFFFCA",
+              "friendly": "#54FC42",
+              "enemy": "#FC4542",
+              "level": "#DDDDDD",
+              "name": "#FFFFCA"
+            },
+            "activeeffects": {
+              "text": "#FFFFAA",
+              "reminder": "#FF4242",
+              "magnitude": "#ABFFAA",
+              "separator": "#FFFFFF",
+              "time": "#DDDDDD"
+            },
+            "weaponcond": "#FFEEAA",
+            "pickuphistoryseparator": "#DDDDDD",
+            "pickuphistory": "#FFFFCA",
+            "playerslist": {
+              "levelbackground": "#000000",
+              "level": "#FFFFCA",
+              "title": "#DDDDDD",
+              "nickname": "#FFFFCA"
+            },
+            "itemmonitor": "#FFFFCA",
+            "vendors": "#FFFFCA",
+            "playerscount": "#DDDDDD",
+            "clock": "#DDDDDD",
+            "cores": "#44EEFF",
+            "currencies": {
+              "maxValue": "#E63E30",
+              "perks": "#FFFFAA",
+              "supplies": "#FFFFAA",
+              "possum": "#FFFFAA",
+              "tadpole": "#FFFFAA",
+              "stamps": "#FFFFAA",
+              "scrips": "#FFFFAA",
+              "bullion": "#FFFFAA",
+              "caps": "#FFFFAA"
+            },
+            "weight": "#FFFFAA",
+            "effects": "#FFFFCA"
+          }
+        }
+      ]
+    }
+  ],
+  "segments": [
+    {
+      "health": true,
+      "hunger": true,
+      "thirst": true,
+      "style": [
+        {
+          "health": "single",
+          "hunger": "full",
+          "thirst": "full"
+        }
+      ]
+    }
+  ],
+  "percentages": [
+    {
+      "glowPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "health": true,
+      "bethhealth": false,
+      "hunger": false,
+      "thirst": false,
+      "feral": true,
+      "glow": true,
+      "postfix": "%"
+    }
+  ],
+  "_XPVAL_": 0
+}
