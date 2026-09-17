@@ -3,8 +3,11 @@
   "xOffset": -340,
   "y": 40,
   "scaleFactor": 1.0,
+  "backgroundOpacity": 0.56,
   "showResistances": true,
+  "showBossBars": true,
+  "bossYOffset": 0,
   "enemyColor": "#C65A46",
   "friendlyColor": "#75B88A",
-  "neutralColor": "#75B88A"
+  "neutralColor": "#CFCBC0"
 }
