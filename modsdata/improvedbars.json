@@ -16,13 +16,23 @@
           "x": 0,
           "y": 0,
           "scaleFactor": 1,
-          "showLabel": true
+          "showLabel": true,
+          "segmentsColor": "#000000",
+          "radiationColor": "#F67259",
+          "glowColor": "#8FE639",
+          "percentageColor": "#FFFFCB",
+          "labelColor": "#FFFFCB",
+          "color": "#FFFFCB"
         },
         "apMeter": {
           "x": 0,
           "y": 0,
           "scaleFactor": 1,
-          "showLabel": true
+          "showLabel": true,
+          "segmentsColor": "#FF0000",
+          "frameColor": "#181C1D",
+          "labelColor": "#FFFFCB",
+          "color": "#FFFFCB"
         },
         "compass": {
           "x": 0,
@@ -33,6 +43,46 @@
           "x": 0,
           "y": 0,
           "scaleFactor": 1
+        },
+        "frobber": {
+          "color": "#F5CB5B",
+          "scaleFactor": 1
+        },
+        "hudMessages": {
+          "scaleFactor": 1
+        },
+        "quickContainer": {
+          "spinnerColor": "#FFFFCB",
+          "buttonHintsColor": "#FFFFCB",
+          "weightIconColor": "#FFFFCB",
+          "weightTextColor": "#FFFFCB",
+          "selectionColor": "#F5CB5B",
+          "selectedItemColor": "#181C1D",
+          "itemColor": "#FFFFCB",
+          "headerColor": "#F5CB5B",
+          "bracketsColor": "#181C1D",
+          "backgroundColor": "#181C1D",
+          "scaleFactor": 1
+        },
+        "feralMeter": {
+          "scaleFactor": 1
+        },
+        "thirstMeter": {
+          "color": "#FFFFCB",
+          "scaleFactor": 1,
+          "y": 0,
+          "x": 0
+        },
+        "hungerMeter": {
+          "color": "#FFFFCB",
+          "scaleFactor": 1,
+          "y": 0,
+          "x": 0
+        },
+        "activeEffectIcons": {
+          "scaleFactor": 1,
+          "y": 0,
+          "x": 0
         }
       },
       "autoAlignLeftGroup": false,
@@ -118,7 +168,8 @@
             "remindExpiringEffectsDurationSeconds": 90,
             "x": -170,
             "y": -1045,
-            "scaleFactor": 0.7
+            "scaleFactor": 0.7,
+            "bottomToTop": false
           },
           "pickuphistory": {
             "enabled": false,
@@ -300,7 +351,9 @@
               "xp_label": "#FFFFCA",
               "xp_value": "#FFFFCA",
               "level_value": "#FFFFCA",
-              "level_label": "#FFFFCA"
+              "level_label": "#FFFFCA",
+              "score_label": "#64C3CA",
+              "score_value": "#FFFFCA"
             },
             "nukecodes": {
               "value": "#66ACB7",
@@ -408,5 +461,5 @@
       "postfix": "%"
     }
   ],
-  "_XPVAL_": 0
+  "_XPVAL_": 66195
 }
