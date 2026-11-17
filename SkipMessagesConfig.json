@@ -45,7 +45,12 @@
 		"$WorkshopCampSlotCollionOnLoad": 0,
 		"Exit Station?": 1,
 		"Inside this package is an unmarked map fragment": 0,
-		".....":0
+		".....":0,
+
+		// Skip fallout 1st popups for scrap/ammo/aid box:
+		"$LimitedTypeStorageError_AidTransferTo": 1,
+		"$LimitedTypeStorageError_AmmoTransferTo": 1,
+		"$LimitedTypeStorageError_ScrapTransferTo": 1
 	},
 	"SkipCustomRegex": {
 		

@@ -1,0 +1,33 @@
+{
+  "schema": 2,
+  "match": "display_name_exact",
+  "defaultAllow": false,
+  "categories": {
+    "weapons": true,
+      "legendaryWeapons": true,
+    "armor": true,
+      "legendaryArmor": true,
+      "powerArmor": true,
+    "apparel": true,
+    "foodDrink": false,
+    "aid": true,
+      "chems": true,
+      "serums": true,
+      "magazinesAndBobbleheads": true,
+      "rewardBoxes": true,
+    "ammo": true,
+    "mods": false,
+      "legendaryMods": true,
+    "notes": false,
+      "plans": true,
+      "treasureMaps": true,
+    "holotapes": false,
+    "junk": false,
+      "taggedJunk": false,
+    "misc": false,
+      "caps": true,
+      "bobbyPins": true
+  },
+  "excludedNames": [],
+  "allowedNames": []
+}
