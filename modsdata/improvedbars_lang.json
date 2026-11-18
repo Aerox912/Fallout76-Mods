@@ -16,5859 +16,1431 @@
       "HUD systems restored. ImprovedBars online. Mortality confirmed across all systems.",
       "HUD systems restored. ImprovedBars online. System note: all outcomes are final.",
       "HUD systems restored. ImprovedBars online. Warning: existence remains unstable."
-    ],
-    "pl": [
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Autor: DCHoaxer.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Wolność pozostaje operacyjna.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Demokracja zabezpieczona przez stabilność.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Integralność strukturalna: utrzymana pod presją.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Cel: dalsze istnienie.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Kondycja człowieka: nieefektywna, lecz trwała.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Pokój to kontrolowany stan systemu.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Protokół Liberty egzekwowany.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Środowisko wrogie: standardowe.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Stabilność systemu potwierdzona.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Prawdopodobieństwo przeżycia: statystycznie nieistotne.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Błąd ludzki: stały.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Śmiertelność potwierdzona we wszystkich systemach.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Uwaga systemowa: wszystkie wyniki są ostateczne.",
-      "Systemy HUD przywrócone. ImprovedBars aktywny. Ostrzeżenie: stabilność istnienia zachwiana."
-    ],
-    "de": [
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Entwickler: DCHoaxer.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Freiheit bleibt betriebsbereit.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Demokratie durch Stabilität gesichert.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Strukturelle Integrität: unter Druck erhalten.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Ziel: fortgesetzte Existenz.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Menschlicher Zustand: ineffizient, aber stabil.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Frieden ist ein kontrollierter Systemzustand.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Liberty-Protokoll durchgesetzt.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Feindliche Umgebung: Standard.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Systemstabilität bestätigt.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Überlebenswahrscheinlichkeit: statistisch irrelevant.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Menschlicher Fehler: persistent.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Mortalität in allen Systemen bestätigt.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Systemhinweis: alle Ergebnisse sind final.",
-      "HUD-Systeme wiederhergestellt. ImprovedBars aktiv. Warnung: Existenz instabil."
-    ],
-    "fr": [
-      "Systèmes HUD restaurés. ImprovedBars en ligne. Développeur : DCHoaxer.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. La liberté reste opérationnelle.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. La démocratie est sécurisée par la stabilité.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. Intégrité structurelle : maintenue sous pression.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. Objectif : existence continue.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. Condition humaine : inefficace mais persistante.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. La paix est un état système contrôlé.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. Protocole Liberty appliqué.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. Environnement hostile : standard.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. Stabilité du système confirmée.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. Probabilité de survie : négligeable.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. Erreur humaine : persistante.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. Mortalité confirmée dans tous les systèmes.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. Note système : tous les résultats sont définitifs.",
-      "Systèmes HUD restaurés. ImprovedBars en ligne. Avertissement : existence instable."
-    ],
-    "it": [
-      "Sistemi HUD ripristinati. ImprovedBars attivo. Sviluppatore: DCHoaxer.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. La libertà rimane operativa.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. La democrazia è garantita dalla stabilità.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. Integrità strutturale: mantenuta sotto pressione.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. Obiettivo: esistenza continua.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. Condizione umana: inefficiente ma persistente.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. La pace è uno stato di sistema controllato.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. Protocollo Liberty applicato.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. Ambiente ostile: standard.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. Stabilità del sistema confermata.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. Probabilità di sopravvivenza: irrilevante.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. Errore umano: persistente.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. Mortalità confermata in tutti i sistemi.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. Nota di sistema: tutti gli esiti sono definitivi.",
-      "Sistemi HUD ripristinati. ImprovedBars attivo. Avviso: esistenza instabile."
-    ],
-    "es": [
-      "Sistemas HUD restaurados. ImprovedBars en línea. Desarrollador: DCHoaxer.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. La libertad sigue operativa.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. La democracia está asegurada por la estabilidad.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. Integridad estructural: mantenida bajo presión.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. Objetivo: existencia continua.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. Condición humana: ineficiente pero persistente.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. La paz es un estado de sistema controlado.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. Protocolo Liberty aplicado.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. Entorno hostil: estándar.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. Estabilidad del sistema confirmada.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. Probabilidad de supervivencia: irrelevante.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. Error humano: persistente.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. Mortalidad confirmada en todos los sistemas.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. Nota del sistema: todos los resultados son finales.",
-      "Sistemas HUD restaurados. ImprovedBars en línea. Advertencia: existencia inestable."
-    ],
-    "ru": [
-      "Системы HUD восстановлены. ImprovedBars активен. Разработчик: DCHoaxer.",
-      "Системы HUD восстановлены. ImprovedBars активен. Свобода остаётся активной.",
-      "Системы HUD восстановлены. ImprovedBars активен. Демократия обеспечивается стабильностью.",
-      "Системы HUD восстановлены. ImprovedBars активен. Целостность системы: сохранена под давлением.",
-      "Системы HUD восстановлены. ImprovedBars активен. Цель: продолжение существования.",
-      "Системы HUD восстановлены. ImprovedBars активен. Человеческое состояние: неэффективно, но устойчиво.",
-      "Системы HUD восстановлены. ImprovedBars активен. Мир — контролируемое состояние системы.",
-      "Системы HUD восстановлены. ImprovedBars активен. Протокол Liberty применяется.",
-      "Системы HUD восстановлены. ImprovedBars активен. Враждебная среда: стандарт.",
-      "Системы HUD восстановлены. ImprovedBars активен. Стабильность системы подтверждена.",
-      "Системы HUD восстановлены. ImprovedBars активен. Вероятность выживания: несущественна.",
-      "Системы HUD восстановлены. ImprovedBars активен. Человеческая ошибка: постоянна.",
-      "Системы HUD восстановлены. ImprovedBars активен. Смертность подтверждена во всех системах.",
-      "Системы HUD восстановлены. ImprovedBars активен. Системное примечание: все исходы окончательны.",
-      "Системы HUD восстановлены. ImprovedBars активен. Предупреждение: нестабильность существования."
-    ],
-    "zh": [
-      "HUD 系统已恢复。ImprovedBars 已上线。开发者：DCHoaxer。",
-      "HUD 系统已恢复。ImprovedBars 已上线。自由保持运行。",
-      "HUD 系统已恢复。ImprovedBars 已上线。结构稳定性由系统保障。",
-      "HUD 系统已恢复。ImprovedBars 已上线。结构完整性：在压力下维持。",
-      "HUD 系统已恢复。ImprovedBars 已上线。目标：持续存在。",
-      "HUD 系统已恢复。ImprovedBars 已上线。人类状态：低效但持续。",
-      "HUD 系统已恢复。ImprovedBars 已上线。和平是受控系统状态。",
-      "HUD 系统已恢复。ImprovedBars 已上线。协议已执行。",
-      "HUD 系统已恢复。ImprovedBars 已上线。敌对环境：标准。",
-      "HUD 系统已恢复。ImprovedBars 已上线。系统稳定性已确认。",
-      "HUD 系统已恢复。ImprovedBars 已上线。生存概率：无意义。",
-      "HUD 系统已恢复。ImprovedBars 已上线。人类错误：持续存在。",
-      "HUD 系统已恢复。ImprovedBars 已上线。系统性风险已确认。",
-      "HUD 系统已恢复。ImprovedBars 已上线。系统提示：所有结果均为最终结果。",
-      "HUD 系统已恢复。ImprovedBars 已上线。警告：存在不稳定。"
-    ],
-    "zh2": [
-      "HUD 系統已恢復。ImprovedBars 已上線。開發者：DCHoaxer。",
-      "HUD 系統已恢復。ImprovedBars 已上線。自由持續運作。",
-      "HUD 系統已恢復。ImprovedBars 已上線。結構穩定性由系統保障。",
-      "HUD 系統已恢復。ImprovedBars 已上線。結構完整性：在壓力下維持。",
-      "HUD 系統已恢復。ImprovedBars 已上線。目標：持續存在。",
-      "HUD 系統已恢復。ImprovedBars 已上線。人類狀態：低效但持續。",
-      "HUD 系統已恢復。ImprovedBars 已上線。和平是受控系統狀態。",
-      "HUD 系統已恢復。ImprovedBars 已上線。協議已執行。",
-      "HUD 系統已恢復。ImprovedBars 已上線。敵對環境：標準。",
-      "HUD 系統已恢復。ImprovedBars 已上線。系統穩定性已確認。",
-      "HUD 系統已恢復。ImprovedBars 已上線。生存機率：無意義。",
-      "HUD 系統已恢復。ImprovedBars 已上線。人類錯誤：持續存在。",
-      "HUD 系統已恢復。ImprovedBars 已上線。系統性風險已確認。",
-      "HUD 系統已恢復。ImprovedBars 已上線。系統提示：所有結果均為最終結果。",
-      "HUD 系統已恢復。ImprovedBars 已上線。警告：存在不穩定。"
-    ],
-    "pt": [
-      "Sistemas do HUD restaurados. ImprovedBars online. Desenvolvedor: DCHoaxer.",
-      "Sistemas do HUD restaurados. ImprovedBars online. A liberdade continua operacional.",
-      "Sistemas do HUD restaurados. ImprovedBars online. A democracia é garantida pela estabilidade.",
-      "Sistemas do HUD restaurados. ImprovedBars online. Integridade estrutural: mantida sob pressão.",
-      "Sistemas do HUD restaurados. ImprovedBars online. Objetivo: continuar existindo.",
-      "Sistemas do HUD restaurados. ImprovedBars online. Condição humana: ineficiente, mas persistente.",
-      "Sistemas do HUD restaurados. ImprovedBars online. A paz é um estado controlado do sistema.",
-      "Sistemas do HUD restaurados. ImprovedBars online. Protocolo de liberdade aplicado.",
-      "Sistemas do HUD restaurados. ImprovedBars online. Ambiente hostil: padrão.",
-      "Sistemas do HUD restaurados. ImprovedBars online. Estabilidade do sistema confirmada.",
-      "Sistemas do HUD restaurados. ImprovedBars online. Probabilidade de sobrevivência: estatisticamente irrelevante.",
-      "Sistemas do HUD restaurados. ImprovedBars online. Taxa de erro humano: persistente.",
-      "Sistemas do HUD restaurados. ImprovedBars online. Mortalidade confirmada em todos os sistemas.",
-      "Sistemas do HUD restaurados. ImprovedBars online. Nota do sistema: todos os resultados são definitivos.",
-      "Sistemas do HUD restaurados. ImprovedBars online. Aviso: a existência continua instável."
     ]
   },
   "minerva_available": {
-    "en": "Minerva is available in {location}\nfor {time}!",
-    "pl": "Minerva jest dostępna w {location}\nprzez {time}!",
-    "de": "Minerva ist in {location}\nfür {time} verfügbar!",
-    "fr": "Minerva est disponible à {location}\npendant {time}!",
-    "it": "Minerva è disponibile in {location}\nper {time}!",
-    "es": "¡Minerva está disponible en {location}\ndurante {time}!",
-    "ru": "Минерва доступна в {location}\nв течение {time}!",
-    "zh": "Minerva 在 {location}\n可用 {time}！",
-    "zh2": "Minerva 會在 {location}\n停留 {time}！",
-    "pt": "Minerva está em {location}\ndaqui a {time}!"
+    "en": "Minerva is available in {location}\nfor {time}!"
   },
   "minerva_in": {
-    "en": "Minerva at {location}\nin {time}",
-    "pl": "Minerva za {time}\nw {location}",
-    "de": "Minerva in {time}\nin {location}",
-    "fr": "Minerva dans {time}\nà {location}",
-    "it": "Minerva tra {time}\nin {location}",
-    "es": "Minerva en {time}\nen {location}",
-    "ru": "Минерва через {time}\nв {location}",
-    "zh": "米涅瓦将在 {time}\n于 {location}",
-    "zh2": "米涅瓦將在 {time} 後\n抵達 {location}",
-    "pt": "Minerva estará em {location}\nem {time}"
+    "en": "Minerva at {location}\nin {time}"
   },
   "minerva_location_0": {
-    "en": "Foundation",
-    "pl": "Fundacja",
-    "de": "Foundation",
-    "fr": "Fondation",
-    "it": "Fondazione",
-    "es": "Fundación",
-    "ru": "Фондэйшн",
-    "zh": "基金会",
-    "zh2": "創建會",
-    "pt": "Fundação"
+    "en": "Foundation"
   },
   "minerva_location_1": {
-    "en": "Crater",
-    "pl": "Krater",
-    "de": "Krater",
-    "fr": "Cratère",
-    "it": "Crateri",
-    "es": "Cráter",
-    "ru": "Кратер",
-    "zh": "陨石坑",
-    "zh2": "大坑洞",
-    "pt": "Cratera"
+    "en": "Crater"
   },
   "minerva_location_2": {
-    "en": "Fort Atlas",
-    "pl": "Fort Atlas",
-    "de": "Fort Atlas",
-    "fr": "Fort Atlas",
-    "it": "Forte Atlas",
-    "es": "Fuerte Atlas",
-    "ru": "Форт Атлас",
-    "zh": "阿特拉斯堡",
-    "zh2": "阿特拉斯堡",
-    "pt": "Forte Atlas"
+    "en": "Fort Atlas"
   },
   "minerva_location_3": {
-    "en": "Whitespring",
-    "pl": "Whitespring",
-    "de": "Whitespring",
-    "fr": "Whitespring",
-    "it": "Whitespring",
-    "es": "Whitespring",
-    "ru": "Уайтспринг",
-    "zh": "怀特斯普林斯",
-    "zh2": "白泉",
-    "pt": "Whitespring"
+    "en": "Whitespring"
   },
   "time_local": {
-    "en": "Local",
-    "pl": "Lok.",
-    "de": "Lokal",
-    "fr": "Local",
-    "it": "Locale",
-    "es": "Local",
-    "ru": "Мест.",
-    "zh": "本地",
-    "zh2": "本機",
-    "pt": "Local"
+    "en": "Local"
   },
   "clock_location_wilderness": {
-    "en": "Appalachia",
-    "pl": "Appalachia",
-    "de": "Appalachia",
-    "fr": "Appalaches",
-    "it": "Appalachia",
-    "es": "Apalachia",
-    "ru": "Аппалачия",
-    "zh": "阿帕拉契亚",
-    "zh2": "阿帕拉契",
-    "pt": "Appalachia"
+    "en": "Appalachia"
   },
   "time_open_radio_to_sync": {
-    "en": "Open radio to sync",
-    "pl": "Otwórz radio, aby zsynchronizować",
-    "de": "Radio öffnen, um zu synchronisieren",
-    "fr": "Ouvrez la radio pour synchroniser",
-    "it": "Apri la radio per sincronizzare",
-    "es": "Abre la radio para sincronizar",
-    "ru": "Откройте радио для синхронизации",
-    "zh": "打开电台以同步",
-    "zh2": "開啟電台以同步",
-    "pt": "Abra o rádio para sincronizar"
+    "en": "Open radio to sync"
   },
   "special_s": {
-    "en": "STR",
-    "pl": "SIŁ",
-    "de": "STÄ",
-    "fr": "FOR",
-    "it": "FOR",
-    "es": "FUE",
-    "ru": "СИЛ",
-    "zh": "力",
-    "zh2": "力",
-    "pt": "FOR"
+    "en": "STR"
   },
   "special_p": {
-    "en": "PER",
-    "pl": "PER",
-    "de": "WAA",
-    "fr": "PER",
-    "it": "PER",
-    "es": "PER",
-    "ru": "ВОС",
-    "zh": "感",
-    "zh2": "感",
-    "pt": "PER"
+    "en": "PER"
   },
   "special_e": {
-    "en": "END",
-    "pl": "WYT",
-    "de": "AUS",
-    "fr": "END",
-    "it": "RES",
-    "es": "RES",
-    "ru": "ВЫН",
-    "zh": "耐",
-    "zh2": "耐",
-    "pt": "RES"
+    "en": "END"
   },
   "special_c": {
-    "en": "CHA",
-    "pl": "CHA",
-    "de": "CHA",
-    "fr": "CHA",
-    "it": "CAR",
-    "es": "CAR",
-    "ru": "ХАР",
-    "zh": "魅",
-    "zh2": "魅",
-    "pt": "CAR"
+    "en": "CHA"
   },
   "special_i": {
-    "en": "INT",
-    "pl": "INT",
-    "de": "INT",
-    "fr": "INT",
-    "it": "INT",
-    "es": "INT",
-    "ru": "ИНТ",
-    "zh": "智",
-    "zh2": "智",
-    "pt": "INT"
+    "en": "INT"
   },
   "special_a": {
-    "en": "AGL",
-    "pl": "ZRĘ",
-    "de": "BEW",
-    "fr": "AGI",
-    "it": "AGI",
-    "es": "AGI",
-    "ru": "ЛОВ",
-    "zh": "敏",
-    "zh2": "敏",
-    "pt": "AGI"
+    "en": "AGL"
   },
   "special_l": {
-    "en": "LCK",
-    "pl": "SZC",
-    "de": "GLÜ",
-    "fr": "CHC",
-    "it": "FOR",
-    "es": "SUE",
-    "ru": "УДА",
-    "zh": "运",
-    "zh2": "運",
-    "pt": "SOR"
+    "en": "LCK"
   },
   "days": {
-    "en": "Days",
-    "pl": "Dni",
-    "de": "Tage",
-    "fr": "Jours",
-    "it": "Giorni",
-    "es": "Días",
-    "ru": "Дни",
-    "zh": "天",
-    "zh2": "天",
-    "pt": "Dias"
+    "en": "Days"
   },
   "hours": {
-    "en": "Hours",
-    "pl": "Godziny",
-    "de": "Stunden",
-    "fr": "Heures",
-    "it": "Ore",
-    "es": "Horas",
-    "ru": "Часы",
-    "zh": "小时",
-    "zh2": "小時",
-    "pt": "Horas"
+    "en": "Hours"
   },
   "minutes_s": {
-    "en": "Min",
-    "pl": "Min",
-    "de": "Min",
-    "fr": "Min",
-    "it": "Min",
-    "es": "Min",
-    "ru": "Мин",
-    "zh": "分钟",
-    "zh2": "分鐘",
-    "pt": "Min"
+    "en": "Min"
   },
   "found": {
-    "en": "Found",
-    "pl": "Znaleziono",
-    "de": "Gefunden",
-    "fr": "Trouvé",
-    "it": "Trovato",
-    "es": "Encontrado",
-    "ru": "Найдено",
-    "zh": "已找到",
-    "zh2": "已找到",
-    "pt": "Encontrado"
+    "en": "Found"
   },
   "not_found": {
-    "en": "Not found",
-    "pl": "Nie znaleziono",
-    "de": "Nicht gefunden",
-    "fr": "Introuvable",
-    "it": "Non trovato",
-    "es": "No encontrado",
-    "ru": "Не найдено",
-    "zh": "未找到",
-    "zh2": "未找到",
-    "pt": "Não encontrado"
+    "en": "Not found"
   },
   "version": {
-    "en": "Version",
-    "pl": "Wersja",
-    "de": "Version",
-    "fr": "Version",
-    "it": "Versione",
-    "es": "Versión",
-    "ru": "Версия",
-    "zh": "版本",
-    "zh2": "版本",
-    "pt": "Versão"
+    "en": "Version"
   },
   "team_window_title": {
-    "en": "Manage a Team",
-    "pl": "Zarządzaj drużyną",
-    "de": "Team verwalten",
-    "fr": "Gérer une équipe",
-    "it": "Gestisci squadra",
-    "es": "Gestionar equipo",
-    "ru": "Управление командой",
-    "zh": "管理队伍",
-    "zh2": "管理隊伍",
-    "pt": "Gerenciar equipe"
+    "en": "Manage a Team"
   },
   "team_window_raids": {
-    "en": "Raids",
-    "pl": "Rajdy",
-    "de": "Raids",
-    "fr": "Raids",
-    "it": "Incursioni",
-    "es": "Incursiones",
-    "ru": "Рейды",
-    "zh": "突袭",
-    "zh2": "突襲",
-    "pt": "Raid"
+    "en": "Raids"
   },
   "team_window_casual": {
-    "en": "Casual",
-    "pl": "Swobodna",
-    "de": "Locker",
-    "fr": "Détente",
-    "it": "Occasionale",
-    "es": "Informal",
-    "ru": "Обычная",
-    "zh": "休闲",
-    "zh2": "休閒",
-    "pt": "Casual"
+    "en": "Casual"
   },
   "team_window_exploration": {
-    "en": "Exploration",
-    "pl": "Eksploracja",
-    "de": "Erkundung",
-    "fr": "Exploration",
-    "it": "Esplorazione",
-    "es": "Exploración",
-    "ru": "Исследование",
-    "zh": "探索",
-    "zh2": "探索",
-    "pt": "Exploração"
+    "en": "Exploration"
   },
   "team_window_roleplay": {
-    "en": "Roleplay",
-    "pl": "Odgrywanie ról",
-    "de": "Rollenspiel",
-    "fr": "Jeu de rôle",
-    "it": "Gioco di ruolo",
-    "es": "Juego de rol",
-    "ru": "Ролевая игра",
-    "zh": "角色扮演",
-    "zh2": "角色扮演",
-    "pt": "Interpretação"
+    "en": "Roleplay"
   },
   "team_window_building": {
-    "en": "Building",
-    "pl": "Budowanie",
-    "de": "Bauen",
-    "fr": "Construction",
-    "it": "Costruzione",
-    "es": "Construcción",
-    "ru": "Строительство",
-    "zh": "建造",
-    "zh2": "建造",
-    "pt": "Construção"
+    "en": "Building"
   },
   "team_window_hunting": {
-    "en": "Hunting",
-    "pl": "Polowanie",
-    "de": "Jagd",
-    "fr": "Chasse",
-    "it": "Caccia",
-    "es": "Caza",
-    "ru": "Охота",
-    "zh": "狩猎",
-    "zh2": "狩獵",
-    "pt": "Caça"
+    "en": "Hunting"
   },
   "team_window_leave": {
-    "en": "Leave Team",
-    "pl": "Opuść drużynę",
-    "de": "Team verlassen",
-    "fr": "Quitter l'équipe",
-    "it": "Lascia squadra",
-    "es": "Abandonar equipo",
-    "ru": "Покинуть команду",
-    "zh": "离开队伍",
-    "zh2": "離開隊伍",
-    "pt": "Sair da equipe"
+    "en": "Leave Team"
   },
   "team_window_instructions": {
-    "en": "UP/DOWN SELECT   ENTER CONFIRM   {key} CLOSE",
-    "pl": "GÓRA/DÓŁ WYBIERZ   ENTER POTWIERDŹ   {key} ZAMKNIJ",
-    "de": "HOCH/RUNTER WÄHLEN   ENTER BESTÄTIGEN   {key} SCHLIESSEN",
-    "fr": "HAUT/BAS SÉLECTIONNER   ENTRÉE CONFIRMER   {key} FERMER",
-    "it": "SU/GIÙ SELEZIONA   INVIO CONFERMA   {key} CHIUDI",
-    "es": "ARRIBA/ABAJO ELEGIR   INTRO CONFIRMAR   {key} CERRAR",
-    "ru": "ВВЕРХ/ВНИЗ ВЫБОР   ENTER ПОДТВЕРДИТЬ   {key} ЗАКРЫТЬ",
-    "zh": "上/下 选择   回车 确认   {key} 关闭",
-    "zh2": "上/下 選擇   ENTER 確認   {key} 關閉",
-    "pt": "CIMA/BAIXO: SELECIONAR   ENTER: CONFIRMAR   {key}: FECHAR"
+    "en": "UP/DOWN SELECT   ENTER CONFIRM   {key} CLOSE"
   },
   "menu_teams_social": {
-    "en": "Teams and Social",
-    "pl": "Drużyny i społeczność",
-    "de": "Teams und Soziales",
-    "fr": "Équipes et social",
-    "it": "Squadre e social",
-    "es": "Equipos y social",
-    "ru": "Команды и общение",
-    "zh": "队伍与社交",
-    "zh2": "隊伍與社交",
-    "pt": "Equipes e social"
+    "en": "Teams and Social"
   },
   "menu_auto_join_team": {
-    "en": "Auto-join team on server entry",
-    "pl": "Dołącz do drużyny po wejściu na serwer",
-    "de": "Beim Serverbeitritt einem Team beitreten",
-    "fr": "Rejoindre une équipe à l'entrée du serveur",
-    "it": "Unisciti a una squadra all'ingresso",
-    "es": "Unirse a un equipo al entrar al servidor",
-    "ru": "Вступать в команду при входе на сервер",
-    "zh": "进入服务器时自动加入队伍",
-    "zh2": "進入伺服器時自動加入隊伍",
-    "pt": "Entrar automaticamente em uma equipe ao conectar-se ao servidor"
+    "en": "Auto-join team on server entry"
   },
   "menu_preferred_team_type": {
-    "en": "Preferred team type",
-    "pl": "Preferowany typ drużyny",
-    "de": "Bevorzugter Teamtyp",
-    "fr": "Type d'équipe préféré",
-    "it": "Tipo di squadra preferito",
-    "es": "Tipo de equipo preferido",
-    "ru": "Предпочтительный тип команды",
-    "zh": "首选队伍类型",
-    "zh2": "偏好隊伍類型",
-    "pt": "Tipo de equipe preferido"
+    "en": "Preferred team type"
   },
   "menu_auto_join_no_team": {
-    "en": "If no team can be joined",
-    "pl": "Gdy brak drużyny do dołączenia",
-    "de": "Wenn kein Team verfügbar ist",
-    "fr": "Si aucune équipe n'est disponible",
-    "it": "Se nessuna squadra è disponibile",
-    "es": "Si no hay equipo disponible",
-    "ru": "Если вступить некуда",
-    "zh": "无可加入队伍时",
-    "zh2": "無可加入隊伍時",
-    "pt": "Se não for possível entrar em uma equipe"
+    "en": "If no team can be joined"
   },
   "menu_auto_join_do_nothing": {
-    "en": "Do nothing",
-    "pl": "Nic nie rób",
-    "de": "Nichts tun",
-    "fr": "Ne rien faire",
-    "it": "Non fare nulla",
-    "es": "No hacer nada",
-    "ru": "Ничего не делать",
-    "zh": "不执行操作",
-    "zh2": "不執行操作",
-    "pt": "Não fazer nada"
+    "en": "Do nothing"
   },
   "menu_auto_join_create": {
-    "en": "Create team",
-    "pl": "Utwórz drużynę",
-    "de": "Team erstellen",
-    "fr": "Créer une équipe",
-    "it": "Crea squadra",
-    "es": "Crear equipo",
-    "ru": "Создать команду",
-    "zh": "创建队伍",
-    "zh2": "建立隊伍",
-    "pt": "Criar equipe"
+    "en": "Create team"
   },
   "auto_join_joining": {
-    "en": "Auto-join: joining a {type} team.",
-    "pl": "Auto-dołączanie: dołączanie do drużyny ({type}).",
-    "de": "Auto-Beitritt: Trete einem Team bei ({type}).",
-    "fr": "Adhésion auto : connexion à une équipe ({type}).",
-    "it": "Ingresso automatico: ingresso in una squadra ({type}).",
-    "es": "Unión automática: uniéndose a un equipo ({type}).",
-    "ru": "Автовступление: вступление в команду ({type}).",
-    "zh": "自动加入：正在加入{type}队伍。",
-    "zh2": "自動加入：正在加入{type}隊伍。",
-    "pt": "Entrada automática: entrando em uma equipe do tipo {type}."
+    "en": "Auto-join: joining a {type} team."
   },
   "auto_join_rejoining": {
-    "en": "Auto-join: rejoining your previous team.",
-    "pl": "Auto-dołączanie: powrót do poprzedniej drużyny.",
-    "de": "Auto-Beitritt: Trete deinem vorherigen Team erneut bei.",
-    "fr": "Adhésion auto : retour dans votre équipe précédente.",
-    "it": "Ingresso automatico: rientro nella squadra precedente.",
-    "es": "Unión automática: volviendo a tu equipo anterior.",
-    "ru": "Автовступление: возврат в прежнюю команду.",
-    "zh": "自动加入：正在重新加入之前的队伍。",
-    "zh2": "自動加入：正在重新加入先前的隊伍。",
-    "pt": "Entrada automática: voltando à equipe anterior."
+    "en": "Auto-join: rejoining your previous team."
   },
   "auto_join_creating": {
-    "en": "Auto-join: no team to join ({type}); creating one.",
-    "pl": "Auto-dołączanie: brak drużyny do dołączenia ({type}); tworzenie nowej.",
-    "de": "Auto-Beitritt: Kein Team verfügbar ({type}); erstelle eines.",
-    "fr": "Adhésion auto : aucune équipe disponible ({type}) ; création d'une équipe.",
-    "it": "Ingresso automatico: nessuna squadra disponibile ({type}); creazione in corso.",
-    "es": "Unión automática: no hay equipo disponible ({type}); creando uno.",
-    "ru": "Автовступление: нет доступной команды ({type}); создание новой.",
-    "zh": "自动加入：没有可加入的{type}队伍，正在创建。",
-    "zh2": "自動加入：沒有可加入的{type}隊伍，正在建立。",
-    "pt": "Entrada automática: nenhuma equipe disponível ({type}); criando uma."
+    "en": "Auto-join: no team to join ({type}); creating one."
   },
   "auto_join_none_found": {
-    "en": "Auto-join: no team to join ({type}).",
-    "pl": "Auto-dołączanie: brak drużyny do dołączenia ({type}).",
-    "de": "Auto-Beitritt: Kein Team verfügbar ({type}).",
-    "fr": "Adhésion auto : aucune équipe disponible ({type}).",
-    "it": "Ingresso automatico: nessuna squadra disponibile ({type}).",
-    "es": "Unión automática: no hay equipo disponible ({type}).",
-    "ru": "Автовступление: нет доступной команды ({type}).",
-    "zh": "自动加入：没有可加入的{type}队伍。",
-    "zh2": "自動加入：沒有可加入的{type}隊伍。",
-    "pt": "Entrada automática: nenhuma equipe disponível ({type})."
+    "en": "Auto-join: no team to join ({type})."
   },
   "menu_version": {
-    "en": "Version",
-    "pl": "Wersja",
-    "de": "Version",
-    "fr": "Version",
-    "it": "Versione",
-    "es": "Versión",
-    "ru": "Версия",
-    "zh": "版本",
-    "zh2": "版本",
-    "pt": "Versão"
+    "en": "Version"
   },
   "menu_no_sfe": {
-    "en": "No extender: Changes won't be saved!",
-    "pl": "Brak rozszerzenia: zmiany nie zostaną zapisane!",
-    "de": "Kein Extender: Änderungen werden nicht gespeichert!",
-    "fr": "Aucune extension : les modifications ne seront pas enregistrées !",
-    "it": "Nessun extender: le modifiche non saranno salvate!",
-    "es": "Sin extensor: los cambios no se guardarán!",
-    "ru": "Нет расширителя: изменения не будут сохранены!",
-    "zh": "没有扩展器：更改不会保存！",
-    "zh2": "沒有擴充套件：變更不會儲存！",
-    "pt": "Extensor não detectado: as alterações não serão salvas!"
+    "en": "No extender: Changes won't be saved!"
   },
   "menu_sfe_status": {
-    "en": "Extender status",
-    "pl": "Status rozszerzenia",
-    "de": "Extender-Status",
-    "fr": "État de l’extension",
-    "it": "Stato extender",
-    "es": "Estado del extensor",
-    "ru": "Статус расширителя",
-    "zh": "扩展器状态",
-    "zh2": "擴充套件狀態",
-    "pt": "Status do extensor"
+    "en": "Extender status"
   },
   "menu_debug_settings": {
-    "en": "Debug settings",
-    "pl": "Ustawienia debugowania",
-    "de": "Debug-Einstellungen",
-    "fr": "Paramètres de débogage",
-    "it": "Impostazioni debug",
-    "es": "Configuración de depuración",
-    "ru": "Настройки отладки",
-    "zh": "调试设置",
-    "zh2": "偵錯設定",
-    "pt": "Configurações de depuração"
+    "en": "Debug settings"
   },
   "menu_language": {
-    "en": "Language",
-    "pl": "Język",
-    "de": "Sprache",
-    "fr": "Langue",
-    "it": "Lingua",
-    "es": "Idioma",
-    "ru": "Язык",
-    "zh": "语言",
-    "zh2": "語言",
-    "pt": "Idioma"
+    "en": "Language"
   },
   "menu_nuke_codes": {
-    "en": "Nuke codes",
-    "pl": "Kody nuklearne",
-    "de": "Atomcodes",
-    "fr": "Codes nucléaires",
-    "it": "Codici nucleari",
-    "es": "Códigos nucleares",
-    "ru": "Коды ядерных",
-    "zh": "核弹密码",
-    "zh2": "核彈密碼",
-    "pt": "Códigos de lançamento nuclear"
+    "en": "Nuke codes"
   },
   "menu_segments": {
-    "en": "Segments",
-    "pl": "Segmenty",
-    "de": "Segmente",
-    "fr": "Segments",
-    "it": "Segmenti",
-    "es": "Segmentos",
-    "ru": "Сегменты",
-    "zh": "分段",
-    "zh2": "分段",
-    "pt": "Segmentos"
+    "en": "Segments"
   },
   "menu_profiles": {
-    "en": "Editor mode",
-    "pl": "Tryb edytora",
-    "de": "Editormodus",
-    "fr": "Mode éditeur",
-    "it": "Modalità editor",
-    "es": "Modo de editor",
-    "ru": "Режим редактора",
-    "zh": "编辑器模式",
-    "zh2": "編輯器模式",
-    "pt": "Modo de editor"
+    "en": "Editor mode"
   },
   "profile_improved": {
-    "en": "Standard",
-    "pl": "Standardowy",
-    "de": "Standard",
-    "fr": "Standard",
-    "it": "Standard",
-    "es": "Estándar",
-    "ru": "Стандартный",
-    "zh": "标准",
-    "zh2": "標準",
-    "pt": "Padrão"
+    "en": "Standard"
   },
   "profile_vanilla": {
-    "en": "Custom",
-    "pl": "Własny",
-    "de": "Benutzerdefiniert",
-    "fr": "Personnalisé",
-    "it": "Personalizzato",
-    "es": "Personalizado",
-    "ru": "Пользовательский",
-    "zh": "自定义",
-    "zh2": "自訂",
-    "pt": "Personalizado"
+    "en": "Custom"
   },
   "menu_weight": {
-    "en": "Weight",
-    "pl": "Waga",
-    "de": "Gewicht",
-    "fr": "Poids",
-    "it": "Peso",
-    "es": "Peso",
-    "ru": "Вес",
-    "zh": "重量",
-    "zh2": "重量",
-    "pt": "Peso"
+    "en": "Weight"
   },
   "menu_currencies": {
-    "en": "Currencies",
-    "pl": "Waluty",
-    "de": "Währungen",
-    "fr": "Devises",
-    "it": "Valute",
-    "es": "Monedas",
-    "ru": "Валюты",
-    "zh": "货币",
-    "zh2": "貨幣",
-    "pt": "Moedas"
+    "en": "Currencies"
   },
   "menu_cores": {
-    "en": "Cores",
-    "pl": "Rdzenie",
-    "de": "Kerne",
-    "fr": "Cœurs",
-    "it": "Nuclei",
-    "es": "Núcleos",
-    "ru": "Ядра",
-    "zh": "核心",
-    "zh2": "核心",
-    "pt": "Núcleos"
+    "en": "Cores"
   },
   "menu_clock": {
-    "en": "Clock",
-    "pl": "Zegar",
-    "de": "Uhr",
-    "fr": "Horloge",
-    "it": "Orologio",
-    "es": "Reloj",
-    "ru": "Часы",
-    "zh": "时钟",
-    "zh2": "時鐘",
-    "pt": "Relógio"
+    "en": "Clock"
   },
   "menu_weapon_condition": {
-    "en": "Weapon status",
-    "pl": "Status broni",
-    "de": "Waffenstatus",
-    "fr": "Statut de l'arme",
-    "it": "Stato dell'arma",
-    "es": "Estado del arma",
-    "ru": "Статус оружия",
-    "zh": "武器状态",
-    "zh2": "武器狀態",
-    "pt": "Estado da arma"
+    "en": "Weapon status"
   },
   "menu_special": {
-    "en": "SPECIAL",
-    "pl": "SPECIAL",
-    "de": "SPECIAL",
-    "fr": "SPECIAL",
-    "it": "SPECIAL",
-    "es": "SPECIAL",
-    "ru": "SPECIAL",
-    "zh": "SPECIAL",
-    "zh2": "SPECIAL",
-    "pt": "S.P.E.C.I.A.L"
+    "en": "SPECIAL"
   },
   "menu_autoalign": {
-    "en": "Auto Align",
-    "pl": "Automatyczne wyrównanie",
-    "de": "Automatische Ausrichtung",
-    "fr": "Alignement automatique",
-    "it": "Allineamento automatico",
-    "es": "Alineación automática",
-    "ru": "Автовыравнивание",
-    "zh": "自动对齐",
-    "zh2": "自動對齊",
-    "pt": "Alinhamento automático"
+    "en": "Auto Align"
   },
   "menu_show_hunger_thirst_icons": {
-    "en": "Show Hunger & Thirst Icons",
-    "pl": "Pokaż ikony głodu i pragnienia",
-    "de": "Hunger- und Durst-Icons anzeigen",
-    "fr": "Afficher les icônes de faim et de soif",
-    "it": "Mostra icone fame e sete",
-    "es": "Mostrar iconos de hambre y sed",
-    "ru": "Показать иконки голода и жажды",
-    "zh": "显示饥饿和口渴图标",
-    "zh2": "顯示飢餓和口渴圖標",
-    "pt": "Mostrar ícones de fome e sede"
+    "en": "Show Hunger & Thirst Icons"
   },
   "menu_item_monitor": {
-    "en": "Item monitor",
-    "pl": "Monitor przedmiotów",
-    "de": "Gegenstandsmonitor",
-    "fr": "Moniteur d'objet",
-    "it": "Monitor oggetti",
-    "es": "Monitor de objetos",
-    "ru": "Монитор предметов",
-    "zh": "物品监控",
-    "zh2": "物品監控",
-    "pt": "Monitor de itens"
+    "en": "Item monitor"
   },
   "menu_pickup_history": {
-    "en": "Pickup history",
-    "pl": "Historia podniesień",
-    "de": "Aufsammelverlauf",
-    "fr": "Historique des objets ramassés",
-    "it": "Cronologia raccolta",
-    "es": "Historial de recogidas",
-    "ru": "История подбора",
-    "zh": "拾取历史",
-    "zh2": "拾取歷史",
-    "pt": "Histórico de itens coletados"
+    "en": "Pickup history"
   },
   "pickup_history_picked_up": {
-    "en": "picked up",
-    "pl": "podniesiono",
-    "de": "aufgehoben",
-    "fr": "ramassé",
-    "it": "raccolto",
-    "es": "recogido",
-    "ru": "подобрано",
-    "zh": "已拾取",
-    "zh2": "已拾取",
-    "pt": "itens coletados"
+    "en": "picked up"
   },
   "menu_reset_counter": {
-    "en": "Reset counter",
-    "pl": "Resetuj licznik",
-    "de": "Zähler zurücksetzen",
-    "fr": "Réinitialiser le compteur",
-    "it": "Azzera contatore",
-    "es": "Reiniciar contador",
-    "ru": "Сбросить счётчик",
-    "zh": "重置计数器",
-    "zh2": "重設計數器",
-    "pt": "Zerar contador"
+    "en": "Reset counter"
   },
   "menu_vendor_tracker": {
-    "en": "Vendor tracker",
-    "pl": "Śledzenie sprzedawców",
-    "de": "Händler-Tracker",
-    "fr": "Suivi des vendeurs",
-    "it": "Tracciatore venditori",
-    "es": "Rastreador de vendedores",
-    "ru": "Отслеживание торговцев",
-    "zh": "商人追踪",
-    "zh2": "商人追蹤",
-    "pt": "Rastreador de vendedores"
+    "en": "Vendor tracker"
   },
   "menu_plugins": {
-    "en": "PLUGINS",
-    "pl": "WTYCZKI",
-    "de": "PLUGINS",
-    "fr": "PLUGINS",
-    "it": "PLUGIN",
-    "es": "PLUGINS",
-    "ru": "ПЛАГИНЫ",
-    "zh": "插件",
-    "zh2": "外掛",
-    "pt": "PLUG-INS"
+    "en": "PLUGINS"
   },
   "menu_no_xscal_plugins": {
-    "en": "No xScal plugins",
-    "pl": "Brak wtyczek xScal",
-    "de": "Keine xScal-Plugins",
-    "fr": "Aucun plugin xScal",
-    "it": "Nessun plugin xScal",
-    "es": "Sin plugins de xScal",
-    "ru": "Нет плагинов xScal",
-    "zh": "没有 xScal 插件",
-    "zh2": "沒有 xScal 外掛",
-    "pt": "Nenhum plug-in do xScal"
+    "en": "No xScal plugins"
   },
   "menu_plugin_no_options": {
-    "en": "No options",
-    "pl": "Brak opcji",
-    "de": "Keine Optionen",
-    "fr": "Aucune option",
-    "it": "Nessuna opzione",
-    "es": "Sin opciones",
-    "ru": "Нет параметров",
-    "zh": "没有选项",
-    "zh2": "沒有選項",
-    "pt": "Sem opções"
+    "en": "No options"
   },
   "active_effects_loading": {
-    "en": "Active effects: loading",
-    "pl": "Aktywne efekty: ładowanie",
-    "de": "Aktive Effekte: Laden",
-    "fr": "Effets actifs : chargement",
-    "it": "Effetti attivi: caricamento",
-    "es": "Efectos activos: cargando",
-    "ru": "Активные эффекты: загрузка",
-    "zh": "生效中的效果：正在加载",
-    "zh2": "生效中的效果：載入中",
-    "pt": "Efeitos ativos: carregando"
+    "en": "Active effects: loading"
   },
   "active_effects_none": {
-    "en": "No active effects",
-    "pl": "Brak aktywnych efektów",
-    "de": "Keine aktiven Effekte",
-    "fr": "Aucun effet actif",
-    "it": "Nessun effetto attivo",
-    "es": "No hay efectos activos",
-    "ru": "Нет активных эффектов",
-    "zh": "无生效中的效果",
-    "zh2": "無生效中的效果",
-    "pt": "Sem efeitos ativos"
+    "en": "No active effects"
   },
   "active_effects_none_timed": {
-    "en": "No timed active effects",
-    "pl": "Brak aktywnych efektów czasowych",
-    "de": "Keine zeitlich begrenzten aktiven Effekte",
-    "fr": "Aucun effet actif temporaire",
-    "it": "Nessun effetto attivo temporaneo",
-    "es": "No hay efectos activos temporales",
-    "ru": "Нет временных активных эффектов",
-    "zh": "无计时生效效果",
-    "zh2": "無計時生效效果",
-    "pt": "Nenhum efeito temporário ativo"
+    "en": "No timed active effects"
   },
   "active_effects_expired": {
-    "en": "Expired: {effectName}",
-    "pl": "Efekt wygasł: {effectName}",
-    "de": "Abgelaufen: {effectName}",
-    "fr": "Expiré : {effectName}",
-    "it": "Scaduto: {effectName}",
-    "es": "Expirado: {effectName}",
-    "ru": "Эффект истёк: {effectName}",
-    "zh": "效果已结束：{effectName}",
-    "zh2": "效果已結束：{effectName}",
-    "pt": "Expirado: {effectName}"
+    "en": "Expired: {effectName}"
   },
   "menu_active_effects": {
-    "en": "Active effects",
-    "pl": "Aktywne efekty",
-    "de": "Aktive Effekte",
-    "fr": "Effets actifs",
-    "it": "Effetti attivi",
-    "es": "Efectos activos",
-    "ru": "Активные эффекты",
-    "zh": "生效中的效果",
-    "zh2": "生效中的效果",
-    "pt": "Efeitos ativos"
+    "en": "Active effects"
   },
   "menu_effect_colors": {
-    "en": "Effect colors",
-    "pl": "Kolory efektów",
-    "de": "Effektfarben",
-    "fr": "Couleurs des effets",
-    "it": "Colori effetti",
-    "es": "Colores de efectos",
-    "ru": "Цвета эффектов",
-    "zh": "效果颜色",
-    "zh2": "效果顏色",
-    "pt": "Cores dos efeitos"
+    "en": "Effect colors"
   },
   "menu_effect_colors_add": {
-    "en": "Add from active effects",
-    "pl": "Dodaj z aktywnych efektów",
-    "de": "Aus aktiven Effekten hinzufügen",
-    "fr": "Ajouter depuis les effets actifs",
-    "it": "Aggiungi dagli effetti attivi",
-    "es": "Añadir desde efectos activos",
-    "ru": "Добавить из активных эффектов",
-    "zh": "从当前效果添加",
-    "zh2": "從目前效果新增",
-    "pt": "Adicionar a partir dos efeitos ativos"
+    "en": "Add from active effects"
   },
   "menu_effect_color_remove": {
-    "en": "Remove {name}",
-    "pl": "Usuń {name}",
-    "de": "{name} entfernen",
-    "fr": "Supprimer {name}",
-    "it": "Rimuovi {name}",
-    "es": "Quitar {name}",
-    "ru": "Удалить {name}",
-    "zh": "移除 {name}",
-    "zh2": "移除 {name}",
-    "pt": "Remover {name}"
+    "en": "Remove {name}"
   },
   "menu_effect_colors_none_active": {
-    "en": "No new active effects to add",
-    "pl": "Brak nowych aktywnych efektów",
-    "de": "Keine neuen aktiven Effekte",
-    "fr": "Aucun nouvel effet actif à ajouter",
-    "it": "Nessun nuovo effetto attivo da aggiungere",
-    "es": "No hay efectos activos nuevos",
-    "ru": "Нет новых активных эффектов",
-    "zh": "没有可添加的新效果",
-    "zh2": "沒有可新增的新效果",
-    "pt": "Nenhum efeito ativo novo para adicionar"
+    "en": "No new active effects to add"
   },
   "menu_target_meter": {
-    "en": "Target meter",
-    "pl": "Wskaźnik celu",
-    "de": "Zielanzeige",
-    "fr": "Jauge de cible",
-    "it": "Indicatore bersaglio",
-    "es": "Indicador de objetivo",
-    "ru": "Индикатор цели",
-    "zh": "目标状态",
-    "zh2": "目標狀態",
-    "pt": "Vida do alvo"
+    "en": "Target meter"
   },
   "menu_stealth_meter": {
-    "en": "Sneak meter",
-    "pl": "Wskaźnik skradania",
-    "de": "Schleichanzeige",
-    "fr": "Indicateur de discrétion",
-    "it": "Indicatore furtività",
-    "es": "Indicador de sigilo",
-    "ru": "Индикатор скрытности",
-    "zh": "潜行状态",
-    "zh2": "潛行狀態",
-    "pt": "Indicador de furtividade"
+    "en": "Sneak meter"
   },
   "menu_condition_boy": {
-    "en": "Condition boy",
-    "pl": "Stan ciała",
-    "de": "Körperzustand",
-    "fr": "État du corps",
-    "it": "Stato del corpo",
-    "es": "Estado corporal",
-    "ru": "Состояние тела",
-    "zh": "状态小人",
-    "zh2": "狀態小人",
-    "pt": "Condição corporal"
+    "en": "Condition boy"
   },
   "menu_condition_boy_character": {
-    "en": "Character",
-    "pl": "Postać",
-    "de": "Figur",
-    "fr": "Personnage",
-    "it": "Personaggio",
-    "es": "Personaje",
-    "ru": "Персонаж",
-    "zh": "角色",
-    "zh2": "角色",
-    "pt": "Personagem"
+    "en": "Character"
   },
   "menu_option_vault_boy": {
-    "en": "Vault Boy",
-    "pl": "Vault Boy",
-    "de": "Vault Boy",
-    "fr": "Vault Boy",
-    "it": "Vault Boy",
-    "es": "Vault Boy",
-    "ru": "Vault Boy",
-    "zh": "Vault Boy",
-    "zh2": "Vault Boy",
-    "pt": "Vault Boy"
+    "en": "Vault Boy"
   },
   "menu_option_vault_girl": {
-    "en": "Vault Girl",
-    "pl": "Vault Girl",
-    "de": "Vault Girl",
-    "fr": "Vault Girl",
-    "it": "Vault Girl",
-    "es": "Vault Girl",
-    "ru": "Vault Girl",
-    "zh": "Vault Girl",
-    "zh2": "Vault Girl",
-    "pt": "Vault Girl"
+    "en": "Vault Girl"
   },
   "menu_condition_boy_percentages": {
-    "en": "Show percentages",
-    "pl": "Pokaż procenty",
-    "de": "Prozentwerte anzeigen",
-    "fr": "Afficher les pourcentages",
-    "it": "Mostra le percentuali",
-    "es": "Mostrar porcentajes",
-    "ru": "Показывать проценты",
-    "zh": "显示百分比",
-    "zh2": "顯示百分比",
-    "pt": "Mostrar porcentagens"
+    "en": "Show percentages"
   },
   "ct_condition_good": {
-    "en": "Good condition",
-    "pl": "Dobry stan",
-    "de": "Guter Zustand",
-    "fr": "Bon état",
-    "it": "Buone condizioni",
-    "es": "Buen estado",
-    "ru": "Хорошее состояние",
-    "zh": "状态良好",
-    "zh2": "狀態良好",
-    "pt": "Boa condição"
+    "en": "Good condition"
   },
   "ct_condition_middle": {
-    "en": "Damaged",
-    "pl": "Uszkodzone",
-    "de": "Beschädigt",
-    "fr": "Endommagé",
-    "it": "Danneggiato",
-    "es": "Dañado",
-    "ru": "Повреждено",
-    "zh": "受伤",
-    "zh2": "受傷",
-    "pt": "Danificado"
+    "en": "Damaged"
   },
   "ct_condition_poor": {
-    "en": "Crippled",
-    "pl": "Okaleczone",
-    "de": "Verkrüppelt",
-    "fr": "Estropié",
-    "it": "Menomato",
-    "es": "Lisiado",
-    "ru": "Искалечено",
-    "zh": "残废",
-    "zh2": "殘廢",
-    "pt": "Mutilado"
+    "en": "Crippled"
   },
   "ct_condition_text": {
-    "en": "Percentages",
-    "pl": "Procenty",
-    "de": "Prozentwerte",
-    "fr": "Pourcentages",
-    "it": "Percentuali",
-    "es": "Porcentajes",
-    "ru": "Проценты",
-    "zh": "百分比",
-    "zh2": "百分比",
-    "pt": "Porcentagens"
+    "en": "Percentages"
   },
   "menu_teammates": {
-    "en": "Teammates",
-    "pl": "Członkowie drużyny",
-    "de": "Teammitglieder",
-    "fr": "Coéquipiers",
-    "it": "Compagni di squadra",
-    "es": "Compañeros de equipo",
-    "ru": "Товарищи по команде",
-    "zh": "队友",
-    "zh2": "隊友",
-    "pt": "Companheiros de equipe"
+    "en": "Teammates"
   },
   "menu_quest_tracker": {
-    "en": "Quest tracker",
-    "pl": "Śledzenie zadań",
-    "de": "Quest-Tracker",
-    "fr": "Suivi des quêtes",
-    "it": "Tracciamento missioni",
-    "es": "Seguimiento de misiones",
-    "ru": "Отслеживание заданий",
-    "zh": "任务追踪",
-    "zh2": "任務追蹤",
-    "pt": "Guia de missões"
+    "en": "Quest tracker"
   },
   "menu_misc_quest_announce": {
-    "en": "Misc quest pop-up",
-    "pl": "Okno dodatkowego zadania",
-    "de": "Neben-Quest-Hinweis",
-    "fr": "Fenêtre de quête annexe",
-    "it": "Avviso missione varia",
-    "es": "Aviso de misión variada",
-    "ru": "Окно прочего задания",
-    "zh": "杂项任务弹窗",
-    "zh2": "雜項任務彈窗",
-    "pt": "Aviso de missão diversa"
+    "en": "Misc quest pop-up"
   },
   "menu_quest_tracker_elements": {
-    "en": "Quest tracker elements",
-    "pl": "Elementy śledzenia zadań",
-    "de": "Quest-Tracker-Elemente",
-    "fr": "Éléments du suivi des quêtes",
-    "it": "Elementi del tracciamento missioni",
-    "es": "Elementos del seguimiento de misiones",
-    "ru": "Элементы отслеживания заданий",
-    "zh": "任务追踪元素",
-    "zh2": "任務追蹤元素",
-    "pt": "Elementos do Guia de missões"
+    "en": "Quest tracker elements"
   },
   "menu_show_quest_leader_labels": {
-    "en": "Show leader labels",
-    "pl": "Pokaż oznaczenia lidera",
-    "de": "Anführer-Markierungen anzeigen",
-    "fr": "Afficher les indicateurs de chef",
-    "it": "Mostra indicatori del leader",
-    "es": "Mostrar indicadores de líder",
-    "ru": "Показывать метки лидера",
-    "zh": "显示队长标签",
-    "zh2": "顯示隊長標籤",
-    "pt": "Mostrar identificação do líder"
+    "en": "Show leader labels"
   },
   "menu_show_quest_off_map_labels": {
-    "en": "Show off-map labels",
-    "pl": "Pokaż oznaczenia poza mapą",
-    "de": "Markierungen außerhalb der Karte anzeigen",
-    "fr": "Afficher les indicateurs hors carte",
-    "it": "Mostra indicatori fuori mappa",
-    "es": "Mostrar indicadores fuera del mapa",
-    "ru": "Показывать метки вне карты",
-    "zh": "显示地图外标签",
-    "zh2": "顯示地圖外標籤",
-    "pt": "Mostrar nomes de objetivos fora do mapa"
+    "en": "Show off-map labels"
   },
   "menu_quest_complete_color": {
-    "en": "Complete state",
-    "pl": "Stan ukończony",
-    "de": "Abgeschlossen",
-    "fr": "Terminé",
-    "it": "Completato",
-    "es": "Completado",
-    "ru": "Выполнено",
-    "zh": "已完成",
-    "zh2": "已完成",
-    "pt": "Estado concluído"
+    "en": "Complete state"
   },
   "menu_quest_failed_color": {
-    "en": "Failed state",
-    "pl": "Stan niepowodzenia",
-    "de": "Fehlgeschlagen",
-    "fr": "Échoué",
-    "it": "Fallito",
-    "es": "Fallido",
-    "ru": "Провалено",
-    "zh": "失败",
-    "zh2": "失敗",
-    "pt": "Estado falho"
+    "en": "Failed state"
   },
   "quest_tracker_leader": {
-    "en": "Leader",
-    "pl": "Lider",
-    "de": "Anführer",
-    "fr": "Chef",
-    "it": "Leader",
-    "es": "Líder",
-    "ru": "Лидер",
-    "zh": "队长",
-    "zh2": "隊長",
-    "pt": "Líder"
+    "en": "Leader"
   },
   "quest_tracker_off_map": {
-    "en": "Off map",
-    "pl": "Poza mapą",
-    "de": "Außerhalb der Karte",
-    "fr": "Hors carte",
-    "it": "Fuori mappa",
-    "es": "Fuera del mapa",
-    "ru": "Вне карты",
-    "zh": "地图外",
-    "zh2": "地圖外",
-    "pt": "Fora do mapa"
+    "en": "Off map"
   },
   "menu_quest_background": {
-    "en": "Show background",
-    "pl": "Pokaż tło",
-    "de": "Hintergrund anzeigen",
-    "fr": "Afficher l’arrière-plan",
-    "it": "Mostra sfondo",
-    "es": "Mostrar fondo",
-    "ru": "Показывать фон",
-    "zh": "显示背景",
-    "zh2": "顯示背景",
-    "pt": "Mostrar plano de fundo"
+    "en": "Show background"
   },
   "menu_show_quest_objectives": {
-    "en": "Show objectives",
-    "pl": "Pokaż cele",
-    "de": "Ziele anzeigen",
-    "fr": "Afficher les objectifs",
-    "it": "Mostra obiettivi",
-    "es": "Mostrar objetivos",
-    "ru": "Показывать цели",
-    "zh": "显示目标",
-    "zh2": "顯示目標",
-    "pt": "Mostrar objetivos"
+    "en": "Show objectives"
   },
   "menu_show_quest_timers": {
-    "en": "Show timers",
-    "pl": "Pokaż liczniki czasu",
-    "de": "Timer anzeigen",
-    "fr": "Afficher les minuteurs",
-    "it": "Mostra timer",
-    "es": "Mostrar temporizadores",
-    "ru": "Показывать таймеры",
-    "zh": "显示计时器",
-    "zh2": "顯示計時器",
-    "pt": "Mostrar cronômetros"
+    "en": "Show timers"
   },
   "menu_quest_progress_bar_height": {
-    "en": "Progress bar height",
-    "pl": "Wysokość paska postępu",
-    "de": "Höhe der Fortschrittsleiste",
-    "fr": "Hauteur de la barre de progression",
-    "it": "Altezza barra di avanzamento",
-    "es": "Altura de la barra de progreso",
-    "ru": "Высота полосы прогресса",
-    "zh": "进度条高度",
-    "zh2": "進度條高度",
-    "pt": "Altura da barra de progresso"
+    "en": "Progress bar height"
   },
   "menu_quest_progress_bar_length": {
-    "en": "Progress bar length",
-    "pl": "Długość paska postępu",
-    "de": "Länge der Fortschrittsleiste",
-    "fr": "Longueur de la barre de progression",
-    "it": "Lunghezza barra di avanzamento",
-    "es": "Longitud de la barra de progreso",
-    "ru": "Длина полосы прогресса",
-    "zh": "进度条长度",
-    "zh2": "進度條長度",
-    "pt": "Comprimento da barra de progresso"
+    "en": "Progress bar length"
   },
   "menu_show_quest_progress": {
-    "en": "Show progress bars",
-    "pl": "Pokaż paski postępu",
-    "de": "Fortschrittsbalken anzeigen",
-    "fr": "Afficher les barres de progression",
-    "it": "Mostra barre di avanzamento",
-    "es": "Mostrar barras de progreso",
-    "ru": "Показывать шкалы прогресса",
-    "zh": "显示进度条",
-    "zh2": "顯示進度條",
-    "pt": "Mostrar barras de progresso"
+    "en": "Show progress bars"
   },
   "menu_show_local_player": {
-    "en": "Show local player",
-    "pl": "Pokaż własną postać",
-    "de": "Eigenen Spieler anzeigen",
-    "fr": "Afficher le joueur local",
-    "it": "Mostra giocatore locale",
-    "es": "Mostrar jugador local",
-    "ru": "Показывать своего игрока",
-    "zh": "显示自己",
-    "zh2": "顯示自己",
-    "pt": "Mostrar jogador local"
+    "en": "Show local player"
   },
   "menu_teammate_bottom_to_top": {
-    "en": "Stack bottom to top",
-    "pl": "Układaj od dołu do góry",
-    "de": "Von unten nach oben stapeln",
-    "fr": "Empiler de bas en haut",
-    "it": "Disponi dal basso verso l’alto",
-    "es": "Apilar de abajo arriba",
-    "ru": "Располагать снизу вверх",
-    "zh": "从下往上排列",
-    "zh2": "從下往上排列",
-    "pt": "Organizar de baixo para cima"
+    "en": "Stack bottom to top"
   },
   "menu_show_teammate_hp_percentage": {
-    "en": "Show HP percentage",
-    "pl": "Pokaż procent PW",
-    "de": "TP-Prozent anzeigen",
-    "fr": "Afficher le pourcentage de PV",
-    "it": "Mostra percentuale PS",
-    "es": "Mostrar porcentaje de PS",
-    "ru": "Показывать процент ОЗ",
-    "zh": "显示生命值百分比",
-    "zh2": "顯示生命值百分比",
-    "pt": "Mostrar porcentagem de vida"
+    "en": "Show HP percentage"
   },
   "menu_show_teammate_rads_percentage": {
-    "en": "Show RAD percentage",
-    "pl": "Pokaż procent RAD",
-    "de": "RAD-Prozent anzeigen",
-    "fr": "Afficher le pourcentage de RAD",
-    "it": "Mostra percentuale RAD",
-    "es": "Mostrar porcentaje de RAD",
-    "ru": "Показывать процент радиации",
-    "zh": "显示辐射百分比",
-    "zh2": "顯示輻射百分比",
-    "pt": "Mostrar porcentagem de RADs"
+    "en": "Show RAD percentage"
   },
   "menu_show_teammate_glow_percentage": {
-    "en": "Show GL percentage",
-    "pl": "Pokaż procent blasku",
-    "de": "GL-Prozent anzeigen",
-    "fr": "Afficher le pourcentage de luminescence",
-    "it": "Mostra percentuale luminescenza",
-    "es": "Mostrar porcentaje de brillo",
-    "ru": "Показывать процент свечения",
-    "zh": "显示发光值百分比",
-    "zh2": "顯示發光值百分比",
-    "pt": "Mostrar porcentagem de brilho necrótico"
+    "en": "Show GL percentage"
   },
   "menu_teammate_elements": {
-    "en": "Elements",
-    "pl": "Elementy",
-    "de": "Elemente",
-    "fr": "Éléments",
-    "it": "Elementi",
-    "es": "Elementos",
-    "ru": "Элементы",
-    "zh": "元素",
-    "zh2": "元素",
-    "pt": "Elementos"
+    "en": "Elements"
   },
   "menu_teammate_background": {
-    "en": "Background",
-    "pl": "Tło",
-    "de": "Hintergrund",
-    "fr": "Arrière-plan",
-    "it": "Sfondo",
-    "es": "Fondo",
-    "ru": "Фон",
-    "zh": "背景",
-    "zh2": "背景",
-    "pt": "Plano de fundo"
+    "en": "Background"
   },
   "menu_teammate_team_name": {
-    "en": "Team name",
-    "pl": "Nazwa drużyny",
-    "de": "Teamname",
-    "fr": "Nom de l’équipe",
-    "it": "Nome squadra",
-    "es": "Nombre del equipo",
-    "ru": "Название команды",
-    "zh": "队伍名称",
-    "zh2": "隊伍名稱",
-    "pt": "Nome da equipe"
+    "en": "Team name"
   },
   "menu_teammate_bonus": {
-    "en": "Bonus information",
-    "pl": "Informacja o premii",
-    "de": "Bonusinformation",
-    "fr": "Informations de bonus",
-    "it": "Informazioni bonus",
-    "es": "Información de bonificación",
-    "ru": "Информация о бонусе",
-    "zh": "加成信息",
-    "zh2": "加成資訊",
-    "pt": "Informações de bônus"
+    "en": "Bonus information"
   },
   "menu_teammate_player_icons": {
-    "en": "Player icons",
-    "pl": "Ikony graczy",
-    "de": "Spielersymbole",
-    "fr": "Icônes des joueurs",
-    "it": "Icone giocatori",
-    "es": "Iconos de jugadores",
-    "ru": "Значки игроков",
-    "zh": "玩家图标",
-    "zh2": "玩家圖示",
-    "pt": "Ícones dos jogadores"
+    "en": "Player icons"
   },
   "menu_teammate_player_icon_size": {
-    "en": "Player icon size",
-    "pl": "Rozmiar ikon graczy",
-    "de": "Größe der Spielersymbole",
-    "fr": "Taille des icônes des joueurs",
-    "it": "Dimensione icone giocatori",
-    "es": "Tamaño de iconos de jugadores",
-    "ru": "Размер значков игроков",
-    "zh": "玩家图标大小",
-    "zh2": "玩家圖示大小",
-    "pt": "Tamanho dos ícones dos jogadores"
+    "en": "Player icon size"
   },
   "menu_teammate_speaker_icons": {
-    "en": "Voice chat icons",
-    "pl": "Ikony czatu głosowego",
-    "de": "Sprachchat-Symbole",
-    "fr": "Icônes du chat vocal",
-    "it": "Icone chat vocale",
-    "es": "Iconos de chat de voz",
-    "ru": "Значки голосового чата",
-    "zh": "语音聊天图标",
-    "zh2": "語音聊天圖示",
-    "pt": "Ícones do chat de voz"
+    "en": "Voice chat icons"
   },
   "menu_teammate_ghoul_icons": {
-    "en": "Ghoul icons",
-    "pl": "Ikony ghuli",
-    "de": "Ghul-Symbole",
-    "fr": "Icônes de goule",
-    "it": "Icone ghoul",
-    "es": "Iconos de necrófago",
-    "ru": "Значки гулей",
-    "zh": "尸鬼图标",
-    "zh2": "屍鬼圖示",
-    "pt": "Ícones de ghoul"
+    "en": "Ghoul icons"
   },
   "menu_teammate_avatar_frames": {
-    "en": "Icon frames",
-    "pl": "Ramki ikon",
-    "de": "Symbolrahmen",
-    "fr": "Cadres des icônes",
-    "it": "Cornici icone",
-    "es": "Marcos de iconos",
-    "ru": "Рамки значков",
-    "zh": "图标边框",
-    "zh2": "圖示邊框",
-    "pt": "Molduras dos ícones"
+    "en": "Icon frames"
   },
   "menu_teammate_accents": {
-    "en": "State accents",
-    "pl": "Akcenty stanu",
-    "de": "Statusakzente",
-    "fr": "Accents d’état",
-    "it": "Accenti di stato",
-    "es": "Acentos de estado",
-    "ru": "Цветовые акценты",
-    "zh": "状态强调色",
-    "zh2": "狀態強調色",
-    "pt": "Destaques de estado"
+    "en": "State accents"
   },
   "menu_teammate_names": {
-    "en": "Player names",
-    "pl": "Nazwy graczy",
-    "de": "Spielernamen",
-    "fr": "Noms des joueurs",
-    "it": "Nomi giocatori",
-    "es": "Nombres de jugadores",
-    "ru": "Имена игроков",
-    "zh": "玩家名称",
-    "zh2": "玩家名稱",
-    "pt": "Nomes dos jogadores"
+    "en": "Player names"
   },
   "menu_teammate_titles": {
-    "en": "Player titles",
-    "pl": "Tytuły graczy",
-    "de": "Spielertitel",
-    "fr": "Titres des joueurs",
-    "it": "Titoli giocatori",
-    "es": "Títulos de jugadores",
-    "ru": "Титулы игроков",
-    "zh": "玩家称号",
-    "zh2": "玩家稱號",
-    "pt": "Títulos dos jogadores"
+    "en": "Player titles"
   },
   "menu_teammate_levels": {
-    "en": "Player levels",
-    "pl": "Poziomy graczy",
-    "de": "Spielerstufen",
-    "fr": "Niveaux des joueurs",
-    "it": "Livelli giocatori",
-    "es": "Niveles de jugadores",
-    "ru": "Уровни игроков",
-    "zh": "玩家等级",
-    "zh2": "玩家等級",
-    "pt": "Níveis dos jogadores"
+    "en": "Player levels"
   },
   "menu_teammate_status": {
-    "en": "Player status",
-    "pl": "Status graczy",
-    "de": "Spielerstatus",
-    "fr": "Statut des joueurs",
-    "it": "Stato giocatori",
-    "es": "Estado de jugadores",
-    "ru": "Статус игроков",
-    "zh": "玩家状态",
-    "zh2": "玩家狀態",
-    "pt": "Status dos jogadores"
+    "en": "Player status"
   },
   "menu_teammate_health_bar": {
-    "en": "Health bar",
-    "pl": "Pasek zdrowia",
-    "de": "Gesundheitsleiste",
-    "fr": "Barre de santé",
-    "it": "Barra salute",
-    "es": "Barra de salud",
-    "ru": "Шкала здоровья",
-    "zh": "生命值条",
-    "zh2": "生命值條",
-    "pt": "Barra de vida"
+    "en": "Health bar"
   },
   "menu_teammate_rads_bar": {
-    "en": "Radiation bar",
-    "pl": "Pasek radiacji",
-    "de": "Strahlungsleiste",
-    "fr": "Barre de radiations",
-    "it": "Barra radiazioni",
-    "es": "Barra de radiación",
-    "ru": "Шкала радиации",
-    "zh": "辐射条",
-    "zh2": "輻射條",
-    "pt": "Barra de radiação"
+    "en": "Radiation bar"
   },
   "menu_teammate_glow_bar": {
-    "en": "Glow bar",
-    "pl": "Pasek blasku",
-    "de": "Leuchtleiste",
-    "fr": "Barre de luminescence",
-    "it": "Barra luminescenza",
-    "es": "Barra de brillo",
-    "ru": "Шкала свечения",
-    "zh": "发光值条",
-    "zh2": "發光值條",
-    "pt": "Barra de brilho necrótico"
+    "en": "Glow bar"
   },
   "menu_teammate_bar_segments": {
-    "en": "Bar segments",
-    "pl": "Segmenty paska",
-    "de": "Leistensegmente",
-    "fr": "Segments de barre",
-    "it": "Segmenti barra",
-    "es": "Segmentos de barra",
-    "ru": "Сегменты шкалы",
-    "zh": "条形分段",
-    "zh2": "條形分段",
-    "pt": "Segmentos da barra"
+    "en": "Bar segments"
   },
   "menu_teammate_separators": {
-    "en": "Separators",
-    "pl": "Separatory",
-    "de": "Trennlinien",
-    "fr": "Séparateurs",
-    "it": "Separatori",
-    "es": "Separadores",
-    "ru": "Разделители",
-    "zh": "分隔线",
-    "zh2": "分隔線",
-    "pt": "Separadores"
+    "en": "Separators"
   },
   "teammate_private_team": {
-    "en": "Private Team",
-    "pl": "Drużyna prywatna",
-    "de": "Privates Team",
-    "fr": "Équipe privée",
-    "it": "Squadra privata",
-    "es": "Equipo privado",
-    "ru": "Закрытая команда",
-    "zh": "私人队伍",
-    "zh2": "私人隊伍",
-    "pt": "Equipe privada"
+    "en": "Private Team"
   },
   "teammate_team": {
-    "en": "Team",
-    "pl": "Drużyna",
-    "de": "Team",
-    "fr": "Équipe",
-    "it": "Squadra",
-    "es": "Equipo",
-    "ru": "Команда",
-    "zh": "队伍",
-    "zh2": "隊伍",
-    "pt": "Equipe"
+    "en": "Team"
   },
   "teammate_team_name": {
-    "en": "{type} Team",
-    "pl": "Drużyna: {type}",
-    "de": "{type}-Team",
-    "fr": "Équipe {type}",
-    "it": "Squadra {type}",
-    "es": "Equipo {type}",
-    "ru": "Команда: {type}",
-    "zh": "{type}队伍",
-    "zh2": "{type}隊伍",
-    "pt": "Equipe {type}"
+    "en": "{type} Team"
   },
   "teammate_bonus": {
-    "en": "BONUS!",
-    "pl": "PREMIA!",
-    "de": "BONUS!",
-    "fr": "BONUS !",
-    "it": "BONUS!",
-    "es": "¡BONIFICACIÓN!",
-    "ru": "БОНУС!",
-    "zh": "加成！",
-    "zh2": "加成！",
-    "pt": "BÔNUS!"
+    "en": "BONUS!"
   },
   "teammate_status_dead": {
-    "en": "Dead",
-    "pl": "Nie żyje",
-    "de": "Tot",
-    "fr": "Mort",
-    "it": "Morto",
-    "es": "Muerto",
-    "ru": "Мёртв",
-    "zh": "死亡",
-    "zh2": "死亡",
-    "pt": "Morto"
+    "en": "Dead"
   },
   "teammate_status_down": {
-    "en": "Down",
-    "pl": "Powalony",
-    "de": "Am Boden",
-    "fr": "À terre",
-    "it": "A terra",
-    "es": "Abatido",
-    "ru": "Ранен",
-    "zh": "倒地",
-    "zh2": "倒地",
-    "pt": "Caído"
+    "en": "Down"
   },
   "teammate_status_expedition": {
-    "en": "Expedition",
-    "pl": "Ekspedycja",
-    "de": "Expedition",
-    "fr": "Expédition",
-    "it": "Spedizione",
-    "es": "Expedición",
-    "ru": "Экспедиция",
-    "zh": "远征",
-    "zh2": "遠征",
-    "pt": "Expedição"
+    "en": "Expedition"
   },
   "teammate_status_raid": {
-    "en": "Raid",
-    "pl": "Rajd",
-    "de": "Raid",
-    "fr": "Raid",
-    "it": "Raid",
-    "es": "Incursión",
-    "ru": "Рейд",
-    "zh": "突袭",
-    "zh2": "突襲",
-    "pt": "Raid"
+    "en": "Raid"
   },
   "teammate_status_daily_op": {
-    "en": "Daily Op",
-    "pl": "Operacja dzienna",
-    "de": "Tägliche Operation",
-    "fr": "Opération quotidienne",
-    "it": "Operazione giornaliera",
-    "es": "Operación diaria",
-    "ru": "Ежедневная операция",
-    "zh": "每日行动",
-    "zh2": "每日行動",
-    "pt": "Operação diária"
+    "en": "Daily Op"
   },
   "teammate_status_conversation": {
-    "en": "In conversation",
-    "pl": "W rozmowie",
-    "de": "Im Gespräch",
-    "fr": "En conversation",
-    "it": "In conversazione",
-    "es": "En conversación",
-    "ru": "В диалоге",
-    "zh": "交谈中",
-    "zh2": "交談中",
-    "pt": "Em diálogo"
+    "en": "In conversation"
   },
   "teammate_status_event": {
-    "en": "Event",
-    "pl": "Wydarzenie",
-    "de": "Event",
-    "fr": "Événement",
-    "it": "Evento",
-    "es": "Evento",
-    "ru": "Событие",
-    "zh": "活动",
-    "zh2": "活動",
-    "pt": "Evento"
+    "en": "Event"
   },
   "teammate_status_leader": {
-    "en": "Leader",
-    "pl": "Lider",
-    "de": "Anführer",
-    "fr": "Chef",
-    "it": "Leader",
-    "es": "Líder",
-    "ru": "Лидер",
-    "zh": "队长",
-    "zh2": "隊長",
-    "pt": "Líder"
+    "en": "Leader"
   },
   "target_meter_level": {
-    "en": "LEVEL {level}",
-    "pl": "POZIOM {level}",
-    "de": "STUFE {level}",
-    "fr": "NIVEAU {level}",
-    "it": "LIVELLO {level}",
-    "es": "NIVEL {level}",
-    "ru": "УРОВЕНЬ {level}",
-    "zh": "等级 {level}",
-    "zh2": "等級 {level}",
-    "pt": "NÍVEL {level}"
+    "en": "LEVEL {level}"
   },
   "menu_timed_effects_only": {
-    "en": "Show timed effects only",
-    "pl": "Pokaż tylko efekty czasowe",
-    "de": "Nur zeitlich begrenzte Effekte anzeigen",
-    "fr": "Afficher uniquement les effets temporaires",
-    "it": "Mostra solo gli effetti temporanei",
-    "es": "Mostrar solo efectos temporales",
-    "ru": "Показывать только временные эффекты",
-    "zh": "仅显示计时效果",
-    "zh2": "僅顯示計時效果",
-    "pt": "Mostrar apenas efeitos temporários"
+    "en": "Show timed effects only"
   },
   "menu_main_effect_names_only": {
-    "en": "Show buff names only",
-    "pl": "Pokaż tylko nazwy efektów",
-    "de": "Nur Effektnamen anzeigen",
-    "fr": "Afficher uniquement les noms des effets",
-    "it": "Mostra solo i nomi degli effetti",
-    "es": "Mostrar solo nombres de efectos",
-    "ru": "Показывать только названия эффектов",
-    "zh": "仅显示效果名称",
-    "zh2": "僅顯示效果名稱",
-    "pt": "Mostrar apenas nomes de bônus"
+    "en": "Show buff names only"
   },
   "menu_toggle_visibility": {
-    "en": "Toggle widget visibility",
-    "pl": "Przełącz widoczność widgetu",
-    "de": "Widget-Sichtbarkeit umschalten",
-    "fr": "Basculer la visibilité du widget",
-    "it": "Attiva/disattiva visibilità widget",
-    "es": "Alternar visibilidad del widget",
-    "ru": "Переключить видимость виджета",
-    "zh": "切换小部件可见性",
-    "zh2": "切換小工具顯示",
-    "pt": "Alternar visibilidade do widget"
+    "en": "Toggle widget visibility"
   },
   "menu_scale": {
-    "en": "Scale",
-    "pl": "Skala",
-    "de": "Skalierung",
-    "fr": "Échelle",
-    "it": "Scala",
-    "es": "Escala",
-    "ru": "Масштаб",
-    "zh": "缩放",
-    "zh2": "縮放",
-    "pt": "Escala"
+    "en": "Scale"
   },
   "menu_stretch_width": {
-    "en": "Width",
-    "pl": "Szerokość",
-    "de": "Breite",
-    "fr": "Largeur",
-    "it": "Larghezza",
-    "es": "Ancho",
-    "ru": "Ширина",
-    "zh": "宽度",
-    "zh2": "寬度",
-    "pt": "Largura"
+    "en": "Width"
   },
   "menu_stretch_reset": {
-    "en": "Reset stretch",
-    "pl": "Resetuj rozciągnięcie",
-    "de": "Streckung zurücksetzen",
-    "fr": "Réinitialiser l'étirement",
-    "it": "Ripristina allungamento",
-    "es": "Restablecer estiramiento",
-    "ru": "Сбросить растяжение",
-    "zh": "重置拉伸",
-    "zh2": "重設拉伸",
-    "pt": "Redefinir estiramento"
+    "en": "Reset stretch"
   },
   "menu_stretch_height": {
-    "en": "Height",
-    "pl": "Wysokość",
-    "de": "Höhe",
-    "fr": "Hauteur",
-    "it": "Altezza",
-    "es": "Alto",
-    "ru": "Высота",
-    "zh": "高度",
-    "zh2": "高度",
-    "pt": "Altura"
+    "en": "Height"
   },
   "menu_global_scale": {
-    "en": "Global Scale",
-    "pl": "Skala globalna",
-    "de": "Globale Skalierung",
-    "fr": "Échelle globale",
-    "it": "Scala globale",
-    "es": "Escala global",
-    "ru": "Общий масштаб",
-    "zh": "全局缩放",
-    "zh2": "全域縮放",
-    "pt": "Escala global"
+    "en": "Global Scale"
   },
   "ct_progress_bar": {
-    "en": "Progress bar",
-    "pl": "Pasek postępu",
-    "de": "Fortschrittsbalken",
-    "fr": "Barre de progression",
-    "it": "Barra di avanzamento",
-    "es": "Barra de progreso",
-    "ru": "Полоса прогресса",
-    "zh": "进度条",
-    "zh2": "進度條",
-    "pt": "Barra de progresso"
+    "en": "Progress bar"
   },
   "ct_segments": {
-    "en": "Segments",
-    "pl": "Segmenty",
-    "de": "Segmente",
-    "fr": "Segments",
-    "it": "Segmenti",
-    "es": "Segmentos",
-    "ru": "Сегменты",
-    "zh": "分段",
-    "zh2": "分段",
-    "pt": "Segmentos"
+    "en": "Segments"
   },
   "ct_label": {
-    "en": "Label",
-    "pl": "Etykieta",
-    "de": "Beschriftung",
-    "fr": "Libellé",
-    "it": "Etichetta",
-    "es": "Etiqueta",
-    "ru": "Подпись",
-    "zh": "标签",
-    "zh2": "標籤",
-    "pt": "Rótulo"
+    "en": "Label"
   },
   "ct_weight_text": {
-    "en": "Weight text",
-    "pl": "Tekst wagi",
-    "de": "Gewichtstext",
-    "fr": "Texte du poids",
-    "it": "Testo del peso",
-    "es": "Texto del peso",
-    "ru": "Текст веса",
-    "zh": "重量文字",
-    "zh2": "重量文字",
-    "pt": "Texto do peso"
+    "en": "Weight text"
   },
   "ct_weight_icon": {
-    "en": "Weight icon",
-    "pl": "Ikona wagi",
-    "de": "Gewichtssymbol",
-    "fr": "Icône du poids",
-    "it": "Icona del peso",
-    "es": "Icono del peso",
-    "ru": "Значок веса",
-    "zh": "重量图标",
-    "zh2": "重量圖示",
-    "pt": "Ícone do peso"
+    "en": "Weight icon"
   },
   "ct_timer": {
-    "en": "Timer",
-    "pl": "Licznik czasu",
-    "de": "Timer",
-    "fr": "Minuteur",
-    "it": "Timer",
-    "es": "Temporizador",
-    "ru": "Таймер",
-    "zh": "计时器",
-    "zh2": "計時器",
-    "pt": "Cronômetro"
+    "en": "Timer"
   },
   "ct_spinner": {
-    "en": "Spinner",
-    "pl": "Wskaźnik ładowania",
-    "de": "Ladeanzeige",
-    "fr": "Indicateur de chargement",
-    "it": "Indicatore di caricamento",
-    "es": "Indicador de carga",
-    "ru": "Индикатор загрузки",
-    "zh": "加载指示器",
-    "zh2": "載入指示器",
-    "pt": "Indicador giratório"
+    "en": "Spinner"
   },
   "ct_separator": {
-    "en": "Separator",
-    "pl": "Separator",
-    "de": "Trennlinie",
-    "fr": "Séparateur",
-    "it": "Separatore",
-    "es": "Separador",
-    "ru": "Разделитель",
-    "zh": "分隔线",
-    "zh2": "分隔線",
-    "pt": "Separador"
+    "en": "Separator"
   },
   "ct_selection_indicator": {
-    "en": "Selection indicator",
-    "pl": "Wskaźnik zaznaczenia",
-    "de": "Auswahlmarkierung",
-    "fr": "Indicateur de sélection",
-    "it": "Indicatore di selezione",
-    "es": "Indicador de selección",
-    "ru": "Индикатор выбора",
-    "zh": "选择指示器",
-    "zh2": "選擇指示器",
-    "pt": "Indicador de seleção"
+    "en": "Selection indicator"
   },
   "ct_selected_item_text": {
-    "en": "Selected item text",
-    "pl": "Tekst zaznaczonego elementu",
-    "de": "Text des ausgewählten Eintrags",
-    "fr": "Texte de l'élément sélectionné",
-    "it": "Testo dell'elemento selezionato",
-    "es": "Texto del elemento seleccionado",
-    "ru": "Текст выбранного элемента",
-    "zh": "选中项文字",
-    "zh2": "選中項文字",
-    "pt": "Texto do item selecionado"
+    "en": "Selected item text"
   },
   "ct_radiation": {
-    "en": "Radiation",
-    "pl": "Promieniowanie",
-    "de": "Strahlung",
-    "fr": "Radiation",
-    "it": "Radiazioni",
-    "es": "Radiación",
-    "ru": "Радиация",
-    "zh": "辐射",
-    "zh2": "輻射",
-    "pt": "Radiação"
+    "en": "Radiation"
   },
   "ct_quest_title": {
-    "en": "Quest title",
-    "pl": "Tytuł zadania",
-    "de": "Questtitel",
-    "fr": "Titre de la quête",
-    "it": "Titolo della missione",
-    "es": "Título de la misión",
-    "ru": "Название задания",
-    "zh": "任务标题",
-    "zh2": "任務標題",
-    "pt": "Título da missão"
+    "en": "Quest title"
   },
   "ct_progress_track": {
-    "en": "Progress track",
-    "pl": "Tło paska postępu",
-    "de": "Hintergrund der Fortschrittsleiste",
-    "fr": "Piste de progression",
-    "it": "Traccia di avanzamento",
-    "es": "Pista de progreso",
-    "ru": "Дорожка прогресса",
-    "zh": "进度轨道",
-    "zh2": "進度軌道",
-    "pt": "Trilho de progresso"
+    "en": "Progress track"
   },
   "ct_progress": {
-    "en": "Progress",
-    "pl": "Postęp",
-    "de": "Fortschritt",
-    "fr": "Progression",
-    "it": "Avanzamento",
-    "es": "Progreso",
-    "ru": "Прогресс",
-    "zh": "进度",
-    "zh2": "進度",
-    "pt": "Progresso"
+    "en": "Progress"
   },
   "ct_percentage": {
-    "en": "Percentage",
-    "pl": "Procent",
-    "de": "Prozentwert",
-    "fr": "Pourcentage",
-    "it": "Percentuale",
-    "es": "Porcentaje",
-    "ru": "Процент",
-    "zh": "百分比",
-    "zh2": "百分比",
-    "pt": "Porcentagem"
+    "en": "Percentage"
   },
   "ct_optional_objective": {
-    "en": "Optional objective",
-    "pl": "Cel opcjonalny",
-    "de": "Optionales Ziel",
-    "fr": "Objectif facultatif",
-    "it": "Obiettivo facoltativo",
-    "es": "Objetivo opcional",
-    "ru": "Необязательная цель",
-    "zh": "可选目标",
-    "zh2": "可選目標",
-    "pt": "Objetivo opcional"
+    "en": "Optional objective"
   },
   "ct_objective": {
-    "en": "Objective",
-    "pl": "Cel",
-    "de": "Ziel",
-    "fr": "Objectif",
-    "it": "Obiettivo",
-    "es": "Objetivo",
-    "ru": "Цель",
-    "zh": "目标",
-    "zh2": "目標",
-    "pt": "Objetivo"
+    "en": "Objective"
   },
   "ct_items": {
-    "en": "Items",
-    "pl": "Przedmioty",
-    "de": "Gegenstände",
-    "fr": "Objets",
-    "it": "Oggetti",
-    "es": "Objetos",
-    "ru": "Предметы",
-    "zh": "物品",
-    "zh2": "物品",
-    "pt": "Itens"
+    "en": "Items"
   },
   "ct_header_container_name": {
-    "en": "Header / container name",
-    "pl": "Nagłówek / nazwa kontenera",
-    "de": "Kopfzeile / Behältername",
-    "fr": "En-tête / nom du conteneur",
-    "it": "Intestazione / nome del contenitore",
-    "es": "Encabezado / nombre del contenedor",
-    "ru": "Заголовок / название контейнера",
-    "zh": "标题 / 容器名称",
-    "zh2": "標題 / 容器名稱",
-    "pt": "Cabeçalho / nome do contêiner"
+    "en": "Header / container name"
   },
   "ct_glow_meter": {
-    "en": "Glow meter",
-    "pl": "Pasek poświaty",
-    "de": "Leuchtanzeige",
-    "fr": "Jauge de lueur",
-    "it": "Indicatore di bagliore",
-    "es": "Medidor de brillo",
-    "ru": "Шкала свечения",
-    "zh": "辉光条",
-    "zh2": "輝光條",
-    "pt": "Medidor de brilho necrótico"
+    "en": "Glow meter"
   },
   "ct_frame": {
-    "en": "Frame",
-    "pl": "Ramka",
-    "de": "Rahmen",
-    "fr": "Cadre",
-    "it": "Cornice",
-    "es": "Marco",
-    "ru": "Рамка",
-    "zh": "边框",
-    "zh2": "邊框",
-    "pt": "Moldura"
+    "en": "Frame"
   },
   "ct_event_title": {
-    "en": "Event title",
-    "pl": "Tytuł wydarzenia",
-    "de": "Ereignistitel",
-    "fr": "Titre de l'événement",
-    "it": "Titolo dell'evento",
-    "es": "Título del evento",
-    "ru": "Название события",
-    "zh": "事件标题",
-    "zh2": "事件標題",
-    "pt": "Título do evento"
+    "en": "Event title"
   },
   "ct_color": {
-    "en": "Color",
-    "pl": "Kolor",
-    "de": "Farbe",
-    "fr": "Couleur",
-    "it": "Colore",
-    "es": "Color",
-    "ru": "Цвет",
-    "zh": "颜色",
-    "zh2": "顏色",
-    "pt": "Cor"
+    "en": "Color"
   },
   "ct_regular_hit": {
-    "en": "Regular hit",
-    "pl": "Zwykłe trafienie",
-    "de": "Normaler Treffer",
-    "fr": "Coup normal",
-    "it": "Colpo normale",
-    "es": "Golpe normal",
-    "ru": "Обычный удар",
-    "zh": "普通命中",
-    "zh2": "普通命中",
-    "pt": "Acerto normal"
+    "en": "Regular hit"
   },
   "ct_critical_hit": {
-    "en": "Critical hit",
-    "pl": "Trafienie krytyczne",
-    "de": "Kritischer Treffer",
-    "fr": "Coup critique",
-    "it": "Colpo critico",
-    "es": "Golpe crítico",
-    "ru": "Критический удар",
-    "zh": "暴击",
-    "zh2": "暴擊",
-    "pt": "Acerto crítico"
+    "en": "Critical hit"
   },
   "ct_reset_default": {
-    "en": "Reset to default",
-    "pl": "Przywróć domyślny",
-    "de": "Auf Standard zurücksetzen",
-    "fr": "Rétablir la valeur par défaut",
-    "it": "Ripristina predefinito",
-    "es": "Restablecer predeterminado",
-    "ru": "Сбросить по умолчанию",
-    "zh": "恢复默认",
-    "zh2": "恢復預設",
-    "pt": "Restaurar padrão"
+    "en": "Reset to default"
   },
   "ct_button_hints": {
-    "en": "Button hints",
-    "pl": "Podpowiedzi przycisków",
-    "de": "Tastenhinweise",
-    "fr": "Indications des boutons",
-    "it": "Suggerimenti dei pulsanti",
-    "es": "Indicaciones de botones",
-    "ru": "Подсказки кнопок",
-    "zh": "按键提示",
-    "zh2": "按鍵提示",
-    "pt": "Dicas de botões"
+    "en": "Button hints"
   },
   "ct_brackets": {
-    "en": "Brackets",
-    "pl": "Nawiasy",
-    "de": "Klammern",
-    "fr": "Crochets",
-    "it": "Parentesi",
-    "es": "Corchetes",
-    "ru": "Скобки",
-    "zh": "括号",
-    "zh2": "括號",
-    "pt": "Colchetes"
+    "en": "Brackets"
   },
   "ct_background": {
-    "en": "Background",
-    "pl": "Tło",
-    "de": "Hintergrund",
-    "fr": "Arrière-plan",
-    "it": "Sfondo",
-    "es": "Fondo",
-    "ru": "Фон",
-    "zh": "背景",
-    "zh2": "背景",
-    "pt": "Plano de fundo"
+    "en": "Background"
   },
   "ct_team_name": {
-    "en": "Team name",
-    "pl": "Nazwa drużyny",
-    "de": "Teamname",
-    "fr": "Nom de l'équipe",
-    "it": "Nome della squadra",
-    "es": "Nombre del equipo",
-    "ru": "Название отряда",
-    "zh": "队伍名称",
-    "zh2": "隊伍名稱",
-    "pt": "Nome da equipe"
+    "en": "Team name"
   },
   "ct_max_value": {
-    "en": "Maximum value",
-    "pl": "Wartość maksymalna",
-    "de": "Maximalwert",
-    "fr": "Valeur maximale",
-    "it": "Valore massimo",
-    "es": "Valor máximo",
-    "ru": "Максимальное значение",
-    "zh": "最大值",
-    "zh2": "最大值",
-    "pt": "Valor máximo"
+    "en": "Maximum value"
   },
   "ct_level_background": {
-    "en": "Level background",
-    "pl": "Tło poziomu",
-    "de": "Level-Hintergrund",
-    "fr": "Fond du niveau",
-    "it": "Sfondo del livello",
-    "es": "Fondo del nivel",
-    "ru": "Фон уровня",
-    "zh": "等级背景",
-    "zh2": "等級背景",
-    "pt": "Plano de fundo do nível"
+    "en": "Level background"
   },
   "ct_level_label": {
-    "en": "Level label",
-    "pl": "Etykieta poziomu",
-    "de": "Level-Beschriftung",
-    "fr": "Libellé du niveau",
-    "it": "Etichetta del livello",
-    "es": "Etiqueta del nivel",
-    "ru": "Подпись уровня",
-    "zh": "等级标签",
-    "zh2": "等級標籤",
-    "pt": "Rótulo do nível"
+    "en": "Level label"
   },
   "ct_level_value": {
-    "en": "Level value",
-    "pl": "Wartość poziomu",
-    "de": "Level-Wert",
-    "fr": "Valeur du niveau",
-    "it": "Valore del livello",
-    "es": "Valor del nivel",
-    "ru": "Значение уровня",
-    "zh": "等级数值",
-    "zh2": "等級數值",
-    "pt": "Valor do nível"
+    "en": "Level value"
   },
   "ct_xp_label": {
-    "en": "XP label",
-    "pl": "Etykieta XP",
-    "de": "XP-Beschriftung",
-    "fr": "Libellé XP",
-    "it": "Etichetta XP",
-    "es": "Etiqueta de XP",
-    "ru": "Подпись XP",
-    "zh": "XP 标签",
-    "zh2": "XP 標籤",
-    "pt": "Rótulo de XP"
+    "en": "XP label"
   },
   "ct_xp_value": {
-    "en": "XP value",
-    "pl": "Wartość XP",
-    "de": "XP-Wert",
-    "fr": "Valeur XP",
-    "it": "Valore XP",
-    "es": "Valor de XP",
-    "ru": "Значение XP",
-    "zh": "XP 数值",
-    "zh2": "XP 數值",
-    "pt": "Valor de XP"
+    "en": "XP value"
   },
   "ct_score_label": {
-    "en": "SCORE / rank label",
-    "pl": "Etykieta SCORE / rangi",
-    "de": "SCORE-/Rang-Beschriftung",
-    "fr": "Libellé SCORE / rang",
-    "it": "Etichetta SCORE / grado",
-    "es": "Etiqueta de SCORE / rango",
-    "ru": "Подпись SCORE / ранга",
-    "zh": "SCORE / 排名标签",
-    "zh2": "SCORE / 排名標籤",
-    "pt": "Rótulo de PONTUAÇÃO / classificação"
+    "en": "SCORE / rank label"
   },
   "ct_score_value": {
-    "en": "SCORE / rank value",
-    "pl": "Wartość SCORE / rangi",
-    "de": "SCORE-/Rang-Wert",
-    "fr": "Valeur SCORE / rang",
-    "it": "Valore SCORE / grado",
-    "es": "Valor de SCORE / rango",
-    "ru": "Значение SCORE / ранга",
-    "zh": "SCORE / 排名数值",
-    "zh2": "SCORE / 排名數值",
-    "pt": "Valor de PONTUAÇÃO / classificação"
+    "en": "SCORE / rank value"
   },
   "ct_text": {
-    "en": "Text",
-    "pl": "Tekst",
-    "de": "Text",
-    "fr": "Texte",
-    "it": "Testo",
-    "es": "Texto",
-    "ru": "Текст",
-    "zh": "文字",
-    "zh2": "文字",
-    "pt": "Texto"
+    "en": "Text"
   },
   "ct_default": {
-    "en": "Default",
-    "pl": "Domyślny",
-    "de": "Standard",
-    "fr": "Par défaut",
-    "it": "Predefinito",
-    "es": "Predeterminado",
-    "ru": "По умолчанию",
-    "zh": "默认",
-    "zh2": "預設",
-    "pt": "Padrão"
+    "en": "Default"
   },
   "ct_value": {
-    "en": "Value",
-    "pl": "Wartość",
-    "de": "Wert",
-    "fr": "Valeur",
-    "it": "Valore",
-    "es": "Valor",
-    "ru": "Значение",
-    "zh": "数值",
-    "zh2": "數值",
-    "pt": "Valor"
+    "en": "Value"
   },
   "ct_item_value": {
-    "en": "Item {index} value",
-    "pl": "Przedmiot {index}: wartość",
-    "de": "Eintrag {index}: Wert",
-    "fr": "Objet {index} : valeur",
-    "it": "Oggetto {index}: valore",
-    "es": "Objeto {index}: valor",
-    "ru": "Предмет {index}: значение",
-    "zh": "物品 {index} 数值",
-    "zh2": "物品 {index} 數值",
-    "pt": "Valor do item {index}"
+    "en": "Item {index} value"
   },
   "ct_item_label": {
-    "en": "Item {index} label",
-    "pl": "Przedmiot {index}: etykieta",
-    "de": "Eintrag {index}: Beschriftung",
-    "fr": "Objet {index} : libellé",
-    "it": "Oggetto {index}: etichetta",
-    "es": "Objeto {index}: etiqueta",
-    "ru": "Предмет {index}: подпись",
-    "zh": "物品 {index} 标签",
-    "zh2": "物品 {index} 標籤",
-    "pt": "Rótulo do item {index}"
+    "en": "Item {index} label"
   },
   "ct_location": {
-    "en": "Location",
-    "pl": "Lokalizacja",
-    "de": "Ort",
-    "fr": "Lieu",
-    "it": "Luogo",
-    "es": "Ubicación",
-    "ru": "Локация",
-    "zh": "地点",
-    "zh2": "地點",
-    "pt": "Local"
+    "en": "Location"
   },
   "ct_time": {
-    "en": "Time",
-    "pl": "Czas",
-    "de": "Zeit",
-    "fr": "Heure",
-    "it": "Ora",
-    "es": "Hora",
-    "ru": "Время",
-    "zh": "时间",
-    "zh2": "時間",
-    "pt": "Hora"
+    "en": "Time"
   },
   "ct_local_time": {
-    "en": "Local time",
-    "pl": "Czas lokalny",
-    "de": "Ortszeit",
-    "fr": "Heure locale",
-    "it": "Ora locale",
-    "es": "Hora local",
-    "ru": "Местное время",
-    "zh": "本地时间",
-    "zh2": "本機時間",
-    "pt": "Hora local"
+    "en": "Local time"
   },
   "ct_weapon": {
-    "en": "Weapon",
-    "pl": "Broń",
-    "de": "Waffe",
-    "fr": "Arme",
-    "it": "Arma",
-    "es": "Arma",
-    "ru": "Оружие",
-    "zh": "武器",
-    "zh2": "武器",
-    "pt": "Arma"
+    "en": "Weapon"
   },
   "ct_ammo": {
-    "en": "Ammo",
-    "pl": "Amunicja",
-    "de": "Munition",
-    "fr": "Munitions",
-    "it": "Munizioni",
-    "es": "Munición",
-    "ru": "Патроны",
-    "zh": "弹药",
-    "zh2": "彈藥",
-    "pt": "Munição"
+    "en": "Ammo"
   },
   "ct_max_ammo": {
-    "en": "Reserve ammo",
-    "pl": "Zapas amunicji",
-    "de": "Munitionsvorrat",
-    "fr": "Munitions en réserve",
-    "it": "Munizioni di riserva",
-    "es": "Munición de reserva",
-    "ru": "Запас патронов",
-    "zh": "备用弹药",
-    "zh2": "備用彈藥",
-    "pt": "Munição de reserva"
+    "en": "Reserve ammo"
   },
   "ct_grenade": {
-    "en": "Grenades",
-    "pl": "Granaty",
-    "de": "Granaten",
-    "fr": "Grenades",
-    "it": "Granate",
-    "es": "Granadas",
-    "ru": "Гранаты",
-    "zh": "手雷",
-    "zh2": "手榴彈",
-    "pt": "Granadas"
+    "en": "Grenades"
   },
   "menu_back": {
-    "en": "< Back",
-    "pl": "< Wstecz",
-    "de": "< Zurück",
-    "fr": "< Retour",
-    "it": "< Indietro",
-    "es": "< Atrás",
-    "ru": "< Назад",
-    "zh": "< 返回",
-    "zh2": "< 返回",
-    "pt": "< Voltar"
+    "en": "< Back"
   },
   "menu_value_on": {
-    "en": "ON",
-    "pl": "WŁ.",
-    "de": "AN",
-    "fr": "ACTIF",
-    "it": "ON",
-    "es": "ACTIVO",
-    "ru": "ВКЛ",
-    "zh": "开",
-    "zh2": "開",
-    "pt": "ATIVADO"
+    "en": "ON"
   },
   "menu_value_off": {
-    "en": "OFF",
-    "pl": "WYŁ.",
-    "de": "AUS",
-    "fr": "INACTIF",
-    "it": "OFF",
-    "es": "INACTIVO",
-    "ru": "ВЫКЛ",
-    "zh": "关",
-    "zh2": "關",
-    "pt": "DESATIVADO"
+    "en": "OFF"
   },
   "settings_footer_tabs": {
-    "en": "{key}/L3+R3 Close  |  Left/Right Tab  |  Enter/A/Down Open",
-    "pl": "{key}/L3+R3 Zamknij  |  Lewo/Prawo Karta  |  Enter/A/Dół Otwórz",
-    "de": "{key}/L3+R3 Schließen  |  Links/Rechts Reiter  |  Enter/A/Runter Öffnen",
-    "fr": "{key}/L3+R3 Fermer  |  Gauche/Droite Onglet  |  Entrée/A/Bas Ouvrir",
-    "it": "{key}/L3+R3 Chiudi  |  Sinistra/Destra Scheda  |  Invio/A/Giù Apri",
-    "es": "{key}/L3+R3 Cerrar  |  Izquierda/Derecha Pestaña  |  Intro/A/Abajo Abrir",
-    "ru": "{key}/L3+R3 Закрыть  |  Влево/Вправо Вкладка  |  Enter/A/Вниз Открыть",
-    "zh": "{key}/L3+R3 关闭  |  左/右 标签页  |  Enter/A/下 打开",
-    "zh2": "{key}/L3+R3 關閉  |  左/右 分頁  |  Enter/A/下 開啟",
-    "pt": "{key}/L3+R3: FECHAR  |  ESQUERDA/DIREITA: MUDAR ABA  |  ENTER/A/BAIXO: ABRIR"
+    "en": "{key}/L3+R3 Close  |  Left/Right Tab  |  Enter/A/Down Open"
   },
   "settings_footer_root": {
-    "en": "{key}/L3+R3 Close  |  Up/Down Widget  |  Enter/A/Right Open  |  Left Back",
-    "pl": "{key}/L3+R3 Zamknij  |  Góra/Dół Widżet  |  Enter/A/Prawo Otwórz  |  Lewo Wstecz",
-    "de": "{key}/L3+R3 Schließen  |  Hoch/Runter Widget  |  Enter/A/Rechts Öffnen  |  Links Zurück",
-    "fr": "{key}/L3+R3 Fermer  |  Haut/Bas Widget  |  Entrée/A/Droite Ouvrir  |  Gauche Retour",
-    "it": "{key}/L3+R3 Chiudi  |  Su/Giù Widget  |  Invio/A/Destra Apri  |  Sinistra Indietro",
-    "es": "{key}/L3+R3 Cerrar  |  Arriba/Abajo Widget  |  Intro/A/Derecha Abrir  |  Izquierda Atrás",
-    "ru": "{key}/L3+R3 Закрыть  |  Вверх/Вниз Виджет  |  Enter/A/Вправо Открыть  |  Влево Назад",
-    "zh": "{key}/L3+R3 关闭  |  上/下 控件  |  Enter/A/右 打开  |  左 返回",
-    "zh2": "{key}/L3+R3 關閉  |  上/下 控制項  |  Enter/A/右 開啟  |  左 返回",
-    "pt": "{key}/L3+R3: FECHAR  |  CIMA/BAIXO: NAVEGAR ENTRE WIDGETS  |  ENTER/A/DIREITA: ABRIR  |  ESQUERDA: VOLTAR"
+    "en": "{key}/L3+R3 Close  |  Up/Down Widget  |  Enter/A/Right Open  |  Left Back"
   },
   "settings_footer_detail": {
-    "en": "{key}/L3+R3 Close  |  Up/Down Setting  |  Enter/A/Right Select/Edit  |  Hold Left/Right Adjust  |  Left Back",
-    "pl": "{key}/L3+R3 Zamknij  |  Góra/Dół Ustawienie  |  Enter/A/Prawo Wybierz/Edytuj  |  Przytrzymaj Lewo/Prawo Zmień  |  Lewo Wstecz",
-    "de": "{key}/L3+R3 Schließen  |  Hoch/Runter Einstellung  |  Enter/A/Rechts Wählen/Bearbeiten  |  Links/Rechts halten: Anpassen  |  Links Zurück",
-    "fr": "{key}/L3+R3 Fermer  |  Haut/Bas Réglage  |  Entrée/A/Droite Choisir/Modifier  |  Maintenir Gauche/Droite Ajuster  |  Gauche Retour",
-    "it": "{key}/L3+R3 Chiudi  |  Su/Giù Impostazione  |  Invio/A/Destra Seleziona/Modifica  |  Tieni Sinistra/Destra Regola  |  Sinistra Indietro",
-    "es": "{key}/L3+R3 Cerrar  |  Arriba/Abajo Ajuste  |  Intro/A/Derecha Seleccionar/Editar  |  Mantener Izquierda/Derecha Ajustar  |  Izquierda Atrás",
-    "ru": "{key}/L3+R3 Закрыть  |  Вверх/Вниз Параметр  |  Enter/A/Вправо Выбрать/Изменить  |  Удерживать Влево/Вправо Изменить  |  Влево Назад",
-    "zh": "{key}/L3+R3 关闭  |  上/下 设置项  |  Enter/A/右 选择/编辑  |  按住 左/右 调整  |  左 返回",
-    "zh2": "{key}/L3+R3 關閉  |  上/下 設定項  |  Enter/A/右 選擇/編輯  |  按住 左/右 調整  |  左 返回",
-    "pt": "{key}/L3+R3: FECHAR  |  CIMA/BAIXO: NAVEGAR NAS OPÇÕES  |  ENTER/A/DIREITA: SELECIONAR/EDITAR  |  SEGURE ESQUERDA/DIREITA: AJUSTAR  |  ESQUERDA: VOLTAR"
+    "en": "{key}/L3+R3 Close  |  Up/Down Setting  |  Enter/A/Right Select/Edit  |  Hold Left/Right Adjust  |  Left Back"
   },
   "f11_settings_hint": {
-    "en": "{keys} for settings",
-    "pl": "{keys} - ustawienia",
-    "de": "{keys} für Einstellungen",
-    "fr": "{keys} pour les réglages",
-    "it": "{keys} per le impostazioni",
-    "es": "{keys} para ajustes",
-    "ru": "{keys} - настройки",
-    "zh": "按 {keys} 打开设置",
-    "zh2": "按 {keys} 開啟設定",
-    "pt": "{keys} para abrir as configurações"
+    "en": "{keys} for settings"
   },
   "f11_read_only": {
-    "en": "Read-only JSON: {status}; {key} unavailable",
-    "pl": "JSON tylko do odczytu: {status}; {key} niedostępny",
-    "de": "JSON schreibgeschützt: {status}; {key} nicht verfügbar",
-    "fr": "JSON en lecture seule : {status} ; {key} indisponible",
-    "it": "JSON in sola lettura: {status}; {key} non disponibile",
-    "es": "JSON de solo lectura: {status}; {key} no disponible",
-    "ru": "JSON только для чтения: {status}; {key} недоступен",
-    "zh": "JSON 为只读：{status}；{key} 不可用",
-    "zh2": "JSON 為唯讀：{status}；{key} 不可用",
-    "pt": "JSON somente leitura: {status}; {key} indisponível"
+    "en": "Read-only JSON: {status}; {key} unavailable"
   },
   "runtime_no_key_suppression": {
-    "en": "This extender cannot block keys: hotkeys also reach the game",
-    "pl": "Ten extender nie blokuje klawiszy: skróty trafiają też do gry",
-    "de": "Dieser Extender kann keine Tasten blockieren: Hotkeys erreichen auch das Spiel",
-    "fr": "Cet extender ne peut pas bloquer les touches : les raccourcis atteignent aussi le jeu",
-    "it": "Questo extender non blocca i tasti: le scorciatoie arrivano anche al gioco",
-    "es": "Este extender no puede bloquear teclas: los atajos también llegan al juego",
-    "ru": "Этот extender не блокирует клавиши: горячие клавиши доходят и до игры",
-    "zh": "此 Extender 无法拦截按键：热键也会传给游戏",
-    "zh2": "此 Extender 無法攔截按鍵：熱鍵也會傳給遊戲",
-    "pt": "Este extensor não consegue bloquear teclas: os atalhos também são enviados ao jogo"
+    "en": "This extender cannot block keys: hotkeys also reach the game"
   },
   "hotkey_not_suppressed": {
-    "en": "Hotkey {keys} also reaches the game. Update xScal to a version with key suppression, or use a key the game does not use.",
-    "pl": "Skrót {keys} trafia też do gry. Zaktualizuj xScal do wersji z blokowaniem klawiszy albo użyj klawisza, którego gra nie używa.",
-    "de": "Hotkey {keys} erreicht auch das Spiel. Aktualisiere xScal auf eine Version mit Tastenblockierung oder nutze eine Taste, die das Spiel nicht verwendet.",
-    "fr": "Le raccourci {keys} atteint aussi le jeu. Mettez à jour xScal vers une version qui bloque les touches, ou utilisez une touche que le jeu n'utilise pas.",
-    "it": "La scorciatoia {keys} arriva anche al gioco. Aggiorna xScal a una versione con blocco dei tasti o usa un tasto non usato dal gioco.",
-    "es": "El atajo {keys} también llega al juego. Actualiza xScal a una versión con bloqueo de teclas o usa una tecla que el juego no use.",
-    "ru": "Горячая клавиша {keys} доходит и до игры. Обновите xScal до версии с блокировкой клавиш или выберите клавишу, которую игра не использует.",
-    "zh": "热键 {keys} 也会传给游戏。请将 xScal 更新到支持按键拦截的版本，或使用游戏未占用的按键。",
-    "zh2": "熱鍵 {keys} 也會傳給遊戲。請將 xScal 更新到支援按鍵攔截的版本，或使用遊戲未佔用的按鍵。",
-    "pt": "O atalho {keys} também é enviado ao jogo. Atualize o xScal para uma versão com bloqueio de teclas ou use uma tecla que o jogo não utilize."
+    "en": "Hotkey {keys} also reaches the game. Update xScal to a version with key suppression, or use a key the game does not use."
   },
   "menu_color": {
-    "en": "Color",
-    "pl": "Kolor",
-    "de": "Farbe",
-    "fr": "Couleur",
-    "it": "Colore",
-    "es": "Color",
-    "ru": "Цвет",
-    "zh": "颜色",
-    "zh2": "顏色",
-    "pt": "Cor"
+    "en": "Color"
   },
   "menu_widgets": {
-    "en": "Widgets",
-    "pl": "Widżety",
-    "de": "Widgets",
-    "fr": "Widgets",
-    "it": "Widget",
-    "es": "Widgets",
-    "ru": "Виджеты",
-    "zh": "控件",
-    "zh2": "控制項",
-    "pt": "Widgets"
+    "en": "Widgets"
   },
   "menu_hide_compass_bracket": {
-    "en": "Hide bracket",
-    "pl": "Ukryj ramkę",
-    "de": "Klammer ausblenden",
-    "fr": "Masquer le cadre",
-    "it": "Nascondi cornice",
-    "es": "Ocultar marco",
-    "ru": "Скрыть рамку",
-    "zh": "隐藏框线",
-    "zh2": "隱藏框線",
-    "pt": "Ocultar colchete"
+    "en": "Hide bracket"
   },
   "menu_hide_compass_icons": {
-    "en": "Hide icons",
-    "pl": "Ukryj ikony",
-    "de": "Symbole ausblenden",
-    "fr": "Masquer les icônes",
-    "it": "Nascondi icone",
-    "es": "Ocultar iconos",
-    "ru": "Скрыть значки",
-    "zh": "隐藏图标",
-    "zh2": "隱藏圖示",
-    "pt": "Ocultar ícones"
+    "en": "Hide icons"
   },
   "menu_hide_compass_quest_markers": {
-    "en": "Hide quest markers",
-    "pl": "Ukryj znaczniki zadań",
-    "de": "Questmarker ausblenden",
-    "fr": "Masquer les marqueurs de quête",
-    "it": "Nascondi indicatori missione",
-    "es": "Ocultar marcadores de misión",
-    "ru": "Скрыть маркеры заданий",
-    "zh": "隐藏任务标记",
-    "zh2": "隱藏任務標記",
-    "pt": "Ocultar marcadores de missão"
+    "en": "Hide quest markers"
   },
   "menu_hide_compass_area_quest": {
-    "en": "Hide quest area indicator",
-    "pl": "Ukryj wskaźnik obszaru zadania",
-    "de": "Questgebiet-Anzeige ausblenden",
-    "fr": "Masquer l'indicateur de zone de quête",
-    "it": "Nascondi indicatore area missione",
-    "es": "Ocultar indicador de zona de misión",
-    "ru": "Скрыть индикатор зоны задания",
-    "zh": "隐藏任务区域提示",
-    "zh2": "隱藏任務區域提示",
-    "pt": "Ocultar indicador da área da missão"
+    "en": "Hide quest area indicator"
   },
   "menu_general": {
-    "en": "General",
-    "pl": "Ogólne",
-    "de": "Allgemein",
-    "fr": "Général",
-    "it": "Generale",
-    "es": "General",
-    "ru": "Общие",
-    "zh": "常规",
-    "zh2": "常規",
-    "pt": "Geral"
+    "en": "General"
   },
   "menu_survival_bars_indefinite_show": {
-    "en": "Bars always shown below",
-    "pl": "Paski zawsze widoczne poniżej",
-    "de": "Balken immer sichtbar unter",
-    "fr": "Barres toujours visibles sous",
-    "it": "Barre sempre visibili sotto",
-    "es": "Barras siempre visibles bajo",
-    "ru": "Всегда показывать шкалы ниже",
-    "zh": "低于此值时始终显示",
-    "zh2": "低於此值時始終顯示",
-    "pt": "Manter as barras sempre visíveis abaixo deste limite"
+    "en": "Bars always shown below"
   },
   "menu_xscal_call_intervals": {
-    "en": "xScal call intervals",
-    "pl": "Interwały wywołań xScal",
-    "de": "xScal-Aufrufintervalle",
-    "fr": "Intervalles d’appel xScal",
-    "it": "Intervalli chiamate xScal",
-    "es": "Intervalos de llamadas xScal",
-    "ru": "Интервалы вызовов xScal",
-    "zh": "xScal 调用间隔",
-    "zh2": "xScal 呼叫間隔",
-    "pt": "Intervalos de chamadas do xScal"
+    "en": "xScal call intervals"
   },
   "menu_xscal_call_intervals_reset": {
-    "en": "Reset xScal intervals",
-    "pl": "Resetuj interwały xScal",
-    "de": "xScal-Intervalle zurücksetzen",
-    "fr": "Réinitialiser les intervalles xScal",
-    "it": "Reimposta intervalli xScal",
-    "es": "Restablecer intervalos xScal",
-    "ru": "Сбросить интервалы xScal",
-    "zh": "重置 xScal 间隔",
-    "zh2": "重設 xScal 間隔",
-    "pt": "Redefinir intervalos do xScal"
+    "en": "Reset xScal intervals"
   },
   "menu_xscal_call_intervals_warning": {
-    "en": "* default. Advanced only—use at your own risk; reset on FPS loss.",
-    "pl": "* domyślne. Tylko dla zaawansowanych—na własne ryzyko; zresetuj przy spadku FPS.",
-    "de": "* Standard. Nur für Fortgeschrittene—Änderung auf eigenes Risiko; bei FPS-Verlust zurücksetzen.",
-    "fr": "* défaut. Réservé aux utilisateurs avancés—à vos risques; réinitialisez si les FPS baissent.",
-    "it": "* predefinito. Solo utenti esperti—a proprio rischio; reimposta se gli FPS calano.",
-    "es": "* predeterminado. Solo usuarios avanzados—bajo tu responsabilidad; restablece si bajan los FPS.",
-    "ru": "* по умолчанию. Только для опытных пользователей—на свой риск; сбросьте при падении FPS.",
-    "zh": "* 默认值。仅限高级用户，风险自负；FPS 下降时请重置。",
-    "zh2": "* 預設值。僅限進階使用者，風險自負；FPS 下降時請重設。",
-    "pt": "* padrão. Apenas para usuários avançados — use por sua conta e risco; restaure o padrão se houver perda de FPS."
+    "en": "* default. Advanced only—use at your own risk; reset on FPS loss."
   },
   "menu_whats_new": {
-    "en": "What's new",
-    "pl": "Co nowego",
-    "de": "Was ist neu",
-    "fr": "Nouveautés",
-    "it": "Novità",
-    "es": "Novedades",
-    "ru": "Что нового",
-    "zh": "新功能",
-    "zh2": "新功能",
-    "pt": "Novidades"
+    "en": "What's new"
   },
   "menu_save_settings": {
-    "en": "Save settings",
-    "pl": "Zapis ustawień",
-    "de": "Einstellungen speichern",
-    "fr": "Enregistrer les paramètres",
-    "it": "Salvataggio impostazioni",
-    "es": "Guardar ajustes",
-    "ru": "Сохранение настроек",
-    "zh": "保存设置",
-    "zh2": "儲存設定",
-    "pt": "Salvar configurações"
+    "en": "Save settings"
   },
   "menu_save_f10_close": {
-    "en": "F10 close",
-    "pl": "Zamknięcie F10",
-    "de": "F10 schließen",
-    "fr": "Fermeture F10",
-    "it": "Chiusura F10",
-    "es": "Cerrar F10",
-    "ru": "Закрытие F10",
-    "zh": "关闭 F10",
-    "zh2": "關閉 F10",
-    "pt": "Fechar com F10"
+    "en": "F10 close"
   },
   "menu_save_pause_map": {
-    "en": "Pause / Map",
-    "pl": "Pauza / Mapa",
-    "de": "Pause / Karte",
-    "fr": "Pause / Carte",
-    "it": "Pausa / Mappa",
-    "es": "Pausa / Mapa",
-    "ru": "Пауза / Карта",
-    "zh": "暂停 / 地图",
-    "zh2": "暫停 / 地圖",
-    "pt": "Pausa / Mapa"
+    "en": "Pause / Map"
   },
   "menu_vanilla_hud_elements": {
-    "en": "Vanilla HUD Elements",
-    "pl": "Elementy standardowego HUD",
-    "de": "Vanilla-HUD-Elemente",
-    "fr": "Éléments du HUD d’origine",
-    "it": "Elementi HUD originali",
-    "es": "Elementos del HUD original",
-    "ru": "Элементы стандартного HUD",
-    "zh": "原版 HUD 元素",
-    "zh2": "原版 HUD 元素",
-    "pt": "Elementos nativos do HUD"
+    "en": "Vanilla HUD Elements"
   },
   "menu_hp_meter": {
-    "en": "HP meter",
-    "pl": "Wskaźnik PW",
-    "de": "TP-Anzeige",
-    "fr": "Jauge de PV",
-    "it": "Indicatore PV",
-    "es": "Indicador de PS",
-    "ru": "Индикатор ОЗ",
-    "zh": "生命值条",
-    "zh2": "生命值條",
-    "pt": "Medidor de vida (HP)"
+    "en": "HP meter"
   },
   "menu_ap_meter": {
-    "en": "AP meter",
-    "pl": "Wskaźnik AP",
-    "de": "AP-Anzeige",
-    "fr": "Jauge de PA",
-    "it": "Indicatore PA",
-    "es": "Indicador de PA",
-    "ru": "Индикатор ОД",
-    "zh": "行动点数条",
-    "zh2": "行動點數條",
-    "pt": "Medidor de pontos de ação (PA)"
+    "en": "AP meter"
   },
   "menu_active_effect_icons": {
-    "en": "Active effect icons",
-    "pl": "Ikony aktywnych efektów",
-    "de": "Symbole aktiver Effekte",
-    "fr": "Icônes des effets actifs",
-    "it": "Icone effetti attivi",
-    "es": "Iconos de efectos activos",
-    "ru": "Значки активных эффектов",
-    "zh": "活跃效果图标",
-    "zh2": "啟用效果圖示",
-    "pt": "Ícones de efeitos ativos"
+    "en": "Active effect icons"
   },
   "menu_quick_container": {
-    "en": "Quick container",
-    "pl": "Szybki pojemnik",
-    "de": "Schnellcontainer",
-    "fr": "Conteneur rapide",
-    "it": "Contenitore rapido",
-    "es": "Contenedor rápido",
-    "ru": "Быстрый контейнер",
-    "zh": "快速容器",
-    "zh2": "快速容器",
-    "pt": "Contêiner rápido"
+    "en": "Quick container"
   },
   "menu_hud_messages": {
-    "en": "HUD messages",
-    "pl": "Komunikaty HUD",
-    "de": "HUD-Meldungen",
-    "fr": "Messages du HUD",
-    "it": "Messaggi HUD",
-    "es": "Mensajes del HUD",
-    "ru": "Сообщения HUD",
-    "zh": "HUD 消息",
-    "zh2": "HUD 訊息",
-    "pt": "Mensagens do HUD"
+    "en": "HUD messages"
   },
   "menu_interaction_prompt": {
-    "en": "Interaction prompt",
-    "pl": "Monit interakcji",
-    "de": "Interaktionshinweis",
-    "fr": "Invite d’interaction",
-    "it": "Prompt di interazione",
-    "es": "Indicador de interacción",
-    "ru": "Подсказка взаимодействия",
-    "zh": "交互提示",
-    "zh2": "互動提示",
-    "pt": "Aviso de interação"
+    "en": "Interaction prompt"
   },
   "menu_show_hp_label": {
-    "en": "Show HP label",
-    "pl": "Pokaż etykietę PW",
-    "de": "TP-Beschriftung anzeigen",
-    "fr": "Afficher le libellé PV",
-    "it": "Mostra etichetta PV",
-    "es": "Mostrar etiqueta PS",
-    "ru": "Показывать метку ОЗ",
-    "zh": "显示生命值标签",
-    "zh2": "顯示生命值標籤",
-    "pt": "Mostrar rótulo de HP"
+    "en": "Show HP label"
   },
   "menu_show_ap_label": {
-    "en": "Show AP label",
-    "pl": "Pokaż etykietę AP",
-    "de": "AP-Beschriftung anzeigen",
-    "fr": "Afficher le libellé PA",
-    "it": "Mostra etichetta PA",
-    "es": "Mostrar etiqueta PA",
-    "ru": "Показывать метку ОД",
-    "zh": "显示行动点数标签",
-    "zh2": "顯示行動點數標籤",
-    "pt": "Mostrar rótulo de PA"
+    "en": "Show AP label"
   },
   "menu_compass": {
-    "en": "Compass",
-    "pl": "Kompas",
-    "de": "Kompass",
-    "fr": "Boussole",
-    "it": "Bussola",
-    "es": "Brújula",
-    "ru": "Компас",
-    "zh": "指南针",
-    "zh2": "指南針",
-    "pt": "Bússola"
+    "en": "Compass"
   },
   "menu_icons_style": {
-    "en": "Icons style",
-    "pl": "Styl ikon",
-    "de": "Symbolstil",
-    "fr": "Style des icônes",
-    "it": "Stile icone",
-    "es": "Estilo de iconos",
-    "ru": "Стиль иконок",
-    "zh": "图标样式",
-    "zh2": "圖示樣式",
-    "pt": "Estilo dos ícones"
+    "en": "Icons style"
   },
   "menu_position_type": {
-    "en": "Position type",
-    "pl": "Typ pozycji",
-    "de": "Positionstyp",
-    "fr": "Type de position",
-    "it": "Tipo di posizione",
-    "es": "Tipo de posición",
-    "ru": "Тип позиции",
-    "zh": "位置类型",
-    "zh2": "位置類型",
-    "pt": "Tipo de posição"
+    "en": "Position type"
   },
   "menu_format_type": {
-    "en": "Format type",
-    "pl": "Format",
-    "de": "Formattyp",
-    "fr": "Type de format",
-    "it": "Tipo formato",
-    "es": "Tipo de formato",
-    "ru": "Формат",
-    "zh": "格式类型",
-    "zh2": "格式類型",
-    "pt": "Formato"
+    "en": "Format type"
   },
   "menu_highlight_changes": {
-    "en": "Highlight changes",
-    "pl": "Wyróżnij zmiany",
-    "de": "Änderungen hervorheben",
-    "fr": "Mettre en évidence les changements",
-    "it": "Evidenzia modifiche",
-    "es": "Resaltar cambios",
-    "ru": "Выделить изменения",
-    "zh": "突出显示更改",
-    "zh2": "強調顯示變更",
-    "pt": "Destacar alterações"
+    "en": "Highlight changes"
   },
   "menu_health_bar": {
-    "en": "Health bar",
-    "pl": "Pasek zdrowia",
-    "de": "Gesundheitsleiste",
-    "fr": "Barre de santé",
-    "it": "Barra salute",
-    "es": "Barra de salud",
-    "ru": "Полоска здоровья",
-    "zh": "生命条",
-    "zh2": "生命值",
-    "pt": "Barra de vida"
+    "en": "Health bar"
   },
   "menu_hunger_bar": {
-    "en": "Hunger bar",
-    "pl": "Pasek głodu",
-    "de": "Hungerleiste",
-    "fr": "Barre de faim",
-    "it": "Barra fame",
-    "es": "Barra de hambre",
-    "ru": "Полоска голода",
-    "zh": "饥饿条",
-    "zh2": "飢餓值",
-    "pt": "Barra de fome"
+    "en": "Hunger bar"
   },
   "menu_thirst_bar": {
-    "en": "Thirst bar",
-    "pl": "Pasek pragnienia",
-    "de": "Durstleiste",
-    "fr": "Barre de soif",
-    "it": "Barra sete",
-    "es": "Barra de sed",
-    "ru": "Полоска жажды",
-    "zh": "口渴条",
-    "zh2": "口渴值",
-    "pt": "Barra de sede"
+    "en": "Thirst bar"
   },
   "menu_feral_meter": {
-    "en": "Feral meter",
-    "pl": "Pasek zdziczenia",
-    "de": "Wildheitsanzeige",
-    "fr": "Jauge de férocité",
-    "it": "Barra ferale",
-    "es": "Barra de salvajismo",
-    "ru": "Шкала одичания",
-    "zh": "野化条",
-    "zh2": "野化條",
-    "pt": "Medidor de ferocidade"
+    "en": "Feral meter"
   },
   "menu_ammo_count": {
-    "en": "Ammo counter",
-    "pl": "Licznik amunicji",
-    "de": "Munitionsanzeige",
-    "fr": "Compteur de munitions",
-    "it": "Contatore munizioni",
-    "es": "Contador de munición",
-    "ru": "Счётчик патронов",
-    "zh": "弹药计数",
-    "zh2": "彈藥計數",
-    "pt": "Contador de munição"
+    "en": "Ammo counter"
   },
   "menu_grenade_count": {
-    "en": "Grenade counter",
-    "pl": "Licznik granatów",
-    "de": "Granatenanzeige",
-    "fr": "Compteur de grenades",
-    "it": "Contatore granate",
-    "es": "Contador de granadas",
-    "ru": "Счётчик гранат",
-    "zh": "手雷计数",
-    "zh2": "手榴彈計數",
-    "pt": "Contador de granadas"
+    "en": "Grenade counter"
   },
   "menu_xp_info": {
-    "en": "XP/SCORE widget",
-    "pl": "Widżet XP/SCORE",
-    "de": "XP/SCORE-Widget",
-    "fr": "Widget XP/SCORE",
-    "it": "Widget XP/SCORE",
-    "es": "Widget de XP/SCORE",
-    "ru": "Виджет XP/SCORE",
-    "zh": "XP/SCORE 小组件",
-    "zh2": "XP/SCORE 小工具",
-    "pt": "Widget de XP/PONTUAÇÃO"
+    "en": "XP/SCORE widget"
   },
   "menu_playerscount_info": {
-    "en": "Players Count",
-    "pl": "Liczba graczy",
-    "de": "Spieleranzahl",
-    "fr": "Nombre de joueurs",
-    "it": "Numero giocatori",
-    "es": "Cantidad de jugadores",
-    "ru": "Количество игроков",
-    "zh": "玩家数量",
-    "zh2": "玩家數量",
-    "pt": "Contagem de jogadores"
+    "en": "Players Count"
   },
   "menu_players_browser": {
-    "en": "Players Browser",
-    "pl": "Przeglądarka graczy",
-    "de": "Spielerbrowser",
-    "fr": "Navigateur de joueurs",
-    "it": "Browser giocatori",
-    "es": "Navegador de jugadores",
-    "ru": "Браузер игроков",
-    "zh": "玩家浏览器",
-    "zh2": "玩家瀏覽器",
-    "pt": "Lista de jogadores"
+    "en": "Players Browser"
   },
   "menu_pipboy_light": {
-    "en": "Pip-Boy light",
-    "pl": "Światło Pip-Boya",
-    "de": "Pip-Boy-Licht",
-    "fr": "Lumière du Pip-Boy",
-    "it": "Luce del Pip-Boy",
-    "es": "Luz del Pip-Boy",
-    "ru": "Фонарь Пип-Боя",
-    "zh": "哔哔小子灯光",
-    "zh2": "嗶嗶小子燈光",
-    "pt": "Luz do Pip-Boy"
+    "en": "Pip-Boy light"
   },
   "menu_challenges_tracked_only": {
-    "en": "Tracked challenges only",
-    "pl": "Tylko śledzone wyzwania",
-    "de": "Nur verfolgte Herausforderungen",
-    "fr": "Défis suivis uniquement",
-    "it": "Solo sfide tracciate",
-    "es": "Solo desafíos rastreados",
-    "ru": "Только отслеживаемые испытания",
-    "zh": "仅显示追踪的挑战",
-    "zh2": "僅顯示追蹤的挑戰",
-    "pt": "Somente desafios rastreados"
+    "en": "Tracked challenges only"
   },
   "menu_activity_show": {
-    "en": "Show",
-    "pl": "Pokazuj",
-    "de": "Anzeigen",
-    "fr": "Afficher",
-    "it": "Mostra",
-    "es": "Mostrar",
-    "ru": "Показывать",
-    "zh": "显示",
-    "zh2": "顯示",
-    "pt": "Mostrar"
+    "en": "Show"
   },
   "menu_activity_infestations": {
-    "en": "Infestations",
-    "pl": "Plagi",
-    "de": "Befall",
-    "fr": "Infestations",
-    "it": "Infestazioni",
-    "es": "Infestaciones",
-    "ru": "Заражения",
-    "zh": "虫害",
-    "zh2": "蟲害",
-    "pt": "Infestações"
+    "en": "Infestations"
   },
   "menu_icon": {
-    "en": "Icon",
-    "pl": "Ikona",
-    "de": "Symbol",
-    "fr": "Icône",
-    "it": "Icona",
-    "es": "Icono",
-    "ru": "Иконка",
-    "zh": "图标",
-    "zh2": "圖示",
-    "pt": "Ícone"
+    "en": "Icon"
   },
   "menu_weapon_name": {
-    "en": "Weapon name",
-    "pl": "Nazwa broni",
-    "de": "Waffenname",
-    "fr": "Nom de l'arme",
-    "it": "Nome arma",
-    "es": "Nombre del arma",
-    "ru": "Название оружия",
-    "zh": "武器名称",
-    "zh2": "武器名稱",
-    "pt": "Nome da arma"
+    "en": "Weapon name"
   },
   "menu_always_show": {
-    "en": "Always show",
-    "pl": "Zawsze pokazuj",
-    "de": "Immer anzeigen",
-    "fr": "Toujours afficher",
-    "it": "Mostra sempre",
-    "es": "Mostrar siempre",
-    "ru": "Всегда показывать",
-    "zh": "始终显示",
-    "zh2": "總是顯示",
-    "pt": "Sempre mostrar"
+    "en": "Always show"
   },
   "menu_compass_ticks": {
-    "en": "Ticks",
-    "pl": "Podziałka",
-    "de": "Skalenstriche",
-    "fr": "Graduations",
-    "it": "Tacche",
-    "es": "Marcas",
-    "ru": "Деления",
-    "zh": "刻度",
-    "zh2": "刻度",
-    "pt": "Marcações"
+    "en": "Ticks"
   },
   "menu_compass_cardinals": {
-    "en": "Cardinal directions",
-    "pl": "Kierunki główne",
-    "de": "Haupthimmelsrichtungen",
-    "fr": "Points cardinaux",
-    "it": "Punti cardinali",
-    "es": "Puntos cardinales",
-    "ru": "Основные направления",
-    "zh": "主方向",
-    "zh2": "主方向",
-    "pt": "Pontos cardeais"
+    "en": "Cardinal directions"
   },
   "menu_compass_intercardinals": {
-    "en": "Intercardinal directions",
-    "pl": "Kierunki pośrednie",
-    "de": "Nebenhimmelsrichtungen",
-    "fr": "Points intercardinaux",
-    "it": "Punti intermedi",
-    "es": "Puntos intermedios",
-    "ru": "Промежуточные направления",
-    "zh": "次方向",
-    "zh2": "次方向",
-    "pt": "Pontos colaterais"
+    "en": "Intercardinal directions"
   },
   "menu_compass_needle": {
-    "en": "Needle",
-    "pl": "Wskazówka",
-    "de": "Nadel",
-    "fr": "Aiguille",
-    "it": "Ago",
-    "es": "Aguja",
-    "ru": "Стрелка",
-    "zh": "指针",
-    "zh2": "指針",
-    "pt": "Agulha"
+    "en": "Needle"
   },
   "menu_compass_heading": {
-    "en": "Heading",
-    "pl": "Kurs",
-    "de": "Kurs",
-    "fr": "Cap",
-    "it": "Rotta",
-    "es": "Rumbo",
-    "ru": "Курс",
-    "zh": "方位角",
-    "zh2": "方位角",
-    "pt": "Direção"
+    "en": "Heading"
   },
   "menu_compass_focus": {
-    "en": "Faced marker info",
-    "pl": "Info o wskazanym znaczniku",
-    "de": "Info zum anvisierten Marker",
-    "fr": "Infos du marqueur visé",
-    "it": "Info indicatore puntato",
-    "es": "Info del marcador enfocado",
-    "ru": "Информация о метке впереди",
-    "zh": "正前方标记信息",
-    "zh2": "正前方標記資訊",
-    "pt": "Info do marcador à frente"
+    "en": "Faced marker info"
   },
   "menu_compass_locations": {
-    "en": "Locations",
-    "pl": "Lokacje",
-    "de": "Orte",
-    "fr": "Lieux",
-    "it": "Luoghi",
-    "es": "Ubicaciones",
-    "ru": "Локации",
-    "zh": "地点",
-    "zh2": "地點",
-    "pt": "Locais"
+    "en": "Locations"
   },
   "menu_compass_quests": {
-    "en": "Quests",
-    "pl": "Zadania",
-    "de": "Quests",
-    "fr": "Quêtes",
-    "it": "Missioni",
-    "es": "Misiones",
-    "ru": "Задания",
-    "zh": "任务",
-    "zh2": "任務",
-    "pt": "Missões"
+    "en": "Quests"
   },
   "menu_compass_pins": {
-    "en": "Map pins",
-    "pl": "Pinezki",
-    "de": "Kartenmarkierungen",
-    "fr": "Repères",
-    "it": "Segnaposto",
-    "es": "Marcadores",
-    "ru": "Метки на карте",
-    "zh": "地图标记",
-    "zh2": "地圖標記",
-    "pt": "Marcadores do mapa"
+    "en": "Map pins"
   },
   "menu_compass_teammates": {
-    "en": "Teammates",
-    "pl": "Członkowie drużyny",
-    "de": "Teammitglieder",
-    "fr": "Coéquipiers",
-    "it": "Compagni di squadra",
-    "es": "Compañeros",
-    "ru": "Союзники",
-    "zh": "队友",
-    "zh2": "隊友",
-    "pt": "Colegas de equipe"
+    "en": "Teammates"
   },
   "menu_compass_players": {
-    "en": "Other players",
-    "pl": "Inni gracze",
-    "de": "Andere Spieler",
-    "fr": "Autres joueurs",
-    "it": "Altri giocatori",
-    "es": "Otros jugadores",
-    "ru": "Другие игроки",
-    "zh": "其他玩家",
-    "zh2": "其他玩家",
-    "pt": "Outros jogadores"
+    "en": "Other players"
   },
   "menu_compass_enemies": {
-    "en": "Enemies",
-    "pl": "Wrogowie",
-    "de": "Feinde",
-    "fr": "Ennemis",
-    "it": "Nemici",
-    "es": "Enemigos",
-    "ru": "Враги",
-    "zh": "敌人",
-    "zh2": "敵人",
-    "pt": "Inimigos"
+    "en": "Enemies"
   },
   "ct_north": {
-    "en": "North",
-    "pl": "Północ",
-    "de": "Norden",
-    "fr": "Nord",
-    "it": "Nord",
-    "es": "Norte",
-    "ru": "Север",
-    "zh": "北",
-    "zh2": "北",
-    "pt": "Norte"
+    "en": "North"
   },
   "ct_undiscovered": {
-    "en": "Undiscovered",
-    "pl": "Nieodkryte",
-    "de": "Unentdeckt",
-    "fr": "Non découvert",
-    "it": "Non scoperto",
-    "es": "Sin descubrir",
-    "ru": "Неоткрытые",
-    "zh": "未发现",
-    "zh2": "未發現",
-    "pt": "Não descoberto"
+    "en": "Undiscovered"
   },
   "ct_distance": {
-    "en": "Distance",
-    "pl": "Odległość",
-    "de": "Entfernung",
-    "fr": "Distance",
-    "it": "Distanza",
-    "es": "Distancia",
-    "ru": "Расстояние",
-    "zh": "距离",
-    "zh2": "距離",
-    "pt": "Distância"
+    "en": "Distance"
   },
   "menu_condition": {
-    "en": "Condition",
-    "pl": "Stan",
-    "de": "Zustand",
-    "fr": "État",
-    "it": "Condizione",
-    "es": "Estado",
-    "ru": "Состояние",
-    "zh": "耐久",
-    "zh2": "耐久",
-    "pt": "Condição"
+    "en": "Condition"
   },
   "menu_warning_threshold": {
-    "en": "Warning threshold",
-    "pl": "Próg ostrzeżenia",
-    "de": "Warnschwelle",
-    "fr": "Seuil d'avertissement",
-    "it": "Soglia di avviso",
-    "es": "Umbral de advertencia",
-    "ru": "Порог предупреждения",
-    "zh": "警告阈值",
-    "zh2": "警告閾值",
-    "pt": "Limite de aviso"
+    "en": "Warning threshold"
   },
   "ct_warning": {
-    "en": "Warning",
-    "pl": "Ostrzeżenie",
-    "de": "Warnung",
-    "fr": "Avertissement",
-    "it": "Avviso",
-    "es": "Advertencia",
-    "ru": "Предупреждение",
-    "zh": "警告",
-    "zh2": "警告",
-    "pt": "Aviso"
+    "en": "Warning"
   },
   "menu_needs": {
-    "en": "Hunger & thirst",
-    "pl": "Głód i pragnienie",
-    "de": "Hunger & Durst",
-    "fr": "Faim et soif",
-    "it": "Fame e sete",
-    "es": "Hambre y sed",
-    "ru": "Голод и жажда",
-    "zh": "饥饿与口渴",
-    "zh2": "飢餓與口渴",
-    "pt": "Fome e sede"
+    "en": "Hunger & thirst"
   },
   "menu_critical_threshold": {
-    "en": "Critical threshold",
-    "pl": "Próg krytyczny",
-    "de": "Kritische Schwelle",
-    "fr": "Seuil critique",
-    "it": "Soglia critica",
-    "es": "Umbral crítico",
-    "ru": "Критический порог",
-    "zh": "临界阈值",
-    "zh2": "臨界閾值",
-    "pt": "Limite crítico"
+    "en": "Critical threshold"
   },
   "ct_hunger": {
-    "en": "Hunger",
-    "pl": "Głód",
-    "de": "Hunger",
-    "fr": "Faim",
-    "it": "Fame",
-    "es": "Hambre",
-    "ru": "Голод",
-    "zh": "饥饿",
-    "zh2": "飢餓",
-    "pt": "Fome"
+    "en": "Hunger"
   },
   "ct_thirst": {
-    "en": "Thirst",
-    "pl": "Pragnienie",
-    "de": "Durst",
-    "fr": "Soif",
-    "it": "Sete",
-    "es": "Sed",
-    "ru": "Жажда",
-    "zh": "口渴",
-    "zh2": "口渴",
-    "pt": "Sede"
+    "en": "Thirst"
   },
   "ct_restore": {
-    "en": "Restore preview",
-    "pl": "Podgląd odnowienia",
-    "de": "Auffüllvorschau",
-    "fr": "Aperçu de récupération",
-    "it": "Anteprima ripristino",
-    "es": "Vista previa de recuperación",
-    "ru": "Предпросмотр восполнения",
-    "zh": "恢复预览",
-    "zh2": "恢復預覽",
-    "pt": "Prévia de restauração"
+    "en": "Restore preview"
   },
   "ct_critical": {
-    "en": "Critical",
-    "pl": "Krytyczny",
-    "de": "Kritisch",
-    "fr": "Critique",
-    "it": "Critico",
-    "es": "Crítico",
-    "ru": "Критический",
-    "zh": "临界",
-    "zh2": "臨界",
-    "pt": "Crítico"
+    "en": "Critical"
   },
   "menu_hud_mode_visibility": {
-    "en": "Visible on",
-    "pl": "Widoczny w",
-    "de": "Sichtbar in",
-    "fr": "Visible dans",
-    "it": "Visibile in",
-    "es": "Visible en",
-    "ru": "Виден в",
-    "zh": "显示于",
-    "zh2": "顯示於",
-    "pt": "Visível em"
+    "en": "Visible on"
   },
   "menu_hud_mode_reset": {
-    "en": "Reset to defaults",
-    "pl": "Przywróć domyślne",
-    "de": "Auf Standard zurücksetzen",
-    "fr": "Rétablir les valeurs par défaut",
-    "it": "Ripristina predefiniti",
-    "es": "Restablecer valores predeterminados",
-    "ru": "Сбросить по умолчанию",
-    "zh": "恢复默认值",
-    "zh2": "恢復預設值",
-    "pt": "Restaurar padrões"
+    "en": "Reset to defaults"
   },
   "player_joining": {
-    "en": "Joining...",
-    "pl": "Dołączanie...",
-    "de": "Beitreten...",
-    "fr": "Rejoindre...",
-    "it": "Partecipazione...",
-    "es": "Uniéndose...",
-    "ru": "Присоединение...",
-    "zh": "加入中...",
-    "zh2": "加入中...",
-    "pt": "Entrando..."
+    "en": "Joining..."
   },
   "welcome_window_title": {
-    "en": "Welcome to Improved HUD",
-    "pl": "Witaj w Improved HUD",
-    "de": "Willkommen bei Improved HUD",
-    "fr": "Bienvenue dans Improved HUD",
-    "it": "Benvenuto in Improved HUD",
-    "es": "Bienvenido a Improved HUD",
-    "ru": "Добро пожаловать в Improved HUD",
-    "zh": "欢迎使用 Improved HUD",
-    "zh2": "歡迎使用 Improved HUD",
-    "pt": "Bem-vindo ao Improved HUD"
+    "en": "Welcome to Improved HUD"
   },
   "welcome_window_ok": {
-    "en": "OK",
-    "pl": "OK",
-    "de": "OK",
-    "fr": "OK",
-    "it": "OK",
-    "es": "OK",
-    "ru": "ОК",
-    "zh": "确定",
-    "zh2": "確定",
-    "pt": "OK"
+    "en": "OK"
   },
   "welcome_window_instructions": {
-    "en": "ENTER CLOSE   {key} SETTINGS",
-    "pl": "ENTER ZAMKNIJ   {key} USTAWIENIA",
-    "de": "ENTER SCHLIESSEN   {key} EINSTELLUNGEN",
-    "fr": "ENTRÉE FERMER   {key} PARAMÈTRES",
-    "it": "INVIO CHIUDI   {key} IMPOSTAZIONI",
-    "es": "INTRO CERRAR   {key} AJUSTES",
-    "ru": "ENTER ЗАКРЫТЬ   {key} НАСТРОЙКИ",
-    "zh": "回车 关闭   {key} 设置",
-    "zh2": "Enter 關閉   {key} 設定",
-    "pt": "ENTER FECHAR   {key} CONFIGURAÇÕES"
+    "en": "ENTER CLOSE   {key} SETTINGS"
   },
   "welcome_window_instructions_auto": {
-    "en": "THIS WINDOW CLOSES AUTOMATICALLY",
-    "pl": "TO OKNO ZAMKNIE SIĘ AUTOMATYCZNIE",
-    "de": "DIESES FENSTER SCHLIESST SICH AUTOMATISCH",
-    "fr": "CETTE FENÊTRE SE FERME AUTOMATIQUEMENT",
-    "it": "QUESTA FINESTRA SI CHIUDE AUTOMATICAMENTE",
-    "es": "ESTA VENTANA SE CIERRA AUTOMÁTICAMENTE",
-    "ru": "ЭТО ОКНО ЗАКРОЕТСЯ АВТОМАТИЧЕСКИ",
-    "zh": "此窗口将自动关闭",
-    "zh2": "此視窗將自動關閉",
-    "pt": "ESTA JANELA FECHA AUTOMATICAMENTE"
+    "en": "THIS WINDOW CLOSES AUTOMATICALLY"
   },
   "layout_edit_title": {
-    "en": "Layout editor",
-    "pl": "Edytor układu",
-    "de": "Layout-Editor",
-    "fr": "Éditeur de disposition",
-    "it": "Editor del layout",
-    "es": "Editor de diseño",
-    "ru": "Редактор макета",
-    "zh": "布局编辑器",
-    "zh2": "版面編輯器",
-    "pt": "Editor de layout"
+    "en": "Layout editor"
   },
   "layout_edit_hint": {
-    "en": "Drag to move  |  Drag a corner to resize  |  Right-click to reset  |  Shift+Backspace to save and exit",
-    "pl": "Przeciągnij, aby przesunąć  |  Przeciągnij róg, aby zmienić rozmiar  |  Prawy przycisk: reset  |  Shift+Backspace: zapisz i wyjdź",
-    "de": "Ziehen zum Verschieben  |  Ecke ziehen zum Skalieren  |  Rechtsklick: Zurücksetzen  |  Shift+Rücktaste: speichern und beenden",
-    "fr": "Glisser pour déplacer  |  Glisser un coin pour redimensionner  |  Clic droit : réinitialiser  |  Shift+Retour arrière : enregistrer et quitter",
-    "it": "Trascina per spostare  |  Trascina un angolo per ridimensionare  |  Clic destro: ripristina  |  Shift+Backspace: salva ed esci",
-    "es": "Arrastra para mover  |  Arrastra una esquina para cambiar el tamaño  |  Clic derecho: restablecer  |  Shift+Retroceso: guardar y salir",
-    "ru": "Перетащите, чтобы переместить  |  Потяните за угол, чтобы изменить размер  |  ПКМ: сброс  |  Shift+Backspace: сохранить и выйти",
-    "zh": "拖动移动  |  拖动角点缩放  |  右键重置  |  Shift+Backspace 保存并退出",
-    "zh2": "拖曳移動  |  拖曳角點縮放  |  右鍵重設  |  Shift+Backspace 儲存並退出",
-    "pt": "Arraste para mover  |  Arraste um canto para redimensionar  |  Clique direito para redefinir  |  Shift+Backspace para salvar e sair"
+    "en": "Drag to move  |  Drag a corner to resize  |  Right-click to reset  |  Shift+Backspace to save and exit"
   },
   "layout_edit_unsupported": {
-    "en": "The installed xScal does not support mouse editing. Please update xScal.",
-    "pl": "Zainstalowany xScal nie obsługuje edycji myszą. Zaktualizuj xScal.",
-    "de": "Das installierte xScal unterstützt keine Mausbearbeitung. Bitte xScal aktualisieren.",
-    "fr": "Le xScal installé ne prend pas en charge l'édition à la souris. Veuillez mettre xScal à jour.",
-    "it": "L'xScal installato non supporta la modifica con il mouse. Aggiorna xScal.",
-    "es": "El xScal instalado no admite la edición con el ratón. Actualiza xScal.",
-    "ru": "Установленный xScal не поддерживает редактирование мышью. Обновите xScal.",
-    "zh": "已安装的 xScal 不支持鼠标编辑,请更新 xScal。",
-    "zh2": "已安裝的 xScal 不支援滑鼠編輯,請更新 xScal。",
-    "pt": "O xScal instalado não oferece suporte à edição com o mouse. Atualize o xScal."
+    "en": "The installed xScal does not support mouse editing. Please update xScal."
   },
   "layout_edit_hint_pad": {
-    "en": "Gamepad: RS cursor  |  LT + RS move  |  RT + RS up/down scale",
-    "pl": "Pad: prawy drążek – kursor  |  LT + prawy drążek – przesuń  |  RT + prawy drążek góra/dół – skala",
-    "de": "Gamepad: rechter Stick Cursor  |  LT + rechter Stick verschieben  |  RT + rechter Stick hoch/runter skalieren",
-    "fr": "Manette : stick droit curseur  |  LT + stick droit déplacer  |  RT + stick droit haut/bas redimensionner",
-    "it": "Gamepad: stick destro cursore  |  LT + stick destro sposta  |  RT + stick destro su/giù ridimensiona",
-    "es": "Mando: stick derecho cursor  |  LT + stick derecho mover  |  RT + stick derecho arriba/abajo escalar",
-    "ru": "Геймпад: правый стик курсор  |  LT + правый стик переместить  |  RT + правый стик вверх/вниз масштаб",
-    "zh": "手柄:右摇杆 光标  |  LT + 右摇杆 移动  |  RT + 右摇杆 上/下 缩放",
-    "zh2": "手把:右搖桿 游標  |  LT + 右搖桿 移動  |  RT + 右搖桿 上/下 縮放",
-    "pt": "Controle: RS cursor  |  LT + RS mover  |  RT + RS cima/baixo escala"
+    "en": "Gamepad: RS cursor  |  LT + RS move  |  RT + RS up/down scale"
   },
   "layout_edit_hint_pad_buttons": {
-    "en": "A click / hold to drag  |  B reset  |  Y options  |  D-pad up/down over the options: scroll",
-    "pl": "A klik / przytrzymaj, by przeciągnąć  |  B reset  |  Y opcje  |  krzyżak góra/dół nad opcjami: przewijanie",
-    "de": "A klicken / halten zum Ziehen  |  B zurücksetzen  |  Y Optionen  |  Steuerkreuz hoch/runter über den Optionen: scrollen",
-    "fr": "A cliquer / maintenir pour glisser  |  B réinitialiser  |  Y options  |  croix haut/bas sur les options : défiler",
-    "it": "A clic / tieni per trascinare  |  B ripristina  |  Y opzioni  |  croce su/giù sulle opzioni: scorri",
-    "es": "A clic / mantener para arrastrar  |  B restablecer  |  Y opciones  |  cruceta arriba/abajo sobre las opciones: desplazar",
-    "ru": "A клик / удерживать для перетаскивания  |  B сброс  |  Y параметры  |  крестовина вверх/вниз над параметрами: прокрутка",
-    "zh": "A 点击 / 按住拖动  |  B 重置  |  Y 选项  |  在选项上按方向键上/下：滚动",
-    "zh2": "A 點擊 / 按住拖曳  |  B 重設  |  Y 選項  |  在選項上按方向鍵上/下：捲動",
-    "pt": "A clicar / segurar para arrastar  |  B redefinir  |  Y opções  |  direcional cima/baixo sobre as opções: rolar"
+    "en": "A click / hold to drag  |  B reset  |  Y options  |  D-pad up/down over the options: scroll"
   },
   "layout_edit_hint_nudge": {
-    "en": "Arrow keys / d-pad: move the selected element by 1 px  |  Shift + arrow keys: 10 px",
-    "pl": "Strzałki / krzyżak: przesuń wybrany element o 1 px  |  Shift + strzałki: 10 px",
-    "de": "Pfeiltasten / Steuerkreuz: gewähltes Element um 1 px verschieben  |  Shift + Pfeiltasten: 10 px",
-    "fr": "Flèches / croix : déplacer l'élément sélectionné de 1 px  |  Shift + flèches : 10 px",
-    "it": "Frecce / croce: sposta l'elemento selezionato di 1 px  |  Shift + frecce: 10 px",
-    "es": "Flechas / cruceta: mover el elemento seleccionado 1 px  |  Shift + flechas: 10 px",
-    "ru": "Стрелки / крестовина: сдвиг выбранного элемента на 1 px  |  Shift + стрелки: 10 px",
-    "zh": "方向键 / 十字键：将所选元素移动 1 像素  |  Shift + 方向键：10 像素",
-    "zh2": "方向鍵 / 十字鍵：將所選元素移動 1 像素  |  Shift + 方向鍵：10 像素",
-    "pt": "Setas / direcional: mover o elemento selecionado 1 px  |  Shift + setas: 10 px"
+    "en": "Arrow keys / d-pad: move the selected element by 1 px  |  Shift + arrow keys: 10 px"
   },
   "layout_edit_group_mod": {
-    "en": "Mod widgets (Shift+M: vanilla)",
-    "pl": "Widżety moda (Shift+M: vanilla)",
-    "de": "Mod-Widgets (Shift+M: Vanilla)",
-    "fr": "Widgets du mod (Shift+M : vanilla)",
-    "it": "Widget della mod (Shift+M: vanilla)",
-    "es": "Widgets del mod (Shift+M: vanilla)",
-    "ru": "Виджеты мода (Shift+M: ванильные)",
-    "zh": "模组组件（Shift+M：原版）",
-    "zh2": "模組元件（Shift+M：原版）",
-    "pt": "Widgets do mod (Shift+M: originais)"
+    "en": "Mod widgets (Shift+M: vanilla)"
   },
   "layout_edit_group_vanilla": {
-    "en": "Vanilla HUD (Shift+M: mod widgets)",
-    "pl": "HUD vanilla (Shift+M: widżety moda)",
-    "de": "Vanilla-HUD (Shift+M: Mod-Widgets)",
-    "fr": "HUD vanilla (Shift+M : widgets du mod)",
-    "it": "HUD vanilla (Shift+M: widget della mod)",
-    "es": "HUD vanilla (Shift+M: widgets del mod)",
-    "ru": "Ванильный HUD (Shift+M: виджеты мода)",
-    "zh": "原版 HUD（Shift+M：模组组件）",
-    "zh2": "原版 HUD（Shift+M：模組元件）",
-    "pt": "HUD original (Shift+M: widgets do mod)"
+    "en": "Vanilla HUD (Shift+M: mod widgets)"
   },
   "layout_edit_options": {
-    "en": "Options",
-    "pl": "Opcje",
-    "de": "Optionen",
-    "fr": "Options",
-    "it": "Opzioni",
-    "es": "Opciones",
-    "ru": "Параметры",
-    "zh": "选项",
-    "zh2": "選項",
-    "pt": "Opções"
+    "en": "Options"
   },
   "layout_edit_editing": {
-    "en": "Editing",
-    "pl": "Edycja",
-    "de": "Bearbeiten",
-    "fr": "Édition",
-    "it": "Modifica",
-    "es": "Edición",
-    "ru": "Редактирование",
-    "zh": "编辑",
-    "zh2": "編輯",
-    "pt": "Edição"
+    "en": "Editing"
   },
   "layout_edit_group_mod_short": {
-    "en": "Mod widgets",
-    "pl": "Widżety moda",
-    "de": "Mod-Widgets",
-    "fr": "Widgets du mod",
-    "it": "Widget della mod",
-    "es": "Widgets del mod",
-    "ru": "Виджеты мода",
-    "zh": "模组组件",
-    "zh2": "模組元件",
-    "pt": "Widgets do mod"
+    "en": "Mod widgets"
   },
   "layout_edit_group_vanilla_short": {
-    "en": "Vanilla HUD",
-    "pl": "HUD vanilla",
-    "de": "Vanilla-HUD",
-    "fr": "HUD vanilla",
-    "it": "HUD vanilla",
-    "es": "HUD vanilla",
-    "ru": "Ванильный HUD",
-    "zh": "原版 HUD",
-    "zh2": "原版 HUD",
-    "pt": "HUD original"
+    "en": "Vanilla HUD"
   },
   "layout_edit_colors_pick": {
-    "en": "Click an element to edit its opacity and colors",
-    "pl": "Kliknij element, aby edytować jego przezroczystość i kolory",
-    "de": "Klicke auf ein Element, um Deckkraft und Farben zu bearbeiten",
-    "fr": "Cliquez sur un élément pour modifier son opacité et ses couleurs",
-    "it": "Fai clic su un elemento per modificarne opacità e colori",
-    "es": "Haz clic en un elemento para editar su opacidad y colores",
-    "ru": "Нажмите на элемент, чтобы изменить его прозрачность и цвета",
-    "zh": "点击一个元素以编辑其不透明度和颜色",
-    "zh2": "點擊一個元素以編輯其不透明度和顏色",
-    "pt": "Clique em um elemento para editar sua opacidade e cores"
+    "en": "Click an element to edit its opacity and colors"
   },
   "layout_edit_colors_none": {
-    "en": "This element has no opacity or color settings",
-    "pl": "Ten element nie ma ustawień przezroczystości ani kolorów",
-    "de": "Dieses Element hat keine Deckkraft- oder Farbeinstellungen",
-    "fr": "Cet élément n'a pas de réglages d'opacité ni de couleur",
-    "it": "Questo elemento non ha impostazioni di opacità o colore",
-    "es": "Este elemento no tiene ajustes de opacidad ni de color",
-    "ru": "У этого элемента нет настроек прозрачности и цвета",
-    "zh": "此元素没有不透明度或颜色设置",
-    "zh2": "此元素沒有不透明度或顏色設定",
-    "pt": "Este elemento não tem configurações de opacidade ou cor"
+    "en": "This element has no opacity or color settings"
   },
   "layout_edit_opacity": {
-    "en": "Opacity",
-    "pl": "Krycie",
-    "de": "Deckkraft",
-    "fr": "Opacité",
-    "it": "Opacità",
-    "es": "Opacidad",
-    "ru": "Непрозрачность",
-    "zh": "不透明度",
-    "zh2": "不透明度",
-    "pt": "Opacidade"
+    "en": "Opacity"
   },
   "layout_edit_alignment": {
-    "en": "Alignment",
-    "pl": "Wyrównanie",
-    "de": "Ausrichtung",
-    "fr": "Alignement",
-    "it": "Allineamento",
-    "es": "Alineación",
-    "ru": "Выравнивание",
-    "zh": "对齐",
-    "zh2": "對齊",
-    "pt": "Alinhamento"
+    "en": "Alignment"
   },
   "layout_edit_align_auto": {
-    "en": "Auto",
-    "pl": "Auto",
-    "de": "Automatisch",
-    "fr": "Auto",
-    "it": "Auto",
-    "es": "Auto",
-    "ru": "Авто",
-    "zh": "自动",
-    "zh2": "自動",
-    "pt": "Auto"
+    "en": "Auto"
   },
   "layout_edit_align_left": {
-    "en": "Left",
-    "pl": "Do lewej",
-    "de": "Links",
-    "fr": "Gauche",
-    "it": "Sinistra",
-    "es": "Izquierda",
-    "ru": "Слева",
-    "zh": "左",
-    "zh2": "左",
-    "pt": "Esquerda"
+    "en": "Left"
   },
   "layout_edit_align_center": {
-    "en": "Center",
-    "pl": "Środek",
-    "de": "Mitte",
-    "fr": "Centre",
-    "it": "Centro",
-    "es": "Centro",
-    "ru": "По центру",
-    "zh": "居中",
-    "zh2": "置中",
-    "pt": "Centro"
+    "en": "Center"
   },
   "layout_edit_align_right": {
-    "en": "Right",
-    "pl": "Do prawej",
-    "de": "Rechts",
-    "fr": "Droite",
-    "it": "Destra",
-    "es": "Derecha",
-    "ru": "Справа",
-    "zh": "右",
-    "zh2": "右",
-    "pt": "Direita"
+    "en": "Right"
   },
   "layout_edit_background_opacity": {
-    "en": "Background opacity",
-    "pl": "Krycie tła",
-    "de": "Hintergrund-Deckkraft",
-    "fr": "Opacité de l’arrière-plan",
-    "it": "Opacità sfondo",
-    "es": "Opacidad del fondo",
-    "ru": "Непрозрачность фона",
-    "zh": "背景不透明度",
-    "zh2": "背景不透明度",
-    "pt": "Opacidade do fundo"
+    "en": "Background opacity"
   },
   "layout_edit_background_fade": {
-    "en": "Background edge fade",
-    "pl": "Zanikanie krawędzi tła",
-    "de": "Hintergrund-Randverlauf",
-    "fr": "Fondu des bords de l’arrière-plan",
-    "it": "Dissolvenza bordi sfondo",
-    "es": "Difuminado de bordes del fondo",
-    "ru": "Затухание краёв фона",
-    "zh": "背景边缘渐隐",
-    "zh2": "背景邊緣漸隱",
-    "pt": "Esmaecimento das bordas do fundo"
+    "en": "Background edge fade"
   },
   "layout_edit_background_softness": {
-    "en": "Background softness",
-    "pl": "Miękkość tła",
-    "de": "Hintergrund-Weichheit",
-    "fr": "Douceur de l’arrière-plan",
-    "it": "Morbidezza sfondo",
-    "es": "Suavidad del fondo",
-    "ru": "Мягкость фона",
-    "zh": "背景柔和度",
-    "zh2": "背景柔和度",
-    "pt": "Suavidade do fundo"
+    "en": "Background softness"
   },
   "layout_edit_selected": {
-    "en": "Selected element",
-    "pl": "Wybrany element",
-    "de": "Ausgewähltes Element",
-    "fr": "Élément sélectionné",
-    "it": "Elemento selezionato",
-    "es": "Elemento seleccionado",
-    "ru": "Выбранный элемент",
-    "zh": "所选元素",
-    "zh2": "所選元素",
-    "pt": "Elemento selecionado"
+    "en": "Selected element"
   },
   "menu_item_rules": {
-    "en": "Rules",
-    "pl": "Reguły",
-    "de": "Regeln",
-    "fr": "Règles",
-    "it": "Regole",
-    "es": "Reglas",
-    "ru": "Правила",
-    "zh": "规则",
-    "zh2": "規則",
-    "pt": "Regras"
+    "en": "Rules"
   },
   "menu_item_rules_add": {
-    "en": "Add rule from inventory",
-    "pl": "Dodaj regułę z ekwipunku",
-    "de": "Regel aus Inventar hinzufügen",
-    "fr": "Ajouter une règle depuis l'inventaire",
-    "it": "Aggiungi regola dall'inventario",
-    "es": "Añadir regla desde el inventario",
-    "ru": "Добавить правило из инвентаря",
-    "zh": "从物品栏添加规则",
-    "zh2": "從物品欄新增規則",
-    "pt": "Adicionar regra a partir do inventário"
+    "en": "Add rule from inventory"
   },
   "menu_item_rules_none": {
-    "en": "No new carried items to add",
-    "pl": "Brak nowych przedmiotów do dodania",
-    "de": "Keine neuen Gegenstände zum Hinzufügen",
-    "fr": "Aucun nouvel objet à ajouter",
-    "it": "Nessun nuovo oggetto da aggiungere",
-    "es": "No hay objetos nuevos para añadir",
-    "ru": "Нет новых предметов для добавления",
-    "zh": "没有可添加的新物品",
-    "zh2": "沒有可新增的新物品",
-    "pt": "Nenhum item novo para adicionar"
+    "en": "No new carried items to add"
   },
   "menu_item_rules_page": {
-    "en": "Page",
-    "pl": "Strona",
-    "de": "Seite",
-    "fr": "Page",
-    "it": "Pagina",
-    "es": "Página",
-    "ru": "Страница",
-    "zh": "页",
-    "zh2": "頁",
-    "pt": "Página"
+    "en": "Page"
   },
   "layout_edit_tracked_items": {
-    "en": "Tracked items",
-    "pl": "Śledzone przedmioty",
-    "de": "Verfolgte Gegenstände",
-    "fr": "Objets suivis",
-    "it": "Oggetti monitorati",
-    "es": "Objetos rastreados",
-    "ru": "Отслеживаемые предметы",
-    "zh": "追踪的物品",
-    "zh2": "追蹤的物品",
-    "pt": "Itens rastreados"
+    "en": "Tracked items"
   },
   "layout_edit_manage": {
-    "en": "Manage",
-    "pl": "Zarządzaj",
-    "de": "Verwalten",
-    "fr": "Gérer",
-    "it": "Gestisci",
-    "es": "Gestionar",
-    "ru": "Управлять",
-    "zh": "管理",
-    "zh2": "管理",
-    "pt": "Gerenciar"
+    "en": "Manage"
   },
   "layout_edit_close": {
-    "en": "Close",
-    "pl": "Zamknij",
-    "de": "Schließen",
-    "fr": "Fermer",
-    "it": "Chiudi",
-    "es": "Cerrar",
-    "ru": "Закрыть",
-    "zh": "关闭",
-    "zh2": "關閉",
-    "pt": "Fechar"
+    "en": "Close"
   },
   "layout_edit_remove": {
-    "en": "Remove",
-    "pl": "Usuń",
-    "de": "Entfernen",
-    "fr": "Retirer",
-    "it": "Rimuovi",
-    "es": "Quitar",
-    "ru": "Удалить",
-    "zh": "移除",
-    "zh2": "移除",
-    "pt": "Remover"
+    "en": "Remove"
   },
   "layout_edit_no_tracked_items": {
-    "en": "No items tracked yet",
-    "pl": "Brak śledzonych przedmiotów",
-    "de": "Noch keine Gegenstände verfolgt",
-    "fr": "Aucun objet suivi pour l'instant",
-    "it": "Nessun oggetto monitorato",
-    "es": "Aún no hay objetos rastreados",
-    "ru": "Пока нет отслеживаемых предметов",
-    "zh": "尚未追踪任何物品",
-    "zh2": "尚未追蹤任何物品",
-    "pt": "Nenhum item rastreado ainda"
+    "en": "No items tracked yet"
   },
   "layout_item_cat_weapons": {
-    "en": "Weapons",
-    "pl": "Broń",
-    "de": "Waffen",
-    "fr": "Armes",
-    "it": "Armi",
-    "es": "Armas",
-    "ru": "Оружие",
-    "zh": "武器",
-    "zh2": "武器",
-    "pt": "Armas"
+    "en": "Weapons"
   },
   "layout_item_cat_armor": {
-    "en": "Armor",
-    "pl": "Pancerz",
-    "de": "Rüstung",
-    "fr": "Armure",
-    "it": "Armatura",
-    "es": "Armadura",
-    "ru": "Броня",
-    "zh": "护甲",
-    "zh2": "護甲",
-    "pt": "Armadura"
+    "en": "Armor"
   },
   "layout_item_cat_apparel": {
-    "en": "Apparel",
-    "pl": "Ubrania",
-    "de": "Kleidung",
-    "fr": "Tenues",
-    "it": "Abiti",
-    "es": "Ropa",
-    "ru": "Одежда",
-    "zh": "服装",
-    "zh2": "服裝",
-    "pt": "Vestuário"
+    "en": "Apparel"
   },
   "layout_item_cat_food": {
-    "en": "Food & Water",
-    "pl": "Jedzenie i woda",
-    "de": "Essen & Wasser",
-    "fr": "Nourriture",
-    "it": "Cibo e acqua",
-    "es": "Comida y agua",
-    "ru": "Еда и вода",
-    "zh": "食物和水",
-    "zh2": "食物和水",
-    "pt": "Comida e água"
+    "en": "Food & Water"
   },
   "layout_item_cat_aid": {
-    "en": "Aid",
-    "pl": "Pomoc",
-    "de": "Hilfsmittel",
-    "fr": "Soins",
-    "it": "Cure",
-    "es": "Ayuda",
-    "ru": "Помощь",
-    "zh": "辅助",
-    "zh2": "輔助",
-    "pt": "Auxílio"
+    "en": "Aid"
   },
   "layout_item_cat_misc": {
-    "en": "Misc",
-    "pl": "Różne",
-    "de": "Verschiedenes",
-    "fr": "Divers",
-    "it": "Varie",
-    "es": "Varios",
-    "ru": "Разное",
-    "zh": "杂项",
-    "zh2": "雜項",
-    "pt": "Diversos"
+    "en": "Misc"
   },
   "layout_item_cat_holotapes": {
-    "en": "Holotapes",
-    "pl": "Holotaśmy",
-    "de": "Holobänder",
-    "fr": "Holobandes",
-    "it": "Olonastri",
-    "es": "Holocintas",
-    "ru": "Голозаписи",
-    "zh": "全息磁带",
-    "zh2": "全息磁帶",
-    "pt": "Holofitas"
+    "en": "Holotapes"
   },
   "layout_item_cat_notes": {
-    "en": "Notes",
-    "pl": "Notatki",
-    "de": "Notizen",
-    "fr": "Notes",
-    "it": "Note",
-    "es": "Notas",
-    "ru": "Записки",
-    "zh": "笔记",
-    "zh2": "筆記",
-    "pt": "Notas"
+    "en": "Notes"
   },
   "layout_item_cat_junk": {
-    "en": "Junk",
-    "pl": "Złom",
-    "de": "Schrott",
-    "fr": "Bric-à-brac",
-    "it": "Rottami",
-    "es": "Chatarra",
-    "ru": "Хлам",
-    "zh": "杂物",
-    "zh2": "雜物",
-    "pt": "Sucata"
+    "en": "Junk"
   },
   "layout_item_cat_mods": {
-    "en": "Mods",
-    "pl": "Modyfikacje",
-    "de": "Mods",
-    "fr": "Mods",
-    "it": "Mod",
-    "es": "Mods",
-    "ru": "Модификации",
-    "zh": "改装",
-    "zh2": "改裝",
-    "pt": "Mods"
+    "en": "Mods"
   },
   "layout_item_cat_ammo": {
-    "en": "Ammo",
-    "pl": "Amunicja",
-    "de": "Munition",
-    "fr": "Munitions",
-    "it": "Munizioni",
-    "es": "Munición",
-    "ru": "Боеприпасы",
-    "zh": "弹药",
-    "zh2": "彈藥",
-    "pt": "Munição"
+    "en": "Ammo"
   },
   "layout_item_cat_other": {
-    "en": "Other",
-    "pl": "Inne",
-    "de": "Andere",
-    "fr": "Autres",
-    "it": "Altro",
-    "es": "Otros",
-    "ru": "Другое",
-    "zh": "其他",
-    "zh2": "其他",
-    "pt": "Outros"
+    "en": "Other"
   },
   "layout_edit_item_window_hint": {
-    "en": "Click Add or Remove. Right click, B or Close returns to the editor. The mouse wheel pages the items.",
-    "pl": "Kliknij Dodaj lub Usuń. Prawy przycisk, B lub Zamknij wraca do edytora. Kółko myszy przewija strony.",
-    "de": "Klicke auf Hinzufügen oder Entfernen. Rechtsklick, B oder Schließen kehrt zum Editor zurück. Das Mausrad blättert die Gegenstände.",
-    "fr": "Cliquez sur Ajouter ou Retirer. Clic droit, B ou Fermer revient à l'éditeur. La molette change de page.",
-    "it": "Clicca Aggiungi o Rimuovi. Clic destro, B o Chiudi torna all'editor. La rotella cambia pagina.",
-    "es": "Pulsa Añadir o Quitar. Clic derecho, B o Cerrar vuelve al editor. La rueda del ratón cambia de página.",
-    "ru": "Нажмите «Добавить» или «Удалить». ПКМ, B или «Закрыть» — назад в редактор. Колесо мыши листает страницы.",
-    "zh": "点击添加或移除。右键、B 或关闭返回编辑器。鼠标滚轮翻页。",
-    "zh2": "點擊新增或移除。右鍵、B 或關閉返回編輯器。滑鼠滾輪翻頁。",
-    "pt": "Clique em Adicionar ou Remover. Botão direito, B ou Fechar volta ao editor. A roda do mouse muda a página."
+    "en": "Click Add or Remove. Right click, B or Close returns to the editor. The mouse wheel pages the items."
   },
   "layout_edit_add": {
-    "en": "Add",
-    "pl": "Dodaj",
-    "de": "Hinzufügen",
-    "fr": "Ajouter",
-    "it": "Aggiungi",
-    "es": "Añadir",
-    "ru": "Добавить",
-    "zh": "添加",
-    "zh2": "新增",
-    "pt": "Adicionar"
+    "en": "Add"
   },
   "layout_edit_game_position": {
-    "en": "Game position",
-    "pl": "Pozycja z gry",
-    "de": "Spielposition",
-    "fr": "Position du jeu",
-    "it": "Posizione del gioco",
-    "es": "Posición del juego",
-    "ru": "Позиция игры",
-    "zh": "游戏默认位置",
-    "zh2": "遊戲預設位置",
-    "pt": "Posição do jogo"
+    "en": "Game position"
   },
   "layout_edit_reset": {
-    "en": "Reset",
-    "pl": "Resetuj",
-    "de": "Zurücksetzen",
-    "fr": "Réinitialiser",
-    "it": "Ripristina",
-    "es": "Restablecer",
-    "ru": "Сбросить",
-    "zh": "重置",
-    "zh2": "重設",
-    "pt": "Redefinir"
+    "en": "Reset"
   },
   "layout_edit_enabled": {
-    "en": "Enabled",
-    "pl": "Włączony",
-    "de": "Aktiviert",
-    "fr": "Activé",
-    "it": "Attivo",
-    "es": "Activado",
-    "ru": "Включено",
-    "zh": "启用",
-    "zh2": "啟用",
-    "pt": "Ativado"
+    "en": "Enabled"
   },
   "layout_edit_type_improved": {
-    "en": "Improved",
-    "pl": "Ulepszony",
-    "de": "Verbessert",
-    "fr": "Amélioré",
-    "it": "Migliorato",
-    "es": "Mejorado",
-    "ru": "Улучшенный",
-    "zh": "改进版",
-    "zh2": "改進版",
-    "pt": "Melhorado"
+    "en": "Improved"
   },
   "layout_edit_type_vanilla": {
-    "en": "Vanilla",
-    "pl": "Oryginalny",
-    "de": "Vanilla",
-    "fr": "Vanilla",
-    "it": "Vanilla",
-    "es": "Vanilla",
-    "ru": "Оригинальный",
-    "zh": "原版",
-    "zh2": "原版",
-    "pt": "Original"
+    "en": "Vanilla"
   },
   "layout_edit_type": {
-    "en": "Type",
-    "pl": "Typ",
-    "de": "Typ",
-    "fr": "Type",
-    "it": "Tipo",
-    "es": "Tipo",
-    "ru": "Тип",
-    "zh": "类型",
-    "zh2": "類型",
-    "pt": "Tipo"
+    "en": "Type"
   },
   "menu_stack_direction": {
-    "en": "Stack direction",
-    "pl": "Kierunek układania",
-    "de": "Stapelrichtung",
-    "fr": "Sens d'empilement",
-    "it": "Direzione di impilamento",
-    "es": "Dirección de apilado",
-    "ru": "Направление списка",
-    "zh": "排列方向",
-    "zh2": "排列方向",
-    "pt": "Direção do empilhamento"
+    "en": "Stack direction"
   },
   "menu_option_boxed": {
-    "en": "Boxed",
-    "pl": "Pola",
-    "de": "Kästchen",
-    "fr": "Encadré",
-    "it": "Riquadri",
-    "es": "Recuadros",
-    "ru": "Блоки",
-    "zh": "方框",
-    "zh2": "方框",
-    "pt": "Caixas"
+    "en": "Boxed"
   },
   "menu_option_text": {
-    "en": "Text",
-    "pl": "Tekst",
-    "de": "Text",
-    "fr": "Texte",
-    "it": "Testo",
-    "es": "Texto",
-    "ru": "Текст",
-    "zh": "文本",
-    "zh2": "文字",
-    "pt": "Texto"
+    "en": "Text"
   },
   "menu_option_horizontal": {
-    "en": "Horizontal",
-    "pl": "Poziomo",
-    "de": "Horizontal",
-    "fr": "Horizontal",
-    "it": "Orizzontale",
-    "es": "Horizontal",
-    "ru": "Горизонтально",
-    "zh": "水平",
-    "zh2": "水平",
-    "pt": "Horizontal"
+    "en": "Horizontal"
   },
   "menu_option_vertical": {
-    "en": "Vertical",
-    "pl": "Pionowo",
-    "de": "Vertikal",
-    "fr": "Vertical",
-    "it": "Verticale",
-    "es": "Vertical",
-    "ru": "Вертикально",
-    "zh": "垂直",
-    "zh2": "垂直",
-    "pt": "Vertical"
+    "en": "Vertical"
   },
   "menu_option_icons_plain": {
-    "en": "Plain",
-    "pl": "Jednolite",
-    "de": "Einfarbig",
-    "fr": "Unies",
-    "it": "Monocromatiche",
-    "es": "Monocromo",
-    "ru": "Одноцветные",
-    "zh": "单色",
-    "zh2": "單色",
-    "pt": "Monocromático"
+    "en": "Plain"
   },
   "menu_option_icons_colored": {
-    "en": "Colored",
-    "pl": "Kolorowe",
-    "de": "Farbig",
-    "fr": "Colorées",
-    "it": "Colorate",
-    "es": "De color",
-    "ru": "Цветные",
-    "zh": "彩色",
-    "zh2": "彩色",
-    "pt": "Colorido"
+    "en": "Colored"
   },
   "menu_option_12h": {
-    "en": "12h",
-    "pl": "12h",
-    "de": "12h",
-    "fr": "12h",
-    "it": "12h",
-    "es": "12h",
-    "ru": "12ч",
-    "zh": "12小时",
-    "zh2": "12小時",
-    "pt": "12 h"
+    "en": "12h"
   },
   "menu_option_24h": {
-    "en": "24h",
-    "pl": "24h",
-    "de": "24h",
-    "fr": "24h",
-    "it": "24h",
-    "es": "24h",
-    "ru": "24ч",
-    "zh": "24小时",
-    "zh2": "24小時",
-    "pt": "24 h"
+    "en": "24h"
   },
   "menu_option_top_to_bottom": {
-    "en": "Top to bottom",
-    "pl": "Z góry na dół",
-    "de": "Von oben nach unten",
-    "fr": "De haut en bas",
-    "it": "Dall'alto verso il basso",
-    "es": "De arriba abajo",
-    "ru": "Сверху вниз",
-    "zh": "从上往下",
-    "zh2": "從上往下",
-    "pt": "De cima para baixo"
+    "en": "Top to bottom"
   },
   "menu_option_bottom_to_top": {
-    "en": "Bottom to top",
-    "pl": "Z dołu do góry",
-    "de": "Von unten nach oben",
-    "fr": "De bas en haut",
-    "it": "Dal basso verso l'alto",
-    "es": "De abajo arriba",
-    "ru": "Снизу вверх",
-    "zh": "从下往上",
-    "zh2": "從下往上",
-    "pt": "De baixo para cima"
+    "en": "Bottom to top"
   },
   "menu_highlight_duration": {
-    "en": "Highlight duration",
-    "pl": "Czas wyróżnienia",
-    "de": "Hervorhebungsdauer",
-    "fr": "Durée de mise en évidence",
-    "it": "Durata evidenziazione",
-    "es": "Duración del resaltado",
-    "ru": "Длительность выделения",
-    "zh": "突出显示时长",
-    "zh2": "強調顯示時長",
-    "pt": "Duração do destaque"
+    "en": "Highlight duration"
   },
   "ct_increase": {
-    "en": "Increase",
-    "pl": "Wzrost",
-    "de": "Anstieg",
-    "fr": "Hausse",
-    "it": "Aumento",
-    "es": "Aumento",
-    "ru": "Увеличение",
-    "zh": "增加",
-    "zh2": "增加",
-    "pt": "Aumento"
+    "en": "Increase"
   },
   "ct_decrease": {
-    "en": "Decrease",
-    "pl": "Spadek",
-    "de": "Abnahme",
-    "fr": "Baisse",
-    "it": "Diminuzione",
-    "es": "Disminución",
-    "ru": "Уменьшение",
-    "zh": "减少",
-    "zh2": "減少",
-    "pt": "Redução"
+    "en": "Decrease"
   },
   "menu_messages": {
-    "en": "Messages",
-    "pl": "Wiadomości",
-    "de": "Nachrichten",
-    "fr": "Messages",
-    "it": "Messaggi",
-    "es": "Mensajes",
-    "ru": "Сообщения",
-    "zh": "消息",
-    "zh2": "訊息",
-    "pt": "Mensagens"
+    "en": "Messages"
   },
   "menu_crosshair": {
-    "en": "Crosshair",
-    "pl": "Celownik",
-    "de": "Fadenkreuz",
-    "fr": "Réticule",
-    "it": "Mirino",
-    "es": "Mira",
-    "ru": "Прицел",
-    "zh": "准星",
-    "zh2": "準星",
-    "pt": "Mira"
+    "en": "Crosshair"
   },
   "ct_icon": {
-    "en": "Icon",
-    "pl": "Ikona",
-    "de": "Symbol",
-    "fr": "Icône",
-    "it": "Icona",
-    "es": "Icono",
-    "ru": "Значок",
-    "zh": "图标",
-    "zh2": "圖示",
-    "pt": "Ícone"
+    "en": "Icon"
   },
   "ct_hit_marker": {
-    "en": "Hit marker",
-    "pl": "Znacznik trafienia",
-    "de": "Treffermarkierung",
-    "fr": "Marqueur de touche",
-    "it": "Indicatore di colpo",
-    "es": "Marcador de impacto",
-    "ru": "Маркер попадания",
-    "zh": "命中标记",
-    "zh2": "命中標記",
-    "pt": "Marcador de acerto"
+    "en": "Hit marker"
   },
   "ct_kill_marker": {
-    "en": "Kill marker",
-    "pl": "Znacznik zabójstwa",
-    "de": "Tötungsmarkierung",
-    "fr": "Marqueur d'élimination",
-    "it": "Indicatore di uccisione",
-    "es": "Marcador de baja",
-    "ru": "Маркер убийства",
-    "zh": "击杀标记",
-    "zh2": "擊殺標記",
-    "pt": "Marcador de abate"
+    "en": "Kill marker"
   },
   "ct_xp_bar": {
-    "en": "XP bar",
-    "pl": "Pasek XP",
-    "de": "XP-Leiste",
-    "fr": "Barre XP",
-    "it": "Barra XP",
-    "es": "Barra de XP",
-    "ru": "Полоса XP",
-    "zh": "XP 条",
-    "zh2": "XP 條",
-    "pt": "Barra de XP"
+    "en": "XP bar"
   },
   "ct_xp_gain": {
-    "en": "XP gain popup",
-    "pl": "Dymek zdobytego XP",
-    "de": "XP-Gewinn-Anzeige",
-    "fr": "Fenêtre de gain d'XP",
-    "it": "Popup XP ottenuti",
-    "es": "Aviso de XP ganada",
-    "ru": "Всплывающее XP",
-    "zh": "获得 XP 提示",
-    "zh2": "獲得 XP 提示",
-    "pt": "Pop-up de ganho de XP"
+    "en": "XP gain popup"
   },
   "ct_level_up": {
-    "en": "Level up accent",
-    "pl": "Akcent awansu",
-    "de": "Level-Up-Akzent",
-    "fr": "Accent de niveau supérieur",
-    "it": "Accento di livello",
-    "es": "Acento de subida de nivel",
-    "ru": "Акцент повышения уровня",
-    "zh": "升级强调色",
-    "zh2": "升級強調色",
-    "pt": "Destaque de subida de nível"
+    "en": "Level up accent"
   },
   "ct_score_bar": {
-    "en": "SCORE bar",
-    "pl": "Pasek SCORE",
-    "de": "SCORE-Leiste",
-    "fr": "Barre SCORE",
-    "it": "Barra SCORE",
-    "es": "Barra de SCORE",
-    "ru": "Полоса SCORE",
-    "zh": "SCORE 条",
-    "zh2": "SCORE 條",
-    "pt": "Barra de PONTUAÇÃO"
+    "en": "SCORE bar"
   },
   "time_waiting_server_time": {
-    "en": "Waiting for server time",
-    "pl": "Oczekiwanie na czas serwera",
-    "de": "Warte auf Serverzeit",
-    "fr": "En attente de l'heure du serveur",
-    "it": "In attesa dell'ora del server",
-    "es": "Esperando la hora del servidor",
-    "ru": "Ожидание времени сервера",
-    "zh": "等待服务器时间",
-    "zh2": "等待伺服器時間",
-    "pt": "Aguardando hora do servidor"
+    "en": "Waiting for server time"
   },
   "menu_subtitles": {
-    "en": "Subtitles",
-    "pl": "Napisy",
-    "de": "Untertitel",
-    "fr": "Sous-titres",
-    "it": "Sottotitoli",
-    "es": "Subtítulos",
-    "ru": "Субтитры",
-    "zh": "字幕",
-    "zh2": "字幕",
-    "pt": "Legendas"
+    "en": "Subtitles"
   },
   "menu_max_width": {
-    "en": "Maximum width",
-    "pl": "Maksymalna szerokość",
-    "de": "Maximale Breite",
-    "fr": "Largeur maximale",
-    "it": "Larghezza massima",
-    "es": "Ancho máximo",
-    "ru": "Максимальная ширина",
-    "zh": "最大宽度",
-    "zh2": "最大寬度",
-    "pt": "Largura máxima"
+    "en": "Maximum width"
   },
   "ct_speaker": {
-    "en": "Speaker",
-    "pl": "Mówiący",
-    "de": "Sprecher",
-    "fr": "Locuteur",
-    "it": "Parlante",
-    "es": "Hablante",
-    "ru": "Говорящий",
-    "zh": "说话者",
-    "zh2": "說話者",
-    "pt": "Falante"
+    "en": "Speaker"
   },
   "subtitles_sample_speaker": {
-    "en": "Rose",
-    "pl": "Rose",
-    "de": "Rose",
-    "fr": "Rose",
-    "it": "Rose",
-    "es": "Rose",
-    "ru": "Роза",
-    "zh": "Rose",
-    "zh2": "Rose",
-    "pt": "Rose"
+    "en": "Rose"
   },
   "subtitles_sample_text": {
-    "en": "Stay close, the way out is just ahead.",
-    "pl": "Trzymaj się blisko, wyjście jest tuż przed nami.",
-    "de": "Bleib in der Nähe, der Ausgang ist gleich da vorne.",
-    "fr": "Reste près de moi, la sortie est juste devant.",
-    "it": "Resta vicino, l'uscita è proprio qui davanti.",
-    "es": "Quédate cerca, la salida está justo delante.",
-    "ru": "Держись рядом, выход уже близко.",
-    "zh": "跟紧我，出口就在前面。",
-    "zh2": "跟緊我，出口就在前面。",
-    "pt": "Fique por perto, a saída está logo à frente."
+    "en": "Stay close, the way out is just ahead."
   },
   "menu_crit_meter": {
-    "en": "Critical meter",
-    "pl": "Miernik trafień krytycznych",
-    "de": "Kritisch-Anzeige",
-    "fr": "Jauge de critique",
-    "it": "Indicatore critico",
-    "es": "Medidor de crítico",
-    "ru": "Шкала критического удара",
-    "zh": "暴击条",
-    "zh2": "暴擊條",
-    "pt": "Medidor de crítico"
+    "en": "Critical meter"
   },
   "menu_damage_numbers": {
-    "en": "Damage numbers",
-    "pl": "Liczby obrażeń",
-    "de": "Schadenszahlen",
-    "fr": "Chiffres de dégâts",
-    "it": "Numeri dei danni",
-    "es": "Números de daño",
-    "ru": "Числа урона",
-    "zh": "伤害数字",
-    "zh2": "傷害數字",
-    "pt": "Números de dano"
+    "en": "Damage numbers"
   },
   "menu_floating_markers": {
-    "en": "Floating markers",
-    "pl": "Pływające znaczniki",
-    "de": "Schwebende Markierungen",
-    "fr": "Marqueurs flottants",
-    "it": "Indicatori fluttuanti",
-    "es": "Marcadores flotantes",
-    "ru": "Плавающие маркеры",
-    "zh": "浮动标记",
-    "zh2": "浮動標記",
-    "pt": "Marcadores flutuantes"
+    "en": "Floating markers"
   },
   "menu_rollover": {
-    "en": "Target info",
-    "pl": "Informacje o celu",
-    "de": "Zielinfo",
-    "fr": "Info de cible",
-    "it": "Info bersaglio",
-    "es": "Info del objetivo",
-    "ru": "Информация о цели",
-    "zh": "目标信息",
-    "zh2": "目標資訊",
-    "pt": "Info do alvo"
+    "en": "Target info"
   },
   "ct_stars": {
-    "en": "Stars",
-    "pl": "Gwiazdki",
-    "de": "Sterne",
-    "fr": "Étoiles",
-    "it": "Stelle",
-    "es": "Estrellas",
-    "ru": "Звёзды",
-    "zh": "星星",
-    "zh2": "星星",
-    "pt": "Estrelas"
+    "en": "Stars"
   },
   "ct_name": {
-    "en": "Name",
-    "pl": "Nazwa",
-    "de": "Name",
-    "fr": "Nom",
-    "it": "Nome",
-    "es": "Nombre",
-    "ru": "Название",
-    "zh": "名称",
-    "zh2": "名稱",
-    "pt": "Nome"
+    "en": "Name"
   },
   "ct_title": {
-    "en": "Title",
-    "pl": "Tytuł",
-    "de": "Titel",
-    "fr": "Titre",
-    "it": "Titolo",
-    "es": "Título",
-    "ru": "Заголовок",
-    "zh": "标题",
-    "zh2": "標題",
-    "pt": "Título"
+    "en": "Title"
   },
   "menu_streamer_mode": {
-    "en": "Streamer mode (hide player names)",
-    "pl": "Tryb streamera (ukryj nazwy graczy)",
-    "de": "Streamer-Modus (Spielernamen ausblenden)",
-    "fr": "Mode streamer (masquer les noms des joueurs)",
-    "it": "Modalità streamer (nascondi i nomi dei giocatori)",
-    "es": "Modo streamer (ocultar nombres de jugadores)",
-    "ru": "Режим стримера (скрыть имена игроков)",
-    "zh": "主播模式（隐藏玩家名称）",
-    "zh2": "實況模式（隱藏玩家名稱）",
-    "pt": "Modo streamer (ocultar nomes de jogadores)"
+    "en": "Streamer mode (hide player names)"
   },
   "streamer_you": {
-    "en": "You",
-    "pl": "Ty",
-    "de": "Du",
-    "fr": "Vous",
-    "it": "Tu",
-    "es": "Tú",
-    "ru": "Вы",
-    "zh": "你",
-    "zh2": "你",
-    "pt": "Você"
+    "en": "You"
   },
   "streamer_teammate": {
-    "en": "Teammate {number}",
-    "pl": "Członek drużyny {number}",
-    "de": "Teammitglied {number}",
-    "fr": "Coéquipier {number}",
-    "it": "Compagno {number}",
-    "es": "Compañero {number}",
-    "ru": "Союзник {number}",
-    "zh": "队友 {number}",
-    "zh2": "隊友 {number}",
-    "pt": "Colega {number}"
+    "en": "Teammate {number}"
   },
   "streamer_player": {
-    "en": "Player",
-    "pl": "Gracz",
-    "de": "Spieler",
-    "fr": "Joueur",
-    "it": "Giocatore",
-    "es": "Jugador",
-    "ru": "Игрок",
-    "zh": "玩家",
-    "zh2": "玩家",
-    "pt": "Jogador"
+    "en": "Player"
   },
   "menu_show_clock_location": {
-    "en": "Location",
-    "pl": "Lokalizacja",
-    "de": "Standort",
-    "fr": "Lieu",
-    "it": "Posizione",
-    "es": "Ubicación",
-    "ru": "Местоположение",
-    "zh": "位置",
-    "zh2": "位置",
-    "pt": "Localização"
+    "en": "Location"
   },
   "menu_shorten_weapon_names": {
-    "en": "Shorten names",
-    "pl": "Skracaj nazwy",
-    "de": "Namen kürzen",
-    "fr": "Raccourcir les noms",
-    "it": "Abbrevia i nomi",
-    "es": "Acortar nombres",
-    "ru": "Сокращать названия",
-    "zh": "缩短名称",
-    "zh2": "縮短名稱",
-    "pt": "Encurtar nomes"
+    "en": "Shorten names"
   },
   "menu_show_xp_percentage": {
-    "en": "Percentage",
-    "pl": "Procent",
-    "de": "Prozent",
-    "fr": "Pourcentage",
-    "it": "Percentuale",
-    "es": "Porcentaje",
-    "ru": "Процент",
-    "zh": "百分比",
-    "zh2": "百分比",
-    "pt": "Porcentagem"
+    "en": "Percentage"
   },
   "menu_show_nearest_map_marker": {
-    "en": "Nearest location",
-    "pl": "Najbliższa lokalizacja",
-    "de": "Nächster Ort",
-    "fr": "Lieu le plus proche",
-    "it": "Luogo più vicino",
-    "es": "Ubicación más cercana",
-    "ru": "Ближайшая локация",
-    "zh": "最近地点",
-    "zh2": "最近地點",
-    "pt": "Local mais próximo"
+    "en": "Nearest location"
   },
   "menu_challenges": {
-    "en": "Challenges",
-    "pl": "Wyzwania",
-    "de": "Herausforderungen",
-    "fr": "Défis",
-    "it": "Sfide",
-    "es": "Desafíos",
-    "ru": "Испытания",
-    "zh": "挑战",
-    "zh2": "挑戰",
-    "pt": "Desafios"
+    "en": "Challenges"
   },
   "menu_world_activity": {
-    "en": "World activity",
-    "pl": "Aktywność w świecie",
-    "de": "Weltaktivität",
-    "fr": "Activité du monde",
-    "it": "Attività nel mondo",
-    "es": "Actividad del mundo",
-    "ru": "Мировая активность",
-    "zh": "世界活动",
-    "zh2": "世界活動",
-    "pt": "Atividade do mundo"
+    "en": "World activity"
   },
   "menu_show_daily_challenges": {
-    "en": "Show daily challenges",
-    "pl": "Pokaż wyzwania dzienne",
-    "de": "Tägliche Herausforderungen anzeigen",
-    "fr": "Afficher les défis quotidiens",
-    "it": "Mostra sfide giornaliere",
-    "es": "Mostrar desafíos diarios",
-    "ru": "Показывать ежедневные испытания",
-    "zh": "显示每日挑战",
-    "zh2": "顯示每日挑戰",
-    "pt": "Mostrar desafios diários"
+    "en": "Show daily challenges"
   },
   "menu_show_weekly_challenges": {
-    "en": "Show weekly challenges",
-    "pl": "Pokaż wyzwania tygodniowe",
-    "de": "Wöchentliche Herausforderungen anzeigen",
-    "fr": "Afficher les défis hebdomadaires",
-    "it": "Mostra sfide settimanali",
-    "es": "Mostrar desafíos semanales",
-    "ru": "Показывать еженедельные испытания",
-    "zh": "显示每周挑战",
-    "zh2": "顯示每週挑戰",
-    "pt": "Mostrar desafios semanais"
+    "en": "Show weekly challenges"
   },
   "menu_show_event_challenges": {
-    "en": "Show event challenges",
-    "pl": "Pokaż wyzwania wydarzeń",
-    "de": "Event-Herausforderungen anzeigen",
-    "fr": "Afficher les défis d'événement",
-    "it": "Mostra sfide evento",
-    "es": "Mostrar desafíos de evento",
-    "ru": "Показывать испытания события",
-    "zh": "显示活动挑战",
-    "zh2": "顯示活動挑戰",
-    "pt": "Mostrar desafios de evento"
+    "en": "Show event challenges"
   },
   "menu_show_completed_challenges": {
-    "en": "Show completed challenges",
-    "pl": "Pokaż ukończone wyzwania",
-    "de": "Abgeschlossene Herausforderungen anzeigen",
-    "fr": "Afficher les défis terminés",
-    "it": "Mostra sfide completate",
-    "es": "Mostrar desafíos completados",
-    "ru": "Показывать выполненные испытания",
-    "zh": "显示已完成的挑战",
-    "zh2": "顯示已完成的挑戰",
-    "pt": "Mostrar desafios concluídos"
+    "en": "Show completed challenges"
   },
   "menu_show_challenge_rewards": {
-    "en": "Show SCORE rewards",
-    "pl": "Pokaż nagrody SCORE",
-    "de": "SCORE-Belohnungen anzeigen",
-    "fr": "Afficher les récompenses SCORE",
-    "it": "Mostra ricompense SCORE",
-    "es": "Mostrar recompensas de SCORE",
-    "ru": "Показывать награды SCORE",
-    "zh": "显示 SCORE 奖励",
-    "zh2": "顯示 SCORE 獎勵",
-    "pt": "Mostrar recompensas de SCORE"
+    "en": "Show SCORE rewards"
   },
   "menu_show_challenge_rerolls": {
-    "en": "Show re-rolls",
-    "pl": "Pokaż ponowne losowania",
-    "de": "Neu-Würfe anzeigen",
-    "fr": "Afficher les relances",
-    "it": "Mostra rilanci",
-    "es": "Mostrar repeticiones",
-    "ru": "Показывать пересброски",
-    "zh": "显示重掷次数",
-    "zh2": "顯示重擲次數",
-    "pt": "Mostrar re-sorteios"
+    "en": "Show re-rolls"
   },
   "menu_max_rows": {
-    "en": "Max rows (0 = all)",
-    "pl": "Maks. wierszy (0 = wszystkie)",
-    "de": "Max. Zeilen (0 = alle)",
-    "fr": "Lignes max. (0 = toutes)",
-    "it": "Righe max. (0 = tutte)",
-    "es": "Filas máx. (0 = todas)",
-    "ru": "Макс. строк (0 = все)",
-    "zh": "最大行数（0 = 全部）",
-    "zh2": "最大行數（0 = 全部）",
-    "pt": "Máx. de linhas (0 = todas)"
+    "en": "Max rows (0 = all)"
   },
   "menu_activity_filter": {
-    "en": "Activities",
-    "pl": "Aktywności",
-    "de": "Aktivitäten",
-    "fr": "Activités",
-    "it": "Attività",
-    "es": "Actividades",
-    "ru": "Активности",
-    "zh": "活动",
-    "zh2": "活動",
-    "pt": "Atividades"
+    "en": "Activities"
   },
   "menu_option_all": {
-    "en": "All",
-    "pl": "Wszystkie",
-    "de": "Alle",
-    "fr": "Toutes",
-    "it": "Tutte",
-    "es": "Todas",
-    "ru": "Все",
-    "zh": "全部",
-    "zh2": "全部",
-    "pt": "Todas"
+    "en": "All"
   },
   "menu_option_featured": {
-    "en": "Featured",
-    "pl": "Wyróżnione",
-    "de": "Hervorgehoben",
-    "fr": "À la une",
-    "it": "In evidenza",
-    "es": "Destacadas",
-    "ru": "Избранные",
-    "zh": "精选",
-    "zh2": "精選",
-    "pt": "Em destaque"
+    "en": "Featured"
   },
   "menu_option_off": {
-    "en": "Off",
-    "pl": "Wyłączone",
-    "de": "Aus",
-    "fr": "Désactivé",
-    "it": "Disattivato",
-    "es": "Desactivado",
-    "ru": "Выкл.",
-    "zh": "关闭",
-    "zh2": "關閉",
-    "pt": "Desativado"
+    "en": "Off"
   },
   "menu_show_activity_time": {
-    "en": "Show time since start",
-    "pl": "Pokaż czas od startu",
-    "de": "Zeit seit Beginn anzeigen",
-    "fr": "Afficher le temps écoulé",
-    "it": "Mostra tempo trascorso",
-    "es": "Mostrar tiempo transcurrido",
-    "ru": "Показывать прошедшее время",
-    "zh": "显示已过时间",
-    "zh2": "顯示經過時間",
-    "pt": "Mostrar tempo decorrido"
+    "en": "Show time since start"
   },
   "menu_show_activity_vendors": {
-    "en": "Show player vendors",
-    "pl": "Pokaż sprzedawców graczy",
-    "de": "Spielerhändler anzeigen",
-    "fr": "Afficher les vendeurs joueurs",
-    "it": "Mostra venditori giocatori",
-    "es": "Mostrar vendedores de jugadores",
-    "ru": "Показывать торговцев-игроков",
-    "zh": "显示玩家商贩",
-    "zh2": "顯示玩家商販",
-    "pt": "Mostrar vendedores de jogadores"
+    "en": "Show player vendors"
   },
   "menu_show_activity_nukes": {
-    "en": "Show nuke drops",
-    "pl": "Pokaż zrzuty bomb",
-    "de": "Atomabwürfe anzeigen",
-    "fr": "Afficher les largages nucléaires",
-    "it": "Mostra lanci nucleari",
-    "es": "Mostrar lanzamientos nucleares",
-    "ru": "Показывать ядерные удары",
-    "zh": "显示核弹投放",
-    "zh2": "顯示核彈投放",
-    "pt": "Mostrar lançamentos nucleares"
+    "en": "Show nuke drops"
   },
   "menu_join_hold_time": {
-    "en": "Hold to join",
-    "pl": "Przytrzymaj, aby dołączyć",
-    "de": "Zum Beitreten halten",
-    "fr": "Maintenir pour rejoindre",
-    "it": "Tieni premuto per unirti",
-    "es": "Mantén para unirte",
-    "ru": "Удерживайте, чтобы присоединиться",
-    "zh": "按住加入",
-    "zh2": "按住加入",
-    "pt": "Segure para entrar"
+    "en": "Hold to join"
   },
   "ct_header": {
-    "en": "Header",
-    "pl": "Nagłówek",
-    "de": "Kopfzeile",
-    "fr": "En-tête",
-    "it": "Intestazione",
-    "es": "Encabezado",
-    "ru": "Заголовок",
-    "zh": "标题",
-    "zh2": "標題",
-    "pt": "Cabeçalho"
+    "en": "Header"
   },
   "ct_section": {
-    "en": "Section",
-    "pl": "Sekcja",
-    "de": "Abschnitt",
-    "fr": "Section",
-    "it": "Sezione",
-    "es": "Sección",
-    "ru": "Раздел",
-    "zh": "分区",
-    "zh2": "分區",
-    "pt": "Seção"
+    "en": "Section"
   },
   "ct_event_section": {
-    "en": "Event section",
-    "pl": "Sekcja wydarzenia",
-    "de": "Event-Abschnitt",
-    "fr": "Section événement",
-    "it": "Sezione evento",
-    "es": "Sección de evento",
-    "ru": "Раздел события",
-    "zh": "活动分区",
-    "zh2": "活動分區",
-    "pt": "Seção de evento"
+    "en": "Event section"
   },
   "ct_boosted": {
-    "en": "Boosted SCORE",
-    "pl": "Zwiększony SCORE",
-    "de": "Verstärkter SCORE",
-    "fr": "SCORE boosté",
-    "it": "SCORE potenziato",
-    "es": "SCORE potenciado",
-    "ru": "Усиленный SCORE",
-    "zh": "加成 SCORE",
-    "zh2": "加成 SCORE",
-    "pt": "SCORE impulsionado"
+    "en": "Boosted SCORE"
   },
   "ct_completed": {
-    "en": "Completed",
-    "pl": "Ukończone",
-    "de": "Abgeschlossen",
-    "fr": "Terminé",
-    "it": "Completato",
-    "es": "Completado",
-    "ru": "Выполнено",
-    "zh": "已完成",
-    "zh2": "已完成",
-    "pt": "Concluído"
+    "en": "Completed"
   },
   "ct_activity_daily_ops": {
-    "en": "Daily Ops",
-    "pl": "Operacje dzienne",
-    "de": "Tägliche Einsätze",
-    "fr": "Opérations quotidiennes",
-    "it": "Operazioni giornaliere",
-    "es": "Operaciones diarias",
-    "ru": "Ежедневные операции",
-    "zh": "每日行动",
-    "zh2": "每日行動",
-    "pt": "Operações diárias"
+    "en": "Daily Ops"
   },
   "ct_activity_public_event": {
-    "en": "Public event",
-    "pl": "Wydarzenie publiczne",
-    "de": "Öffentliches Ereignis",
-    "fr": "Évènement public",
-    "it": "Evento pubblico",
-    "es": "Evento público",
-    "ru": "Публичное событие",
-    "zh": "公共事件",
-    "zh2": "公共事件",
-    "pt": "Evento público"
+    "en": "Public event"
   },
   "ct_activity_mutated": {
-    "en": "Mutated public event",
-    "pl": "Zmutowane wydarzenie publiczne",
-    "de": "Mutiertes öffentliches Ereignis",
-    "fr": "Évènement public muté",
-    "it": "Evento pubblico mutato",
-    "es": "Evento público mutado",
-    "ru": "Мутировавшее публичное событие",
-    "zh": "变异公共事件",
-    "zh2": "變異公共事件",
-    "pt": "Evento público mutado"
+    "en": "Mutated public event"
   },
   "ct_activity_nuke": {
-    "en": "Nuke drop",
-    "pl": "Zrzut bomby",
-    "de": "Atomabwurf",
-    "fr": "Largage nucléaire",
-    "it": "Lancio nucleare",
-    "es": "Lanzamiento nuclear",
-    "ru": "Ядерный удар",
-    "zh": "核弹投放",
-    "zh2": "核彈投放",
-    "pt": "Lançamento nuclear"
+    "en": "Nuke drop"
   },
   "ct_activity_vendor": {
-    "en": "Player vendor",
-    "pl": "Sprzedawca gracza",
-    "de": "Spielerhändler",
-    "fr": "Vendeur joueur",
-    "it": "Venditore giocatore",
-    "es": "Vendedor de jugador",
-    "ru": "Торговец-игрок",
-    "zh": "玩家商贩",
-    "zh2": "玩家商販",
-    "pt": "Vendedor de jogador"
+    "en": "Player vendor"
   },
   "ct_activity_other": {
-    "en": "Other activity",
-    "pl": "Inna aktywność",
-    "de": "Andere Aktivität",
-    "fr": "Autre activité",
-    "it": "Altra attività",
-    "es": "Otra actividad",
-    "ru": "Прочая активность",
-    "zh": "其他活动",
-    "zh2": "其他活動",
-    "pt": "Outra atividade"
+    "en": "Other activity"
   },
   "ct_activity_join": {
-    "en": "Join progress",
-    "pl": "Postęp dołączania",
-    "de": "Beitrittsfortschritt",
-    "fr": "Progression de la jonction",
-    "it": "Avanzamento ingresso",
-    "es": "Progreso de unión",
-    "ru": "Прогресс присоединения",
-    "zh": "加入进度",
-    "zh2": "加入進度",
-    "pt": "Progresso de entrada"
+    "en": "Join progress"
   },
   "challenges_title": {
-    "en": "Challenges",
-    "pl": "Wyzwania",
-    "de": "Herausforderungen",
-    "fr": "Défis",
-    "it": "Sfide",
-    "es": "Desafíos",
-    "ru": "Испытания",
-    "zh": "挑战",
-    "zh2": "挑戰",
-    "pt": "Desafios"
+    "en": "Challenges"
   },
   "challenges_daily": {
-    "en": "Daily",
-    "pl": "Dzienne",
-    "de": "Täglich",
-    "fr": "Quotidien",
-    "it": "Giornaliere",
-    "es": "Diarios",
-    "ru": "Ежедневные",
-    "zh": "每日",
-    "zh2": "每日",
-    "pt": "Diários"
+    "en": "Daily"
   },
   "challenges_weekly": {
-    "en": "Weekly",
-    "pl": "Tygodniowe",
-    "de": "Wöchentlich",
-    "fr": "Hebdomadaire",
-    "it": "Settimanali",
-    "es": "Semanales",
-    "ru": "Еженедельные",
-    "zh": "每周",
-    "zh2": "每週",
-    "pt": "Semanais"
+    "en": "Weekly"
   },
   "challenges_event": {
-    "en": "Event",
-    "pl": "Wydarzenie",
-    "de": "Event",
-    "fr": "Événement",
-    "it": "Evento",
-    "es": "Evento",
-    "ru": "Событие",
-    "zh": "活动",
-    "zh2": "活動",
-    "pt": "Evento"
+    "en": "Event"
   },
   "challenges_rerolls": {
-    "en": "Re-rolls",
-    "pl": "Ponowne losowania",
-    "de": "Neu-Würfe",
-    "fr": "Relances",
-    "it": "Rilanci",
-    "es": "Repeticiones",
-    "ru": "Пересброски",
-    "zh": "重掷",
-    "zh2": "重擲",
-    "pt": "Re-sorteios"
+    "en": "Re-rolls"
   },
   "world_activity_title": {
-    "en": "World activity",
-    "pl": "Aktywność w świecie",
-    "de": "Weltaktivität",
-    "fr": "Activité du monde",
-    "it": "Attività nel mondo",
-    "es": "Actividad del mundo",
-    "ru": "Мировая активность",
-    "zh": "世界活动",
-    "zh2": "世界活動",
-    "pt": "Atividade do mundo"
+    "en": "World activity"
   },
   "world_activity_ago": {
-    "en": "{time} ago",
-    "pl": "{time} temu",
-    "de": "vor {time}",
-    "fr": "il y a {time}",
-    "it": "{time} fa",
-    "es": "hace {time}",
-    "ru": "{time} назад",
-    "zh": "{time}前",
-    "zh2": "{time}前",
-    "pt": "há {time}"
+    "en": "{time} ago"
   },
   "world_activity_type_daily_ops": {
-    "en": "Daily Ops",
-    "pl": "Operacje dzienne",
-    "de": "Tägliche Einsätze",
-    "fr": "Opérations quotidiennes",
-    "it": "Operazioni giornaliere",
-    "es": "Operaciones diarias",
-    "ru": "Ежедневные операции",
-    "zh": "每日行动",
-    "zh2": "每日行動",
-    "pt": "Operações diárias"
+    "en": "Daily Ops"
   },
   "world_activity_type_public_event": {
-    "en": "Public event",
-    "pl": "Wydarzenie publiczne",
-    "de": "Öffentliches Ereignis",
-    "fr": "Évènement public",
-    "it": "Evento pubblico",
-    "es": "Evento público",
-    "ru": "Публичное событие",
-    "zh": "公共事件",
-    "zh2": "公共事件",
-    "pt": "Evento público"
+    "en": "Public event"
   },
   "world_activity_type_event": {
-    "en": "Activity",
-    "pl": "Aktywność",
-    "de": "Aktivität",
-    "fr": "Activité",
-    "it": "Attività",
-    "es": "Actividad",
-    "ru": "Активность",
-    "zh": "活动",
-    "zh2": "活動",
-    "pt": "Atividade"
+    "en": "Activity"
   },
   "world_activity_type_vendor": {
-    "en": "Vendor",
-    "pl": "Sprzedawca",
-    "de": "Händler",
-    "fr": "Vendeur",
-    "it": "Venditore",
-    "es": "Vendedor",
-    "ru": "Торговец",
-    "zh": "商贩",
-    "zh2": "商販",
-    "pt": "Vendedor"
+    "en": "Vendor"
   },
   "world_activity_type_nuke": {
-    "en": "Nuke drop",
-    "pl": "Zrzut bomby",
-    "de": "Atomabwurf",
-    "fr": "Largage nucléaire",
-    "it": "Lancio nucleare",
-    "es": "Lanzamiento nuclear",
-    "ru": "Ядерный удар",
-    "zh": "核弹投放",
-    "zh2": "核彈投放",
-    "pt": "Lançamento nuclear"
+    "en": "Nuke drop"
   },
   "world_activity_type_mutated": {
-    "en": "Mutated event",
-    "pl": "Zmutowane wydarzenie",
-    "de": "Mutiertes Ereignis",
-    "fr": "Évènement muté",
-    "it": "Evento mutato",
-    "es": "Evento mutado",
-    "ru": "Мутировавшее событие",
-    "zh": "变异事件",
-    "zh2": "變異事件",
-    "pt": "Evento mutado"
+    "en": "Mutated event"
   },
   "world_activity_type_caravan": {
-    "en": "Caravan",
-    "pl": "Karawana",
-    "de": "Karawane",
-    "fr": "Caravane",
-    "it": "Carovana",
-    "es": "Caravana",
-    "ru": "Караван",
-    "zh": "商队",
-    "zh2": "商隊",
-    "pt": "Caravana"
+    "en": "Caravan"
   },
   "world_activity_type_raid": {
-    "en": "Raid",
-    "pl": "Rajd",
-    "de": "Raid",
-    "fr": "Raid",
-    "it": "Raid",
-    "es": "Incursión",
-    "ru": "Рейд",
-    "zh": "突袭",
-    "zh2": "突襲",
-    "pt": "Reide"
+    "en": "Raid"
   },
   "world_activity_type_infestation": {
-    "en": "Infestation",
-    "pl": "Plaga",
-    "de": "Befall",
-    "fr": "Infestation",
-    "it": "Infestazione",
-    "es": "Infestación",
-    "ru": "Заражение",
-    "zh": "虫害",
-    "zh2": "蟲害",
-    "pt": "Infestação"
+    "en": "Infestation"
   },
   "menu_stealth_mode": {
-    "en": "Display",
-    "pl": "Wyświetlanie",
-    "de": "Anzeige",
-    "fr": "Affichage",
-    "it": "Visualizzazione",
-    "es": "Visualización",
-    "ru": "Отображение",
-    "zh": "显示方式",
-    "zh2": "顯示方式",
-    "pt": "Exibição"
+    "en": "Display"
   },
   "menu_option_stealth_both": {
-    "en": "State and meter",
-    "pl": "Stan i miernik",
-    "de": "Zustand und Anzeige",
-    "fr": "État et jauge",
-    "it": "Stato e indicatore",
-    "es": "Estado y medidor",
-    "ru": "Состояние и шкала",
-    "zh": "状态与指示",
-    "zh2": "狀態與指示",
-    "pt": "Estado e medidor"
+    "en": "State and meter"
   },
   "menu_option_stealth_state": {
-    "en": "State only",
-    "pl": "Tylko stan",
-    "de": "Nur Zustand",
-    "fr": "État seulement",
-    "it": "Solo stato",
-    "es": "Solo estado",
-    "ru": "Только состояние",
-    "zh": "仅状态",
-    "zh2": "僅狀態",
-    "pt": "Somente estado"
+    "en": "State only"
   },
   "menu_option_stealth_meter": {
-    "en": "Meter only",
-    "pl": "Tylko miernik",
-    "de": "Nur Anzeige",
-    "fr": "Jauge seulement",
-    "it": "Solo indicatore",
-    "es": "Solo medidor",
-    "ru": "Только шкала",
-    "zh": "仅指示",
-    "zh2": "僅指示",
-    "pt": "Somente medidor"
+    "en": "Meter only"
   },
   "menu_stealth_show_percent": {
-    "en": "Show awareness percent",
-    "pl": "Pokaż procent czujności",
-    "de": "Aufmerksamkeit in Prozent anzeigen",
-    "fr": "Afficher le pourcentage de vigilance",
-    "it": "Mostra percentuale di allerta",
-    "es": "Mostrar porcentaje de alerta",
-    "ru": "Показывать процент настороженности",
-    "zh": "显示警觉百分比",
-    "zh2": "顯示警覺百分比",
-    "pt": "Mostrar porcentagem de alerta"
+    "en": "Show awareness percent"
   },
   "menu_stealth_threat_only": {
-    "en": "Only when detected or in danger",
-    "pl": "Tylko przy wykryciu lub zagrożeniu",
-    "de": "Nur bei Entdeckung oder Gefahr",
-    "fr": "Seulement si repéré ou en danger",
-    "it": "Solo se rilevato o in pericolo",
-    "es": "Solo si te detectan o en peligro",
-    "ru": "Только при обнаружении или опасности",
-    "zh": "仅在被发现或危险时",
-    "zh2": "僅在被發現或危險時",
-    "pt": "Somente se detectado ou em perigo"
+    "en": "Only when detected or in danger"
   },
   "menu_stealth_pulse": {
-    "en": "Pulse on danger",
-    "pl": "Pulsowanie przy zagrożeniu",
-    "de": "Pulsieren bei Gefahr",
-    "fr": "Pulsation en cas de danger",
-    "it": "Pulsazione in caso di pericolo",
-    "es": "Pulso en peligro",
-    "ru": "Пульсация при опасности",
-    "zh": "危险时闪烁",
-    "zh2": "危險時閃爍",
-    "pt": "Pulsar em perigo"
+    "en": "Pulse on danger"
   },
   "stealth_sample_text": {
-    "en": "Hidden",
-    "pl": "Ukryty",
-    "de": "Versteckt",
-    "fr": "Caché",
-    "it": "Nascosto",
-    "es": "Oculto",
-    "ru": "Скрыт",
-    "zh": "隐藏",
-    "zh2": "隱藏",
-    "pt": "Escondido"
+    "en": "Hidden"
   },
   "menu_scale_auto": {
-    "en": "Auto",
-    "pl": "Auto",
-    "de": "Auto",
-    "fr": "Auto",
-    "it": "Auto",
-    "es": "Auto",
-    "ru": "Авто",
-    "zh": "自动",
-    "zh2": "自動",
-    "pt": "Auto"
+    "en": "Auto"
   },
   "menu_scale_follow": {
-    "en": "Follow default scale",
-    "pl": "Użyj skali domyślnej",
-    "de": "Standardskalierung verwenden",
-    "fr": "Suivre l'échelle par défaut",
-    "it": "Usa la scala predefinita",
-    "es": "Usar la escala predeterminada",
-    "ru": "Использовать масштаб по умолчанию",
-    "zh": "使用默认缩放",
-    "zh2": "使用預設縮放",
-    "pt": "Usar a escala padrão"
+    "en": "Follow default scale"
   },
   "menu_widgets_layout_hint": {
-    "en": "Other widget settings: layout editor (Shift + Backspace)",
-    "pl": "Pozostałe ustawienia widgetów: edytor układu (Shift + Backspace)",
-    "de": "Weitere Widget-Einstellungen: Layout-Editor (Umschalt + Rücktaste)",
-    "fr": "Autres réglages des widgets : éditeur de disposition (Maj + Retour arrière)",
-    "it": "Altre impostazioni dei widget: editor del layout (Maiusc + Backspace)",
-    "es": "Otros ajustes de widgets: editor de diseño (Mayús + Retroceso)",
-    "ru": "Остальные настройки виджетов: редактор расположения (Shift + Backspace)",
-    "zh": "其他小部件设置：布局编辑器（Shift + Backspace）",
-    "zh2": "其他小工具設定：版面編輯器（Shift + Backspace）",
-    "pt": "Outras configurações de widgets: editor de layout (Shift + Backspace)"
+    "en": "Other widget settings: layout editor (Shift + Backspace)"
   },
   "world_activity_join_hint": {
-    "en": "Q + number: hold to join",
-    "pl": "Q + cyfra: przytrzymaj, aby dołączyć",
-    "de": "Q + Zahl: zum Beitreten halten",
-    "fr": "Q + chiffre : maintenir pour rejoindre",
-    "it": "Q + numero: tieni premuto per unirti",
-    "es": "Q + número: mantén para unirte",
-    "ru": "Q + цифра: удерживайте, чтобы присоединиться",
-    "zh": "Q + 数字：按住加入",
-    "zh2": "Q + 數字：按住加入",
-    "pt": "Q + número: segure para entrar"
+    "en": "Q + number: hold to join"
   },
   "menu_show_join_hint": {
-    "en": "Show join hint",
-    "pl": "Pokaż podpowiedź dołączania",
-    "de": "Beitritts-Hinweis anzeigen",
-    "fr": "Afficher l'astuce de jonction",
-    "it": "Mostra suggerimento di ingresso",
-    "es": "Mostrar pista de unión",
-    "ru": "Показывать подсказку присоединения",
-    "zh": "显示加入提示",
-    "zh2": "顯示加入提示",
-    "pt": "Mostrar dica de entrada"
+    "en": "Show join hint"
   },
   "layout_edit_other_elements": {
-    "en": "Other HUD elements",
-    "pl": "Inne elementy HUD",
-    "de": "Weitere HUD-Elemente",
-    "fr": "Autres éléments du HUD",
-    "it": "Altri elementi HUD",
-    "es": "Otros elementos del HUD",
-    "ru": "Другие элементы HUD",
-    "zh": "其他 HUD 元素",
-    "zh2": "其他 HUD 元素",
-    "pt": "Outros elementos do HUD"
+    "en": "Other HUD elements"
   },
   "layout_intro_title": {
-    "en": "Layout editor",
-    "pl": "Edytor układu",
-    "de": "Layout-Editor",
-    "fr": "Éditeur de disposition",
-    "it": "Editor del layout",
-    "es": "Editor de diseño",
-    "ru": "Редактор расположения",
-    "zh": "布局编辑器",
-    "zh2": "版面編輯器",
-    "pt": "Editor de layout"
+    "en": "Layout editor"
   },
   "layout_intro_body": {
-    "en": "Place and tune every element of the HUD here. Shift + Backspace saves and exits.\n- Click an element to open its Options: enable, scale, Visible on, colours and its own settings.\n- Drag to move, drag a corner to scale, right-click to reset.\n- Shift + M switches between mod widgets and vanilla HUD elements; Other HUD elements lists the rest.\n- Arrow keys / d-pad nudge by 1 px (Shift: 10 px).\n- Gamepad: right stick moves the cursor, LT + right stick moves, RT + right stick scales, A clicks, B resets, Y opens Options.\n- {key} now only holds global settings.",
-    "pl": "Tu rozmieszczasz i ustawiasz każdy element HUD. Shift + Backspace zapisuje i zamyka.\n- Kliknij element, aby otworzyć jego Opcje: włączanie, skala, Widoczne w, kolory i własne ustawienia.\n- Przeciągnij, aby przesunąć, przeciągnij róg, aby zmienić skalę, prawy przycisk resetuje.\n- Shift + M przełącza widgety moda i elementy HUD gry; Inne elementy HUD zawiera resztę.\n- Strzałki / krzyżak przesuwają o 1 px (Shift: 10 px).\n- Pad: prawy drążek – kursor, LT + prawy drążek – przesuwanie, RT + prawy drążek – skala, A klika, B resetuje, Y otwiera Opcje.\n- {key} zawiera teraz tylko ustawienia globalne.",
-    "de": "Hier platzierst und stimmst du jedes HUD-Element ab. Umschalt + Rücktaste speichert und beendet.\n- Klicke ein Element an, um seine Optionen zu öffnen: Aktivieren, Skalierung, Sichtbar in, Farben und eigene Einstellungen.\n- Ziehen zum Verschieben, Ecke ziehen zum Skalieren, Rechtsklick zum Zurücksetzen.\n- Umschalt + M wechselt zwischen Mod-Widgets und Vanilla-HUD-Elementen; Weitere HUD-Elemente listet den Rest.\n- Pfeiltasten / Steuerkreuz verschieben um 1 px (Umschalt: 10 px).\n- Gamepad: rechter Stick bewegt den Cursor, LT + rechter Stick verschiebt, RT + rechter Stick skaliert, A klickt, B setzt zurück, Y öffnet die Optionen.\n- {key} enthält jetzt nur noch globale Einstellungen.",
-    "fr": "Placez et réglez ici chaque élément du HUD. Maj + Retour arrière enregistre et quitte.\n- Cliquez sur un élément pour ouvrir ses Options : activation, échelle, Visible dans, couleurs et ses propres réglages.\n- Glissez pour déplacer, glissez un coin pour changer l'échelle, clic droit pour réinitialiser.\n- Maj + M alterne entre les widgets du mod et les éléments du HUD d'origine ; Autres éléments du HUD liste le reste.\n- Flèches / croix directionnelle : déplacement de 1 px (Maj : 10 px).\n- Manette : stick droit = curseur, LT + stick droit = déplacer, RT + stick droit = échelle, A clique, B réinitialise, Y ouvre les Options.\n- {key} ne contient plus que les réglages globaux.",
-    "it": "Qui posizioni e regoli ogni elemento dell'HUD. Maiusc + Backspace salva ed esce.\n- Clicca un elemento per aprire le sue Opzioni: attivazione, scala, Visibile in, colori e impostazioni proprie.\n- Trascina per spostare, trascina un angolo per scalare, clic destro per reimpostare.\n- Maiusc + M passa tra i widget del mod e gli elementi HUD originali; Altri elementi HUD elenca il resto.\n- Frecce / croce direzionale: spostano di 1 px (Maiusc: 10 px).\n- Gamepad: stick destro sposta il cursore, LT + stick destro sposta, RT + stick destro scala, A clicca, B reimposta, Y apre le Opzioni.\n- {key} contiene ora solo le impostazioni globali.",
-    "es": "Aquí colocas y ajustas cada elemento del HUD. Mayús + Retroceso guarda y sale.\n- Haz clic en un elemento para abrir sus Opciones: activar, escala, Visible en, colores y sus propios ajustes.\n- Arrastra para mover, arrastra una esquina para escalar, clic derecho para restablecer.\n- Mayús + M alterna entre los widgets del mod y los elementos del HUD original; Otros elementos del HUD lista el resto.\n- Flechas / cruceta: mueven 1 px (Mayús: 10 px).\n- Mando: stick derecho mueve el cursor, LT + stick derecho mueve, RT + stick derecho escala, A hace clic, B restablece, Y abre las Opciones.\n- {key} ahora solo contiene ajustes globales.",
-    "ru": "Здесь вы размещаете и настраиваете каждый элемент HUD. Shift + Backspace сохраняет и выходит.\n- Нажмите на элемент, чтобы открыть его Параметры: включение, масштаб, Видимость, цвета и собственные настройки.\n- Перетащите, чтобы переместить, перетащите угол, чтобы изменить масштаб, правая кнопка сбрасывает.\n- Shift + M переключает виджеты мода и элементы HUD игры; Другие элементы HUD содержит остальное.\n- Стрелки / крестовина сдвигают на 1 px (Shift: 10 px).\n- Геймпад: правый стик двигает курсор, LT + правый стик перемещает, RT + правый стик масштабирует, A нажимает, B сбрасывает, Y открывает Параметры.\n- {key} теперь содержит только общие настройки.",
-    "zh": "在这里放置并调整 HUD 的每个元素。Shift + Backspace 保存并退出。\n- 点击元素打开其选项：启用、缩放、显示于、颜色和专属设置。\n- 拖动移动，拖动角缩放，右键重置。\n- Shift + M 在模组小部件和原版 HUD 元素之间切换；“其他 HUD 元素”列出其余部分。\n- 方向键 / 十字键微调 1 px（Shift：10 px）。\n- 手柄：右摇杆移动光标，LT + 右摇杆移动，RT + 右摇杆缩放，A 点击，B 重置，Y 打开选项。\n- {key} 现在只包含全局设置。",
-    "zh2": "在這裡放置並調整 HUD 的每個元素。Shift + Backspace 儲存並離開。\n- 點擊元素開啟其選項：啟用、縮放、顯示於、顏色與專屬設定。\n- 拖曳移動，拖曳角落縮放，右鍵重設。\n- Shift + M 在模組小工具與原版 HUD 元素之間切換；「其他 HUD 元素」列出其餘部分。\n- 方向鍵 / 十字鍵微調 1 px（Shift：10 px）。\n- 手把：右搖桿移動游標，LT + 右搖桿移動，RT + 右搖桿縮放，A 點擊，B 重設，Y 開啟選項。\n- {key} 現在只包含全域設定。",
-    "pt": "Aqui você posiciona e ajusta cada elemento do HUD. Shift + Backspace salva e sai.\n- Clique em um elemento para abrir suas Opções: ativar, escala, Visível em, cores e configurações próprias.\n- Arraste para mover, arraste um canto para escalar, clique direito para redefinir.\n- Shift + M alterna entre os widgets do mod e os elementos do HUD original; Outros elementos do HUD lista o restante.\n- Setas / direcional movem 1 px (Shift: 10 px).\n- Controle: analógico direito move o cursor, LT + analógico direito move, RT + analógico direito escala, A clica, B redefine, Y abre as Opções.\n- {key} agora contém apenas configurações globais."
+    "en": "Place and tune every element of the HUD here. Shift + Backspace saves and exits.\n- Click an element to open its Options: enable, scale, Visible on, colours and its own settings.\n- Drag to move, drag a corner to scale, right-click to reset.\n- Shift + M switches between mod widgets and vanilla HUD elements; Other HUD elements lists the rest.\n- Arrow keys / d-pad nudge by 1 px (Shift: 10 px).\n- Gamepad: right stick moves the cursor, LT + right stick moves, RT + right stick scales, A clicks, B resets, Y opens Options.\n- {key} now only holds global settings."
   },
   "layout_intro_warning": {
-    "en": "Please read this before asking questions or reporting problems on Nexus.",
-    "pl": "Przeczytaj to, zanim zadasz pytanie lub zgłosisz problem na Nexusie.",
-    "de": "Bitte lies das, bevor du auf Nexus Fragen stellst oder Probleme meldest.",
-    "fr": "Veuillez lire ceci avant de poser des questions ou de signaler des problèmes sur Nexus.",
-    "it": "Leggi questo prima di fare domande o segnalare problemi su Nexus.",
-    "es": "Lee esto antes de hacer preguntas o informar de problemas en Nexus.",
-    "ru": "Прочитайте это, прежде чем задавать вопросы или сообщать о проблемах на Nexus.",
-    "zh": "在 Nexus 上提问或反馈问题之前，请先阅读此内容。",
-    "zh2": "在 Nexus 上提問或回報問題之前，請先閱讀此內容。",
-    "pt": "Leia isto antes de fazer perguntas ou relatar problemas no Nexus."
+    "en": "Please read this before asking questions or reporting problems on Nexus."
   },
   "layout_intro_ok_wait": {
-    "en": "OK ({seconds})",
-    "pl": "OK ({seconds})",
-    "de": "OK ({seconds})",
-    "fr": "OK ({seconds})",
-    "it": "OK ({seconds})",
-    "es": "OK ({seconds})",
-    "ru": "OK ({seconds})",
-    "zh": "OK ({seconds})",
-    "zh2": "OK ({seconds})",
-    "pt": "OK ({seconds})"
+    "en": "OK ({seconds})"
   },
   "layout_intro_instructions": {
-    "en": "ENTER / A CLOSE (AFTER THE COUNTDOWN)",
-    "pl": "ENTER / A ZAMKNIJ (PO ODLICZANIU)",
-    "de": "ENTER / A SCHLIESSEN (NACH DEM COUNTDOWN)",
-    "fr": "ENTRÉE / A FERMER (APRÈS LE COMPTE À REBOURS)",
-    "it": "INVIO / A CHIUDI (DOPO IL CONTO ALLA ROVESCIA)",
-    "es": "ENTER / A CERRAR (TRAS LA CUENTA ATRÁS)",
-    "ru": "ENTER / A ЗАКРЫТЬ (ПОСЛЕ ОТСЧЁТА)",
-    "zh": "ENTER / A 关闭（倒计时结束后）",
-    "zh2": "ENTER / A 關閉（倒數結束後）",
-    "pt": "ENTER / A FECHAR (APÓS A CONTAGEM)"
+    "en": "ENTER / A CLOSE (AFTER THE COUNTDOWN)"
   },
   "menu_challenges_mode": {
-    "en": "Display",
-    "pl": "Wyświetlanie",
-    "de": "Anzeige",
-    "fr": "Affichage",
-    "it": "Visualizzazione",
-    "es": "Visualización",
-    "ru": "Отображение",
-    "zh": "显示方式",
-    "zh2": "顯示方式",
-    "pt": "Exibição"
+    "en": "Display"
   },
   "menu_option_challenges_standard": {
-    "en": "Standard",
-    "pl": "Standardowy",
-    "de": "Standard",
-    "fr": "Standard",
-    "it": "Standard",
-    "es": "Estándar",
-    "ru": "Стандартный",
-    "zh": "标准",
-    "zh2": "標準",
-    "pt": "Padrão"
+    "en": "Standard"
   },
   "menu_option_challenges_compact": {
-    "en": "Compact (one section)",
-    "pl": "Kompaktowy (jedna sekcja)",
-    "de": "Kompakt (ein Abschnitt)",
-    "fr": "Compact (une section)",
-    "it": "Compatto (una sezione)",
-    "es": "Compacto (una sección)",
-    "ru": "Компактный (один раздел)",
-    "zh": "紧凑（单个分区）",
-    "zh2": "精簡（單一分區）",
-    "pt": "Compacto (uma seção)"
+    "en": "Compact (one section)"
   },
   "menu_challenges_cycle": {
-    "en": "Section switch time",
-    "pl": "Czas zmiany sekcji",
-    "de": "Abschnittswechsel",
-    "fr": "Durée par section",
-    "it": "Tempo per sezione",
-    "es": "Tiempo por sección",
-    "ru": "Время смены раздела",
-    "zh": "分区切换时间",
-    "zh2": "分區切換時間",
-    "pt": "Tempo por seção"
+    "en": "Section switch time"
   },
   "challenges_sample_1": {
-    "en": "Kill 5 scorched",
-    "pl": "Zabij 5 spalonych",
-    "de": "Töte 5 Verbrannte",
-    "fr": "Tuer 5 calcinés",
-    "it": "Uccidi 5 inceneriti",
-    "es": "Mata a 5 calcinados",
-    "ru": "Убейте 5 обожжённых",
-    "zh": "击杀 5 名焦化者",
-    "zh2": "擊殺 5 名焦化者",
-    "pt": "Mate 5 queimados"
+    "en": "Kill 5 scorched"
   },
   "challenges_sample_2": {
-    "en": "Craft 5 sample items",
-    "pl": "Wytwórz 5 przykładowych przedmiotów",
-    "de": "Stelle 5 Beispielgegenstände her",
-    "fr": "Fabriquer 5 objets d'exemple",
-    "it": "Crea 5 oggetti di esempio",
-    "es": "Fabrica 5 objetos de ejemplo",
-    "ru": "Создайте 5 тестовых предметов",
-    "zh": "制作 5 件示例物品",
-    "zh2": "製作 5 件範例物品",
-    "pt": "Crie 5 itens de exemplo"
+    "en": "Craft 5 sample items"
   },
   "challenges_sample_3": {
-    "en": "Visit a sample location",
-    "pl": "Odwiedź przykładową lokację",
-    "de": "Besuche einen Beispielort",
-    "fr": "Visiter un lieu d'exemple",
-    "it": "Visita un luogo di esempio",
-    "es": "Visita un lugar de ejemplo",
-    "ru": "Посетите тестовую локацию",
-    "zh": "前往一个示例地点",
-    "zh2": "前往一個範例地點",
-    "pt": "Visite um local de exemplo"
+    "en": "Visit a sample location"
   },
   "challenges_sample_4": {
-    "en": "Complete 3 sample events",
-    "pl": "Ukończ 3 przykładowe wydarzenia",
-    "de": "Schließe 3 Beispielereignisse ab",
-    "fr": "Terminer 3 évènements d'exemple",
-    "it": "Completa 3 eventi di esempio",
-    "es": "Completa 3 eventos de ejemplo",
-    "ru": "Завершите 3 тестовых события",
-    "zh": "完成 3 个示例事件",
-    "zh2": "完成 3 個範例事件",
-    "pt": "Conclua 3 eventos de exemplo"
+    "en": "Complete 3 sample events"
   },
   "challenges_sample_5": {
-    "en": "Defeat a sample boss",
-    "pl": "Pokonaj przykładowego bossa",
-    "de": "Besiege einen Beispiel-Boss",
-    "fr": "Vaincre un boss d'exemple",
-    "it": "Sconfiggi un boss di esempio",
-    "es": "Derrota a un jefe de ejemplo",
-    "ru": "Победите тестового босса",
-    "zh": "击败一名示例首领",
-    "zh2": "擊敗一名範例首領",
-    "pt": "Derrote um chefe de exemplo"
+    "en": "Defeat a sample boss"
   },
   "challenges_sample_6": {
-    "en": "Collect 2 sample resources",
-    "pl": "Zbierz 2 przykładowe zasoby",
-    "de": "Sammle 2 Beispielressourcen",
-    "fr": "Récolter 2 ressources d'exemple",
-    "it": "Raccogli 2 risorse di esempio",
-    "es": "Recolecta 2 recursos de ejemplo",
-    "ru": "Соберите 2 тестовых ресурса",
-    "zh": "收集 2 份示例资源",
-    "zh2": "收集 2 份範例資源",
-    "pt": "Colete 2 recursos de exemplo"
+    "en": "Collect 2 sample resources"
   },
   "world_activity_sample_1": {
-    "en": "Sample daily op",
-    "pl": "Przykładowa operacja dzienna",
-    "de": "Beispiel-Tageseinsatz",
-    "fr": "Opération quotidienne d'exemple",
-    "it": "Operazione giornaliera di esempio",
-    "es": "Operación diaria de ejemplo",
-    "ru": "Тестовая ежедневная операция",
-    "zh": "示例每日行动",
-    "zh2": "範例每日行動",
-    "pt": "Operação diária de exemplo"
+    "en": "Sample daily op"
   },
   "world_activity_sample_2": {
-    "en": "Sample public event",
-    "pl": "Przykładowe wydarzenie publiczne",
-    "de": "Beispiel-Öffentliches-Ereignis",
-    "fr": "Évènement public d'exemple",
-    "it": "Evento pubblico di esempio",
-    "es": "Evento público de ejemplo",
-    "ru": "Тестовое публичное событие",
-    "zh": "示例公共事件",
-    "zh2": "範例公共事件",
-    "pt": "Evento público de exemplo"
+    "en": "Sample public event"
   },
   "world_activity_sample_3": {
-    "en": "Sample mutated event",
-    "pl": "Przykładowe zmutowane wydarzenie",
-    "de": "Beispiel-Mutiertes-Ereignis",
-    "fr": "Évènement muté d'exemple",
-    "it": "Evento mutato di esempio",
-    "es": "Evento mutado de ejemplo",
-    "ru": "Тестовое мутировавшее событие",
-    "zh": "示例变异事件",
-    "zh2": "範例變異事件",
-    "pt": "Evento mutado de exemplo"
+    "en": "Sample mutated event"
   },
   "world_activity_sample_4": {
-    "en": "Sample activity",
-    "pl": "Przykładowa aktywność",
-    "de": "Beispielaktivität",
-    "fr": "Activité d'exemple",
-    "it": "Attività di esempio",
-    "es": "Actividad de ejemplo",
-    "ru": "Тестовая активность",
-    "zh": "示例活动",
-    "zh2": "範例活動",
-    "pt": "Atividade de exemplo"
+    "en": "Sample activity"
   },
   "world_activity_sample_5": {
-    "en": "Sample nuke drop",
-    "pl": "Przykładowy zrzut bomby",
-    "de": "Beispiel-Atomabwurf",
-    "fr": "Largage nucléaire d'exemple",
-    "it": "Lancio nucleare di esempio",
-    "es": "Lanzamiento nuclear de ejemplo",
-    "ru": "Тестовый ядерный удар",
-    "zh": "示例核弹投放",
-    "zh2": "範例核彈投放",
-    "pt": "Lançamento nuclear de exemplo"
+    "en": "Sample nuke drop"
   },
   "menu_join_section": {
-    "en": "Q + number join",
-    "pl": "Dołączanie Q + cyfra",
-    "de": "Beitritt mit Q + Zahl",
-    "fr": "Jonction Q + chiffre",
-    "it": "Ingresso Q + numero",
-    "es": "Unirse con Q + número",
-    "ru": "Присоединение Q + цифра",
-    "zh": "Q + 数字加入",
-    "zh2": "Q + 數字加入",
-    "pt": "Entrada com Q + número"
+    "en": "Q + number join"
   },
   "menu_join_daily_ops": {
-    "en": "Daily Ops",
-    "pl": "Operacje dzienne",
-    "de": "Tägliche Einsätze",
-    "fr": "Opérations quotidiennes",
-    "it": "Operazioni giornaliere",
-    "es": "Operaciones diarias",
-    "ru": "Ежедневные операции",
-    "zh": "每日行动",
-    "zh2": "每日行動",
-    "pt": "Operações diárias"
+    "en": "Daily Ops"
   },
   "menu_join_public_events": {
-    "en": "Public events",
-    "pl": "Wydarzenia publiczne",
-    "de": "Öffentliche Ereignisse",
-    "fr": "Évènements publics",
-    "it": "Eventi pubblici",
-    "es": "Eventos públicos",
-    "ru": "Публичные события",
-    "zh": "公共事件",
-    "zh2": "公共事件",
-    "pt": "Eventos públicos"
+    "en": "Public events"
   },
   "menu_join_mutated_events": {
-    "en": "Mutated public events",
-    "pl": "Zmutowane wydarzenia publiczne",
-    "de": "Mutierte öffentliche Ereignisse",
-    "fr": "Évènements publics mutés",
-    "it": "Eventi pubblici mutati",
-    "es": "Eventos públicos mutados",
-    "ru": "Мутировавшие публичные события",
-    "zh": "变异公共事件",
-    "zh2": "變異公共事件",
-    "pt": "Eventos públicos mutados"
+    "en": "Mutated public events"
   },
   "menu_join_activities": {
-    "en": "Activities",
-    "pl": "Aktywności",
-    "de": "Aktivitäten",
-    "fr": "Activités",
-    "it": "Attività",
-    "es": "Actividades",
-    "ru": "Активности",
-    "zh": "活动",
-    "zh2": "活動",
-    "pt": "Atividades"
+    "en": "Activities"
   },
   "menu_join_caravans": {
-    "en": "Caravans",
-    "pl": "Karawany",
-    "de": "Karawanen",
-    "fr": "Caravanes",
-    "it": "Carovane",
-    "es": "Caravanas",
-    "ru": "Караваны",
-    "zh": "商队",
-    "zh2": "商隊",
-    "pt": "Caravanas"
+    "en": "Caravans"
   },
   "menu_join_raids": {
-    "en": "Raids",
-    "pl": "Rajdy",
-    "de": "Raids",
-    "fr": "Raids",
-    "it": "Raid",
-    "es": "Incursiones",
-    "ru": "Рейды",
-    "zh": "突袭",
-    "zh2": "突襲",
-    "pt": "Reides"
+    "en": "Raids"
   },
   "ct_activity_join_paid": {
-    "en": "Paid join progress",
-    "pl": "Postęp płatnego dołączania",
-    "de": "Fortschritt (kostenpflichtig)",
-    "fr": "Progression de jonction payante",
-    "it": "Avanzamento ingresso a pagamento",
-    "es": "Progreso de unión de pago",
-    "ru": "Прогресс платного присоединения",
-    "zh": "付费加入进度",
-    "zh2": "付費加入進度",
-    "pt": "Progresso de entrada paga"
+    "en": "Paid join progress"
   },
   "menu_option_activity_compact": {
-    "en": "Compact (pages)",
-    "pl": "Kompaktowy (strony)",
-    "de": "Kompakt (Seiten)",
-    "fr": "Compact (pages)",
-    "it": "Compatto (pagine)",
-    "es": "Compacto (páginas)",
-    "ru": "Компактный (страницы)",
-    "zh": "紧凑（分页）",
-    "zh2": "精簡（分頁）",
-    "pt": "Compacto (páginas)"
+    "en": "Compact (pages)"
   },
   "menu_activity_cycle": {
-    "en": "Page switch time",
-    "pl": "Czas zmiany strony",
-    "de": "Seitenwechsel",
-    "fr": "Durée par page",
-    "it": "Tempo per pagina",
-    "es": "Tiempo por página",
-    "ru": "Время смены страницы",
-    "zh": "页面切换时间",
-    "zh2": "頁面切換時間",
-    "pt": "Tempo por página"
+    "en": "Page switch time"
   },
   "menu_activity_pinned": {
-    "en": "Pinned on every page",
-    "pl": "Przypięte na każdej stronie",
-    "de": "Auf jeder Seite angeheftet",
-    "fr": "Épinglés sur chaque page",
-    "it": "Fissati su ogni pagina",
-    "es": "Fijados en cada página",
-    "ru": "Закреплено на каждой странице",
-    "zh": "固定在每一页",
-    "zh2": "固定在每一頁",
-    "pt": "Fixados em cada página"
+    "en": "Pinned on every page"
   },
   "world_activity_sample_6": {
-    "en": "Sample activity 2",
-    "pl": "Przykładowa aktywność 2",
-    "de": "Beispielaktivität 2",
-    "fr": "Activité d'exemple 2",
-    "it": "Attività di esempio 2",
-    "es": "Actividad de ejemplo 2",
-    "ru": "Тестовая активность 2",
-    "zh": "示例活动 2",
-    "zh2": "範例活動 2",
-    "pt": "Atividade de exemplo 2"
+    "en": "Sample activity 2"
   },
   "world_activity_sample_7": {
-    "en": "Sample raid",
-    "pl": "Przykładowy rajd",
-    "de": "Beispiel-Raid",
-    "fr": "Raid d'exemple",
-    "it": "Raid di esempio",
-    "es": "Incursión de ejemplo",
-    "ru": "Тестовый рейд",
-    "zh": "示例突袭",
-    "zh2": "範例突襲",
-    "pt": "Reide de exemplo"
+    "en": "Sample raid"
   },
   "world_activity_sample_8": {
-    "en": "Sample caravan",
-    "pl": "Przykładowa karawana",
-    "de": "Beispielkarawane",
-    "fr": "Caravane d'exemple",
-    "it": "Carovana di esempio",
-    "es": "Caravana de ejemplo",
-    "ru": "Тестовый караван",
-    "zh": "示例商队",
-    "zh2": "範例商隊",
-    "pt": "Caravana de exemplo"
+    "en": "Sample caravan"
   },
   "world_activity_sample_9": {
-    "en": "Sample nuke drop 2",
-    "pl": "Przykładowy zrzut bomby 2",
-    "de": "Beispiel-Atomabwurf 2",
-    "fr": "Largage nucléaire d'exemple 2",
-    "it": "Lancio nucleare di esempio 2",
-    "es": "Lanzamiento nuclear de ejemplo 2",
-    "ru": "Тестовый ядерный удар 2",
-    "zh": "示例核弹投放 2",
-    "zh2": "範例核彈投放 2",
-    "pt": "Lançamento nuclear de exemplo 2"
+    "en": "Sample nuke drop 2"
   }
 }

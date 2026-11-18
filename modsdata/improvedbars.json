@@ -22,7 +22,8 @@
           "glowColor": "#8FE639",
           "percentageColor": "#FFFFCB",
           "labelColor": "#FFFFCB",
-          "color": "#FFFFCB"
+          "color": "#FFFFCB",
+          "hidden": false
         },
         "apMeter": {
           "x": 0,
@@ -32,24 +33,23 @@
           "segmentsColor": "#FF0000",
           "frameColor": "#181C1D",
           "labelColor": "#FFFFCB",
-          "color": "#FFFFCB"
-        },
-        "compass": {
-          "x": 0,
-          "y": 0,
-          "scaleFactor": 1
+          "color": "#FFFFCB",
+          "hidden": false
         },
         "questTracker": {
           "x": 0,
           "y": 0,
-          "scaleFactor": 1
+          "scaleFactor": 1,
+          "hidden": false
         },
         "frobber": {
           "color": "#F5CB5B",
-          "scaleFactor": 1
+          "scaleFactor": 1,
+          "hidden": false
         },
         "hudMessages": {
-          "scaleFactor": 1
+          "scaleFactor": 1,
+          "hidden": false
         },
         "quickContainer": {
           "spinnerColor": "#FFFFCB",
@@ -62,24 +62,40 @@
           "headerColor": "#F5CB5B",
           "bracketsColor": "#181C1D",
           "backgroundColor": "#181C1D",
-          "scaleFactor": 1
+          "scaleFactor": 1,
+          "hidden": false
         },
         "feralMeter": {
-          "scaleFactor": 1
-        },
-        "thirstMeter": {
-          "color": "#FFFFCB",
           "scaleFactor": 1,
-          "y": 0,
-          "x": 0
-        },
-        "hungerMeter": {
           "color": "#FFFFCB",
-          "scaleFactor": 1,
+          "hidden": false,
           "y": 0,
           "x": 0
         },
         "activeEffectIcons": {
+          "scaleFactor": 0.5,
+          "y": 0,
+          "x": 0,
+          "hidden": false
+        },
+        "rollover": {
+          "titleColor": "#F5CB5B",
+          "nameColor": "#F5CB5B"
+        },
+        "floatingMarkers": {
+          "color": "#FFFFCB"
+        },
+        "damageNumbers": {
+          "critColor": "#E9AE10",
+          "color": "#FFFFCB"
+        },
+        "critMeter": {
+          "textColor": "#F5CB5B",
+          "starsColor": "#FFFFCB",
+          "barColor": "#FFFFCB"
+        },
+        "miscQuestAnnounce": {
+          "hidden": false,
           "scaleFactor": 1,
           "y": 0,
           "x": 0
@@ -90,11 +106,24 @@
       "showHungerThirstIcons": true,
       "debugSettings": {
         "showDebug": false,
-        "showModInitializationMessage": true,
-        "showConfigReloadMessage": true
+        "showModInitializationMessage": true
       },
       "widgets": [
         {
+          "conditionboy": {
+            "enabled": false,
+            "showInHUDModes": [],
+            "hideInHUDModes": [],
+            "female": false,
+            "showPercentages": true,
+            "x": 1300,
+            "y": 900,
+            "scaleFactor": 0.59,
+            "alignRight": false
+          },
+          "challenges": {
+            "enabled": false
+          },
           "questtracker": {
             "enabled": false,
             "showBackground": true,
@@ -103,7 +132,8 @@
             "showProgress": true,
             "x": 820,
             "y": 180,
-            "scaleFactor": 1
+            "scaleFactor": 1,
+            "alignRight": false
           },
           "teammates": {
             "enabled": true,
@@ -129,14 +159,16 @@
             "showGlowPercentage": true,
             "x": 5,
             "y": 670,
-            "scaleFactor": 1
+            "scaleFactor": 1,
+            "alignRight": false
           },
           "targetmeter": {
             "enabled": false,
             "showStealthMeter": true,
             "x": 0,
             "y": 58,
-            "scaleFactor": 1
+            "scaleFactor": 1,
+            "alignRight": false
           },
           "activeeffects": {
             "enabled": true,
@@ -169,7 +201,8 @@
             "x": -170,
             "y": -1045,
             "scaleFactor": 0.7,
-            "bottomToTop": false
+            "bottomToTop": false,
+            "alignRight": false
           },
           "pickuphistory": {
             "enabled": false,
@@ -178,49 +211,55 @@
             "scaleFactor": 1,
             "alwaysVisible": false,
             "format": "({pickedUpCount}) {pickedUpText} | {lastPickedUpItemName} ({lastPickedUpItemCount})",
-            "ignoreList": []
+            "ignoreList": [],
+            "alignRight": false
           },
           "playerslist": {
             "enabled": false,
             "showTitles": true,
             "showNearestMapMarker": true,
             "x": -90,
-            "y": -120
+            "y": -120,
+            "alignRight": false
           },
           "playerscount": {
             "enabled": true,
             "x": 340,
-            "y": -11
+            "y": -11,
+            "alignRight": false
           },
           "xp": {
             "enabled": true,
             "percentage": true,
             "scaleFactor": 0.8,
-            "x": 25,
-            "y": -50
-          },
-          "effectstracker": {
-            "enabled": false,
-            "x": -10,
-            "y": -50,
-            "showLunchboxes": true
+            "x": -65,
+            "y": -152,
+            "alignRight": false,
+            "score": {
+              "enabled": true,
+              "x": 0,
+              "y": 107
+            }
           },
           "vendortracker": {
             "enabled": true,
             "x": -280,
             "y": -1040,
-            "minervaVendor": true
+            "minervaVendor": true,
+            "alignRight": false
           },
           "nukecodes": {
             "enabled": true,
             "x": -585,
-            "y": -1040
+            "y": -1040,
+            "alignRight": false
           },
           "weight": {
             "enabled": true,
             "x": -10,
             "y": -35,
-            "scale": 1
+            "scale": 1,
+            "alignRight": false
           },
           "currencies": {
             "enabled": true,
@@ -229,12 +268,14 @@
             "vertical": false,
             "x": -5,
             "y": -130,
-            "scale": 1
+            "scale": 1,
+            "alignRight": false
           },
           "cores": {
             "enabled": true,
             "x": 65,
-            "y": -35
+            "y": -35,
+            "alignRight": false
           },
           "clock": {
             "enabled": true,
@@ -242,7 +283,8 @@
             "use24hFormat": true,
             "x": 150,
             "y": -35,
-            "scale": 1
+            "scale": 1,
+            "alignRight": false
           },
           "weaponcond": {
             "enabled": true,
@@ -251,14 +293,22 @@
             "showWeaponIcon": true,
             "x": 0,
             "y": -90,
-            "scale": 1
+            "scale": 1,
+            "alignRight": false,
+            "condition": {
+              "y": 26
+            },
+            "grenade": {
+              "y": 31
+            }
           },
           "stats": {
             "enabled": true,
             "vertical": false,
             "showDiffs": true,
             "x": -10,
-            "y": -150
+            "y": -150,
+            "alignRight": false
           },
           "itemmonitor": {
             "enabled": true,
@@ -331,7 +381,8 @@
                 "labelcolor": "#FFFFCA"
               }
             ],
-            "scale": 1
+            "scale": 1,
+            "alignRight": false
           }
         }
       ],
@@ -400,7 +451,13 @@
               "separator": "#FFFFFF",
               "time": "#DDDDDD"
             },
-            "weaponcond": "#FFEEAA",
+            "weaponcond": {
+              "light": "#FFEEAA",
+              "grenade": "#FFEEAA",
+              "maxammo": "#DCCB9B",
+              "ammo": "#FFEEAA",
+              "weapon": "#FFEEAA"
+            },
             "pickuphistoryseparator": "#DDDDDD",
             "pickuphistory": "#FFFFCA",
             "playerslist": {
@@ -412,7 +469,12 @@
             "itemmonitor": "#FFFFCA",
             "vendors": "#FFFFCA",
             "playerscount": "#DDDDDD",
-            "clock": "#DDDDDD",
+            "clock": {
+              "localtime": "#FFFCC9",
+              "time": "#FFFCC9",
+              "separator": "#FFFCC9",
+              "location": "#FFFCC9"
+            },
             "cores": "#44EEFF",
             "currencies": {
               "maxValue": "#E63E30",
@@ -425,23 +487,145 @@
               "bullion": "#FFFFAA",
               "caps": "#FFFFAA"
             },
-            "weight": "#FFFFAA",
-            "effects": "#FFFFCA"
+            "weight": "#FFFFAA"
           }
         }
-      ]
+      ],
+      "vanillaProfileHudElements": {
+        "rollover": {
+          "titleColor": "#F5CB5B",
+          "nameColor": "#F5CB5B"
+        },
+        "floatingMarkers": {
+          "color": "#FFFFCB"
+        },
+        "damageNumbers": {
+          "critColor": "#E9AE10",
+          "color": "#FFFFCB"
+        },
+        "critMeter": {
+          "textColor": "#F5CB5B",
+          "starsColor": "#FFFFCB",
+          "barColor": "#FFFFCB"
+        },
+        "miscQuestAnnounce": {
+          "hidden": false,
+          "scaleFactor": 1,
+          "y": 0,
+          "x": 0
+        },
+        "questTracker": {
+          "hidden": false,
+          "scaleFactor": 1,
+          "y": 0,
+          "x": 0
+        },
+        "compass": {
+          "hideAreaQuest": false,
+          "hideQuestMarkers": false,
+          "hideIcons": false,
+          "hideBracket": false,
+          "hidden": false,
+          "scaleFactor": 1,
+          "y": 0,
+          "x": 0
+        },
+        "frobber": {
+          "color": "#F5CB5B",
+          "hidden": false,
+          "scaleFactor": 1
+        },
+        "hudMessages": {
+          "hidden": false,
+          "scaleFactor": 1
+        },
+        "quickContainer": {
+          "spinnerColor": "#FFFFCB",
+          "buttonHintsColor": "#FFFFCB",
+          "weightIconColor": "#FFFFCB",
+          "weightTextColor": "#FFFFCB",
+          "selectionColor": "#F5CB5B",
+          "selectedItemColor": "#181C1D",
+          "itemColor": "#FFFFCB",
+          "headerColor": "#F5CB5B",
+          "bracketsColor": "#181C1D",
+          "backgroundColor": "#181C1D",
+          "hidden": false,
+          "scaleFactor": 1
+        },
+        "grenadeCount": {
+          "hidden": false,
+          "scaleFactor": 1,
+          "y": 0,
+          "x": 0
+        },
+        "ammoCount": {
+          "hidden": false,
+          "scaleFactor": 1,
+          "y": 0,
+          "x": 0
+        },
+        "feralMeter": {
+          "color": "#FFFFCB",
+          "hidden": false,
+          "scaleFactor": 1,
+          "y": 0,
+          "x": 0
+        },
+        "thirstMeter": {
+          "color": "#FFFFCB",
+          "hidden": false,
+          "scaleFactor": 1,
+          "y": 0,
+          "x": 0
+        },
+        "hungerMeter": {
+          "color": "#FFFFCB",
+          "hidden": false,
+          "scaleFactor": 1,
+          "y": 0,
+          "x": 0
+        },
+        "activeEffectIcons": {
+          "hidden": false,
+          "scaleFactor": 0.5,
+          "y": 0,
+          "x": 0
+        },
+        "apMeter": {
+          "segmentsColor": "#FF0000",
+          "frameColor": "#181C1D",
+          "labelColor": "#FFFFCB",
+          "color": "#FFFFCB",
+          "showLabel": true,
+          "hidden": false,
+          "scaleFactor": 1,
+          "y": 0,
+          "x": 0
+        },
+        "hpMeter": {
+          "segmentsColor": "#000000",
+          "radiationColor": "#F67259",
+          "glowColor": "#8FE639",
+          "percentageColor": "#FFFFCB",
+          "labelColor": "#FFFFCB",
+          "color": "#FFFFCB",
+          "showLabel": true,
+          "hidden": false,
+          "scaleFactor": 1,
+          "y": 0,
+          "x": 0
+        }
+      },
+      "profile": "improved"
     }
   ],
   "segments": [
     {
       "health": true,
-      "hunger": true,
-      "thirst": true,
       "style": [
         {
-          "health": "single",
-          "hunger": "full",
-          "thirst": "full"
+          "health": "single"
         }
       ]
     }
@@ -461,5 +645,6 @@
       "postfix": "%"
     }
   ],
-  "_XPVAL_": 66195
+  "_XPVAL_": 148167,
+  "_WELCOMESHOWN_": "1.20.7"
 }

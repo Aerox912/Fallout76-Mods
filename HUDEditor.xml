@@ -4,7 +4,7 @@
 	<Mod_Options>
 	
 		<!--EditMode allows you to view changes to this file in real time-->
-		<EditMode>true</EditMode>
+		<EditMode>false</EditMode>
 		
 		<!-- 
 			No Clue Why the Default is 1.5. 
@@ -271,7 +271,7 @@
 			Overweight, Addiction, Mutations, Buffs, Ect.
 		-->
 			<ActiveEffects>
-				<Scale>.50</Scale>
+				<Scale>1</Scale>
 				<X>40</X>
 				<Y>-30</Y>
 				<PowerArmor>
@@ -312,7 +312,7 @@
 			<FeralMeter>
 				<Scale>.75</Scale>
 				<X>185</X>
-				<Y>-15</Y>
+				<Y>85</Y>
 			</FeralMeter>
 		
 		<!--

@@ -1,6 +1,6 @@
 {
 	"x": 1820,
-	"y": 910,
+	"y": 710,
 	"anchor": "bottom",
 	"ySpacing": -5,
 	"width": 400,
@@ -387,19 +387,19 @@
 		"showNuclearCodes",
 		"showSiloCooldowns",
 		
-		"showRaidXP",
+		//"showRaidXP",
 		//"showPetXPBar",
-		"showXPBar",
-		"showScoreBar",
-		"emptyspace:10",
+		//"showXPBar",
+		//"showScoreBar",
+		//"emptyspace:10",
 		
-		"text:orange:DAILY ({dailyProgress}) ({dailyExpireTime})",
-		"challenges:daily",
-		"emptyspace:10",
+		//"text:orange:DAILY ({dailyProgress}) ({dailyExpireTime})",
+		//"challenges:daily",
+		//"emptyspace:10",
 		
-		"text:orange:WEEKLY ({weeklyProgress}) ({weeklyExpireTime})",
-		"challenges:weekly",
-		"emptyspace:10",
+		//"text:orange:WEEKLY ({weeklyProgress}) ({weeklyExpireTime})",
+		//"challenges:weekly",
+		//"emptyspace:10",
 		
 		//"text:pink:MONTHLY ({monthlyProgress}) ({monthlyExpireTime})",
 		//"challenges:monthly",
@@ -419,8 +419,7 @@
 		"events:worldEvent",
 		"events:caravan"
 	],
-	
-	/* Custom color options:
+		/* Custom color options:
 	All displayData options: "showVersion", "showHUDMode", "showRenderTime"...
 	All challange options: daily, weekly, events, seasonal, character, survival, combat, social, world, fishing, burning_springs, skyline_valley, pets
 	All events options: mutatedEvent, publicEvent, worldEvent, caravan, infestation
@@ -462,12 +461,12 @@
 		"showNuclearCodes": "0xff3333",
 		"showEventTimer": "0xffff55",
 		
-		"daily": "0x99ff99",
-		"weekly": "0xddbbff",
-		"monthly": "0xffffcb",
-		"combat": "0xff5555",
-		"events": "0xccccff",
-		"fishing": "0x99ffff",
+		//"daily": "0x99ff99",
+		//"weekly": "0xddbbff",
+		//"monthly": "0xffffcb",
+		//"combat": "0xff5555",
+		//"events": "0xccccff",
+		//"fishing": "0x99ffff",
 		"burning_springs": "0xe56a5d",
 		"skyline_valley": "0x33cc33",
 		"pets": "0x55ff55",
@@ -478,10 +477,10 @@
 		"publicEvent": "0xffb300",
 		"worldEvent": "0xffffcb",
 		
-		"showScoreBar": "0xffffff",
-		"scoreBar": "0x0066ff",
-		"showXPBar": "0x99ff99",
-		"xpBar": "0x009900",
+		//"showScoreBar": "0xffffff",
+		//"scoreBar": "0x0066ff",
+		//"showXPBar": "0x99ff99",
+		//"xpBar": "0x009900",
 		"showPetXPBar": "0xffffcb",
 		"petXpBar": "0xffffcb",
 		
