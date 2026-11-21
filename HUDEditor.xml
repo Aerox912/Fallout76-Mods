@@ -4,7 +4,7 @@
 	<Mod_Options>
 	
 		<!--EditMode allows you to view changes to this file in real time-->
-		<EditMode>false</EditMode>
+		<EditMode>true</EditMode>
 		
 		<!-- 
 			No Clue Why the Default is 1.5. 
@@ -198,7 +198,7 @@
 		-->
 			<PerkPopUp>
 				<Scale>.50</Scale>
-				<X>-80</X>
+				<X>0</X>
 				<Y>500</Y>
 			</PerkPopUp>
 			
@@ -257,7 +257,7 @@
 			Only Applies if Your Ghoul Class, Auto Detects
 		-->
 			<GlowMeter>
-				<Scale>.75</Scale>
+				<Scale>0.7160</Scale>
 				<X>-20</X>
 				<Y>-25</Y>
 			</GlowMeter>
@@ -271,7 +271,7 @@
 			Overweight, Addiction, Mutations, Buffs, Ect.
 		-->
 			<ActiveEffects>
-				<Scale>1</Scale>
+				<Scale>0.5</Scale>
 				<X>40</X>
 				<Y>-30</Y>
 				<PowerArmor>

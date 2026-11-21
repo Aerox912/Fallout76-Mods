@@ -73,7 +73,7 @@
           "x": 0
         },
         "activeEffectIcons": {
-          "scaleFactor": 0.5,
+          "scaleFactor": 1,
           "y": 0,
           "x": 0,
           "hidden": false
@@ -285,6 +285,19 @@
             "y": -35,
             "scale": 1,
             "alignRight": false
+          },
+          "needs": {
+            "enabled": true,
+            "showInHUDModes": [
+              "Pipboy"
+            ],
+            "hideInHUDModes": [],
+            "warningThreshold": 35,
+            "criticalThreshold": 10,
+            "x": -192,
+            "y": -70,
+            "scaleFactor": 1.02,
+            "alignRight": true
           },
           "weaponcond": {
             "enabled": true,
@@ -588,7 +601,7 @@
         },
         "activeEffectIcons": {
           "hidden": false,
-          "scaleFactor": 0.5,
+          "scaleFactor": 1,
           "y": 0,
           "x": 0
         },
@@ -645,6 +658,6 @@
       "postfix": "%"
     }
   ],
-  "_XPVAL_": 148167,
+  "_XPVAL_": 62499,
   "_WELCOMESHOWN_": "1.20.7"
 }
