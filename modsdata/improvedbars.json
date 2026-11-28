@@ -188,12 +188,10 @@
               "Serum: Carnivore",
               "Serum: Eagle Eyes",
               "Serum: Egg Head",
-              "Serum: Grounded",
               "Serum: Herd Mentality",
               "Serum: Marsupial",
               "Serum: Scaly Skin",
               "Serum: Speed Demon",
-              "Serum: Unstable Isotope",
               "*C[2](AP+) Cooked Softshell Meat",
               " · Berry Mentats"
             ],
@@ -658,6 +656,6 @@
       "postfix": "%"
     }
   ],
-  "_XPVAL_": 77300,
+  "_XPVAL_": 55315,
   "_WELCOMESHOWN_": "1.20.7"
 }
